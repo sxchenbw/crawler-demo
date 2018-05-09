@@ -1,0 +1,820 @@
+[INFO]2018-05-08 19:03:23[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.resetCookie(ToutiaoDataInfoCrawler.java:151)] cookie==>UM_distinctid=1633f27bd713ad-0aa8e298da27f8-3c3c5905-100200-1633f27bd724ea; tt_webid=6553146256926377486; csrftoken=665bdfbfaba6b194cb271143dbfe796a; W2atIF=1; _ga=GA1.2.208499608.1525773011; _gid=GA1.2.1628626342.1525773011; _ba=BA0.2-20180508-51225-sKfF7iOkd5txoZXVrvkO
+[INFO]2018-05-08 19:03:24[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:48年过去了，为什么东方红一号仍然没有坠入大气层？, url:http://toutiao.com/group/6550135027806503437/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:24[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:如果爱因斯坦的这个预言应验，我们就能自由穿越时空！, url:http://toutiao.com/group/6552753769396830734/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:24[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:美国卫星对准我国西北内陆：这项工程开展，戈壁滩3年变化惊人, url:http://toutiao.com/group/6551646659091104269/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:24[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:海洋病危，这种无声的灾难正在悄然的蔓延整个地球, url:http://toutiao.com/group/6552800452147151364/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:24[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:既然引力是无限的，那能把它当作无限的能量源吗？, url:http://toutiao.com/group/6550854632225112590/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:24[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:无比震撼的大自然奇景……有些只有运气爆棚的人才有机会看到了, url:http://toutiao.com/group/6551911459792617987/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:25[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:历史探秘系列之毁灭人类的大洪水第二节, url:http://toutiao.com/group/6552432075595579912/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:25[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:又一火星探测器发射，“洞察号”任务前无古人, url:http://toutiao.com/group/6552836828980838915/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:25[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:北极出现罕见变化，带来新一轮的危机, url:http://toutiao.com/group/6552007150749614605/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:25[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:天王星和海王星真的在下钻石雨吗？这种奇观是怎么形成的？, url:http://toutiao.com/group/6552097105240916493/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:25[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:5颗小行星同时冲向地球？全世界只有中美有能力拦截, url:http://toutiao.com/group/6553079659439849997/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:25[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:宇宙诞生只用了几十个普朗克时间，而无数普朗克时间约等于一秒！, url:http://toutiao.com/group/6552509231470215684/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:25[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:北极冰面上的这三个黑窟隆里，究竟藏着什么秘密？, url:http://toutiao.com/group/6548952431307260424/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:25[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:为什么地球有昼夜之分，而太空却常年黑暗？, url:http://toutiao.com/group/6552817921331036679/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:26[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:比哈勃望远镜精确10倍的ALMA望远镜到底有多厉害？, url:http://toutiao.com/group/6463242087247643149/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:26[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:中国德比权健VS恒大首发：外援齐登场最强阵PK 刘奕鸣再会阿兰, url:http://toutiao.com/group/6553150815400362503/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:26[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:要被打解散了？德罗赞赛后垂头丧气，但队友瓦兰是真不客气！, url:http://toutiao.com/group/6553092353026949635/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:26[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:说到做到！威廉姆斯夺冠后裸奔 面对镜头羞涩挡脸 谢主席借他浴巾, url:http://toutiao.com/group/6553123996177531400/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:27[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:胡德拒绝上场激怒球迷，这一次我们站在泰伦卢这边, url:http://toutiao.com/group/6553124784517939719/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:27[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:女排喜讯！郎平喜迎中国女排最强援兵回归 朱婷携4冠军霸气回国, url:http://toutiao.com/group/6552855605437006340/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:27[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:真爱！大连球迷站车顶观看一方训练, url:http://toutiao.com/group/6553160424412414468/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:27[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:NBA最难破记录！现役3人上榜，哈登堪称无解！, url:http://toutiao.com/group/6531852236853608968/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:27[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:丁彦雨航已超胡卫东？1成就可比肩，2模板险成乔丹浓眉哥队友, url:http://toutiao.com/group/6553065663320031747/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:28[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:直击俄罗斯一家人露营：棕熊看护，其乐融融, url:http://toutiao.com/group/6552999119202288135/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:28[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:直击：印度征兵的现场，“尴尬”总是少不了的, url:http://toutiao.com/group/6550830814597218830/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:28[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:中国军人战场缴获一把刀，刀上有什么，竟让日本人不惜花天价赎回, url:http://toutiao.com/group/6543936647090668046/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:28[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:为何西方对我们推出小型潜艇惴惴不安？再次指责中国玩坏一项技术, url:http://toutiao.com/group/6551279237972623875/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:28[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:战场上狙击手最怕什么？不是孤军奋战，而是这种情况的出现, url:http://toutiao.com/group/6543497674274898440/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:28[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:日本六座坟墓葬着中国军人，碑文上刻着羞辱性文字，百年无人祭拜, url:http://toutiao.com/group/6549341980554428935/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:28[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:别看这国小，曾多次帮助中国，没有他们辽宁舰不知还要多少年出现, url:http://toutiao.com/group/6525613547668374030/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:28[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:新规来了！军人徒手5公里，不考了！新方式预示大变化, url:http://toutiao.com/group/6551140764754117127/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:29[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:黑枸杞好处多多，用黑枸杞泡水不注意这些，就浪费了, url:http://toutiao.com/group/6550858219470717453/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:29[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:体内有结石，可能是这么吃出来的 看完这篇，就知道怎么防治, url:http://toutiao.com/group/6552101509100732942/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:29[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:想要皮肤好，肝脏要养好，坚持这样做，肝好皮肤净, url:http://toutiao.com/group/6552483287778984461/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:29[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:患上痛风会有什么症状？出现这个“异常”，就要留意了, url:http://toutiao.com/group/6551532110073561614/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:03:29[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:200)] ==============>title:肝功能异常者牢记这四忌四宜，管住自己的嘴，善待自己的肝！, url:http://toutiao.com/group/6551533460446511629/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:09[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.resetCookie(ToutiaoDataInfoCrawler.java:155)] cookie==>UM_distinctid=1633f27bd713ad-0aa8e298da27f8-3c3c5905-100200-1633f27bd724ea; tt_webid=6553146256926377486; csrftoken=665bdfbfaba6b194cb271143dbfe796a; W2atIF=1; _ga=GA1.2.208499608.1525773011; _gid=GA1.2.1628626342.1525773011; _ba=BA0.2-20180508-51225-sKfF7iOkd5txoZXVrvkO
+[INFO]2018-05-08 19:21:10[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:当太阳死亡时会发生什么？, url:http://toutiao.com/group/6553091680986202627/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:10[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:NASA宇航员如何在太空行走中克服恐高症？, url:http://toutiao.com/group/6551570040536171021/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:10[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:核泄漏派谁抢险？自主学习机器人是更好的人选, url:http://toutiao.com/group/6553141885739729422/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:10[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:本田大法好，电动汽车领域继续黑科技, url:http://toutiao.com/group/6553007936996639239/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:10[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:远古时代的恐怖雕像：人类首次描绘邪恶力量, url:http://toutiao.com/group/6550601109319189006/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:11[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:霍金的几大预言能否实现？人工智能会超越人类，外星文明会出现！, url:http://toutiao.com/group/6551750862144799239/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:11[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:如果地球的自转方向改变，地球上会发生什么？, url:http://toutiao.com/group/6553088242990711309/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:11[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:科学家首次证实，地球公转轨道存在40.5万年周期性循环, url:http://toutiao.com/group/6553125196310512141/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:11[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:地球的矿不够采，人类马上要去太空中采矿？千亿亿美元等待发掘！, url:http://toutiao.com/group/6552653522817516035/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:11[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:科学家竟在酸性为自来水1000万倍的毒水湖中找到生命, url:http://toutiao.com/group/6551003250114429453/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:11[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:在太空中空间站内部的垃圾原来是这样被清理的？, url:http://toutiao.com/group/6551753461040415235/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:11[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:霍金生前最后一篇论文发表：宇宙更简单且有限，更推翻自己理论, url:http://toutiao.com/group/6551273422557544963/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:11[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:宇宙大爆炸学说成立吗，为什么大多数科学家都相信这一理论, url:http://toutiao.com/group/6462184822558163469/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:12[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:内讧？骑士东决收坏消息！小托马斯式毒瘤又来了，真不让詹皇省心, url:http://toutiao.com/group/6553130879638569476/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:12[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:阿比达尔：查出肝癌时，阿尔维斯愿意给我捐肝, url:http://toutiao.com/group/6552876480135692803/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:12[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:霸气！马龙丁宁泳池喝酒豪爽庆祝 国乒夺冠最大赢家浮现集体亮相, url:http://toutiao.com/group/6553058955810046467/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:12[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:骑士终于杀进东决了！但对手这一幕，却让骑士球迷都泪目了！, url:http://toutiao.com/group/6553086223676604941/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:13[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:曼城夺冠津琴科摔奖杯致敬拉莫斯，冬窗租借曼加拉不忘回家蹭奖牌, url:http://toutiao.com/group/6553112285227778564/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:13[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:少林护法释延觉展示怀旧情结，网友：期待被格斗狂人暴揍, url:http://toutiao.com/group/6553132256108478983/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:13[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:这才是猛龙被横扫的真相，心疼德罗赞，队友把他的心里话全说了！, url:http://toutiao.com/group/6553124615898530312/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:13[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:九旬母亲抚摸着两个烈士儿子墓碑，向俩儿子和军人老伴倾诉着思念, url:http://toutiao.com/group/6552804060364276238/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:13[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:代号“金孔雀”，首位歼10战斗机女飞行员，牺牲时年仅30岁, url:http://toutiao.com/group/6547626391578345987/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:14[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:日媒：F35对日本而言没用，因为歼20太强大, url:http://toutiao.com/group/6553143305742320135/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:14[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:中国抗日战争，日军损失多少人？, url:http://toutiao.com/group/6546511919442821640/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:14[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:泪目！19年前，美5枚导弹从天而降，中国驻南联盟大使馆一片狼藉, url:http://toutiao.com/group/6553104963587801614/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:14[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:被誉为“神炮手”，一炮击毙日军名将之花，建国后隐姓埋名55年, url:http://toutiao.com/group/6548364702827676163/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:14[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:二战苏联如果采用了此计划，整个日本将葬身海底！, url:http://toutiao.com/group/6546529040977625613/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:14[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:中国的机会来了：2架俄罗斯最大客机已失去买主, url:http://toutiao.com/group/6552782127987950083/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:15[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:四种恶性肿瘤能早期发现，坚持吃四种食物，能更好预防肿瘤, url:http://toutiao.com/group/6552361032503788045/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:15[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:常吃黑豆降血脂、延缓衰老，半个月后，身体会发生哪些改善？, url:http://toutiao.com/group/6552722326541042189/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:15[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:为了壮阳，他居然生吃泥鳅, url:http://toutiao.com/group/6552729191433896452/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:15[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:气血好身体才会好！3种便宜食物堪比补血药，比红枣的功效强多了, url:http://toutiao.com/group/6552005486055522824/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:15[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:女性吃哪些食物保养卵巢？多吃这6种食物，卵巢更健康, url:http://toutiao.com/group/6552765606825820686/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:15[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:患上胆结石后，这些食物即使再喜欢，也请你戒掉, url:http://toutiao.com/group/6551654292233650696/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:15[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:治疗牛皮癣贵在坚持，饮食上有什么需要注意的地方呢, url:http://toutiao.com/group/6552584905967010317/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:16[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:小米粥可以降血糖？小米粥觉得你想多了, url:http://toutiao.com/group/6552644750749467149/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:16[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:日常生活中预防乳腺癌的措施有哪些？早看早受益, url:http://toutiao.com/group/6552206612465975812/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:16[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:总是便秘怎么破，教你五招，助你大便通畅！, url:http://toutiao.com/group/6551306664375484941/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:16[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:别看柠檬水很酸，适当喝一喝，这6个益处让你“满足”, url:http://toutiao.com/group/6551202947642950147/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:16[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:补肾有奇招，这6种方法有补肾效果，不妨一试, url:http://toutiao.com/group/6553056932771398157/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:16[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:早上有这几个习惯的人，不是健康就是长寿！, url:http://toutiao.com/group/6551592180496990727/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:17[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:谢娜年收入上千万依旧节俭，宝宝用品都蹭章子怡孙俪的, url:http://toutiao.com/group/6553101387587125773/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:17[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:李诞在《向往的生活》懒成精，怪不得天天都被女朋友骂！, url:http://toutiao.com/group/6553050658763702798/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:21:17[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:我家暖心的周冬雨这手语比划起来，你还不来默默的点赞吗？, url:http://toutiao.com/group/6553102280940323332/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:22:26[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.resetCookie(ToutiaoDataInfoCrawler.java:155)] cookie==>UM_distinctid=1633f27bd713ad-0aa8e298da27f8-3c3c5905-100200-1633f27bd724ea; tt_webid=6553146256926377486; csrftoken=665bdfbfaba6b194cb271143dbfe796a; W2atIF=1; _ga=GA1.2.208499608.1525773011; _gid=GA1.2.1628626342.1525773011; _ba=BA0.2-20180508-51225-sKfF7iOkd5txoZXVrvkO
+[INFO]2018-05-08 19:23:33[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:203)] ==============>title:被称为“计算机之父”，他超前的思维揭开计算机处理信息的本质！, url:http://toutiao.com/group/6540039759408923143/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:25:14[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:203)] ==============>title:维度的本质是什么？世界到底有多少维度？, url:http://toutiao.com/group/6551296346446365188/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:26:03[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.resetCookie(ToutiaoDataInfoCrawler.java:155)] cookie==>UM_distinctid=1633f27bd713ad-0aa8e298da27f8-3c3c5905-100200-1633f27bd724ea; tt_webid=6553146256926377486; csrftoken=665bdfbfaba6b194cb271143dbfe796a; W2atIF=1; _ga=GA1.2.208499608.1525773011; _gid=GA1.2.1628626342.1525773011; _ba=BA0.2-20180508-51225-sKfF7iOkd5txoZXVrvkO
+[INFO]2018-05-08 19:27:08[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:203)] ==============>title:最新研究：太阳死后将变巨大发光“泡沫”，地球将失去生机, url:http://toutiao.com/group/6553091754688512519/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:65)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:66)] {"summary":"200年后，世界东方。高擎马克思主义的精神火炬，在习近平新时代中国特色社会主义思想指引下，中国共产党正领导亿万人民书写人类发展史上新的奇迹。","dis_recommend":true,"is_gov":false,"itemid":"0Iz5HRYc","impid":"385806_1525779258640_4926","date":"2018-05-07 11:29:00","meta":"385806_1525779258640_4926","feedback_forbidden":true,"docid":"0Iz5HRYc","title":"真理的光芒","dtype":0,"content_type":"news","b_political":true,"pageid":"Homepage","tags":["tag_weibo_pop"],"comment_count":121,"extra":[],"ctype":"news","title_sn":0,"like":1045,"url":"http://xhpfmapi.zhongguowangshi.com/vh500/#/share/3475810","up":1642,"card_position":["best"],"category":"时政","source":"新华社","edit_cover":true,"display_flag":0,"auth":true}
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:67)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:78)] docid:0Iz5HRYc, title:真理的光芒
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] source:新华社, date:2018-05-07 11:29:00, category:时政
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] summary:200年后，世界东方。高擎马克思主义的精神火炬，在习近平新时代中国特色社会主义思想指引下，中国共产党正领导亿万人民书写人类发展史上新的奇迹。
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] image:null
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:82)] image_urls:null
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:83)] ---------------------------------------
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:84)] tag_name:null, card_label:null
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:85)] ---------------------------------------
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:87)] content:<div class="content-bd">
+ <p>原标题:真理的光芒</p>
+ <p>
+  <video src="http://video.yidianzixun.com/video/get-url?key=user_upload/1525664193237af7c26aada778be2fc52075b13b60672.mp4" type="video/mp4" poster="http://si1.go2yd.com/get-image/0MxCmr5KvBY" controls="" playsinline="" webkit-playsinline="webkit-playsinline" style="margin: 0px; padding: 0px; background-color: black; width: 100%; height: 100%; z-index: 1;background-size: 100% 100%;"></video></p>
+ <p>历史长河奔流不息，真理的光芒穿越时空。</p>
+ <p>1818年5月5日，一代伟人<a href="/channel/w/马克思">马克思</a>诞生。</p>
+ <p>200年后，世界东方。高擎<a href="/channel/w/马克思主义">马克思主义</a>的精神火炬，在<a href="/channel/w/习近平">习近平</a>新时代中国特色社会主义思想指引下，<a href="/channel/w/中国共产党">中国共产党</a>正领导亿万人民书写人类发展史上新的奇迹。</p>
+ <p>“历史和人民选择马克思主义是完全正确的，<a href="/channel/w/中国共产党">中国共产党</a>把马克思主义写在自己的旗帜上是完全正确的，坚持马克思主义基本原理同中国具体实际相结合、不断推进马克思主义中国化时代化是完全正确的！”</p>
+ <p><a href="/channel/w/习近平">习近平</a>总书记向世人庄严宣示——“前进道路上，我们要继续高扬<a href="/channel/w/马克思主义">马克思主义</a>伟大旗帜，让马克思、<a href="/channel/w/恩格斯">恩格斯</a>设想的人类社会美好前景不断在中国大地上生动展现出来！”</p>
+ <p>为人民谋幸福，为民族谋复兴，为世界谋大同。真理的光芒，将照耀我们，不忘初心，继续前行！</p>
+ <p>今天，新华社推出纪念<a href="/channel/w/马克思">马克思</a>诞辰200周年特别策划《真理的光芒》。</p>
+ <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0Iz5HR4gdA"></span></p>
+ <p><abbr id="yidian_editor">责任编辑：张丹凤</abbr></p>
+</div>
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:89)] ***************************************
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:65)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:66)] {"summary":"“新时代，中国共产党人仍然要学习马克思，学习和实践马克思主义，不断从中汲取科学智慧和理论力量。”在纪念马克思诞辰200周年大会上，习近平总书记要求全党同志特别是各级领导干部要更加自觉、更加刻苦地学习马克思列宁主义，学习毛泽东思想、邓小平理论、“三个代表”重要思","dis_recommend":true,"is_gov":false,"itemid":"0IzLBKyS","impid":"385806_1525779258640_4926","date":"2018-05-07 18:00:00","meta":"385806_1525779258640_4926","feedback_forbidden":true,"docid":"0IzLBKyS","title":"不断汲取马克思主义的科学智慧和理论力量","dtype":1,"content_type":"news","b_political":true,"pageid":"Homepage","tags":["tag_weibo_pop"],"comment_count":102,"extra":[],"ctype":"news","image_urls":["0IzLBKokd9"],"image":"0IzLBKokd9","title_sn":0,"like":1499,"url":"https://mp.weixin.qq.com/s/GLhGHpD7YV4oNzf44H9F_A","upload_images":["0IzLBKokd9"],"up":1402,"card_position":["best"],"category":"文化","source":"人民日报评论","display_flag":0,"auth":true}
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:67)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:78)] docid:0IzLBKyS, title:不断汲取马克思主义的科学智慧和理论力量
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] source:人民日报评论, date:2018-05-07 18:00:00, category:文化
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] summary:“新时代，中国共产党人仍然要学习马克思，学习和实践马克思主义，不断从中汲取科学智慧和理论力量。”在纪念马克思诞辰200周年大会上，习近平总书记要求全党同志特别是各级领导干部要更加自觉、更加刻苦地学习马克思列宁主义，学习毛泽东思想、邓小平理论、“三个代表”重要思
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] image:0IzLBKokd9
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:82)] image_urls:["0IzLBKokd9"]
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:83)] ---------------------------------------
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:84)] tag_name:null, card_label:null
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:85)] ---------------------------------------
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:87)] content:<div class="content-bd">
+ <p><strong>不断汲取<a href="/channel/w/马克思主义">马克思主义</a>的科学智慧和理论力量</strong></p>
+ <p>——三论习近平总书记纪念<a href="/channel/w/马克思">马克思</a>诞辰200周年大会讲话</p>
+ <p> </p>
+ <p>实现中华民族伟大复兴，一刻也不能没有理论思维；认识和改造客观世界，一刻也离不开马克思主义这一强大思想武器。</p>
+ <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IzLBKokd9"></span></p>
+ <p>“新时代，<a href="/channel/w/中国共产党">中国共产党</a>人仍然要学习马克思，学习和实践马克思主义，不断从中汲取科学智慧和理论力量。”在纪念马克思诞辰200周年大会上，习近平总书记要求全党同志特别是各级领导干部要更加自觉、更加刻苦地学习马克思列宁主义，学习<a href="/channel/w/毛泽东思想">毛泽东思想</a>、邓小平理论、“三个代表”重要思想、科学发展观，学习新时代中国特色社会主义思想。要深入学、持久学、刻苦学，带着问题学、联系实际学，更好把科学思想理论转化为认识世界、改造世界的强大物质力量。总书记的重要讲话，为我们学习和实践马克思主义、进一步用科学理论武装头脑提供了方法和指南。<br></p>
+ <p>中国共产党是用马克思主义武装起来的政党，马克思主义是中国共产党人理想信念的灵魂。历史与实践充分证明，中国共产党虽历经艰难困苦而不断发展壮大，一个重要原因就是始终重视思想建党、理论强党。新时代，中国共产党人要把读马克思主义经典、悟马克思主义原理当作一种<a href="/channel/w/生活习惯">生活习惯</a>、精神追求，用经典涵养正气、淬炼思想、升华境界、指导实践。</p>
+ <p>马克思主义思想理论博大精深、常学常新。新时代我们学习<a href="/channel/w/马克思">马克思</a>，要像习近平总书记所要求的，学习和实践马克思主义关于人类社会发展规律的思想、关于坚守人民立场的思想、关于生产力和生产关系的思想、关于人民民主的思想、关于文化建设的思想、关于社会建设的思想、关于人与自然关系的思想、关于世界历史的思想、关于马克思主义政党建设的思想。坚持系统地而不是零碎地、实际地而不是空洞地学，以更宽广的视野、更长远的眼光来思考把握未来发展面临的一系列重大问题，我们就一定能更有定力、更有自信、更有智慧地坚持和发展新时代中国特色社会主义，确保中华民族伟大复兴的巨轮始终沿着正确航向破浪前行。</p>
+ <p><span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IzLBKGT7A"></span></p>
+ <p>实践的观点、生活的观点是<a href="/channel/w/马克思主义认识论">马克思主义认识论</a>的基本观点，实践性是<a href="/channel/w/马克思主义理论">马克思主义理论</a>区别于其他理论的显著特征。只有坚持学以致用、用以促学，原原本本学，熟读精思、学深悟透，才能熟练掌握马克思主义立场、观点、方法，不断提高<a href="/channel/w/马克思主义理论">马克思主义理论</a>素养。问题是事物矛盾的表现形式，只有不断强化问题意识、坚持问题导向，聚焦我国<a href="/channel/w/改革开放">改革开放</a>和社会主义现代化建设面临的重大现实问题、全局性战略问题、人民群众关心关注的热点难点问题，自觉运用马克思主义深入分析现实问题，我们才能为解决问题提供新理念、新思路、新办法。</p>
+ <p>“<a href="/channel/w/中国共产党">中国共产党</a>人依靠学习走到今天，也必然要依靠学习走向未来。”不断汲取马克思主义的科学智慧和理论力量，不断提高全党运用<a href="/channel/w/马克思主义">马克思主义</a>基本原理解决当代中国实际问题的能力和水平，进行伟大斗争、建设伟大工程、推进伟大事业、实现伟大梦想，我们将谱写新时代坚持和发展中国特色社会主义新篇章。</p>
+ <abbr id="yidian_editor">责任编辑：张丹凤</abbr>
+</div>
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:89)] ***************************************
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:65)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:66)] {"summary":"立法会政制事务委员会连续第二周举办的《国歌法》公听会，共分为四节，每节都先邀请与会的公众人士逐一发言，再由官员和议员进行回应和跟进。据香港《东方日报》6日报道，在公听会上，“学联”主席张倩盈狂言“一听到国歌就想呕”。香港专业及资深行政人员协会政治及公共行政委员","is_gov":false,"itemid":"0IywqNDQ","impid":"385806_1525779258640_4926","date":"2018-05-07 08:13:39","meta":"385806_1525779258640_4926","feedback_forbidden":false,"docid":"0IywqNDQ","title":"一听国歌就想呕？“港独”闹场被驱逐","dtype":3,"theme_fromid":"t36296","content_type":"news","b_political":true,"pageid":"Homepage","tags":[],"comment_count":158,"extra":[],"ctype":"news","image_urls":["http://si1.go2yd.com/get-image/0Mwy10UAvBY","http://si1.go2yd.com/get-image/0Mwy10bemi8","http://si1.go2yd.com/get-image/0Mwy10VnOXw"],"image":"http://si1.go2yd.com/get-image/0Mwy10UAvBY","title_sn":0,"like":1185,"url":"https://mp.weixin.qq.com/s/bywZ5g0EYRmaomE2OWvVuQ","upload_images":["http://si1.go2yd.com/get-image/0Mwy10UAvBY","http://si1.go2yd.com/get-image/0Mwy10bemi8","http://si1.go2yd.com/get-image/0Mwy10VnOXw"],"up":8434,"card_position":["best"],"category":"时政,国际","source":"环球网","display_flag":0,"auth":true}
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:67)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:78)] docid:0IywqNDQ, title:一听国歌就想呕？“港独”闹场被驱逐
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] source:环球网, date:2018-05-07 08:13:39, category:时政,国际
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] summary:立法会政制事务委员会连续第二周举办的《国歌法》公听会，共分为四节，每节都先邀请与会的公众人士逐一发言，再由官员和议员进行回应和跟进。据香港《东方日报》6日报道，在公听会上，“学联”主席张倩盈狂言“一听到国歌就想呕”。香港专业及资深行政人员协会政治及公共行政委员
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] image:http://si1.go2yd.com/get-image/0Mwy10UAvBY
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:82)] image_urls:["http://si1.go2yd.com/get-image/0Mwy10UAvBY","http://si1.go2yd.com/get-image/0Mwy10bemi8","http://si1.go2yd.com/get-image/0Mwy10VnOXw"]
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:83)] ---------------------------------------
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:84)] tag_name:null, card_label:null
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:85)] ---------------------------------------
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:87)] content:<div class="content-bd">
+ <p>原标题:“港独”闹场：我一听国歌就想呕！</p>
+ <p>“港独”扰乱<a href="/channel/w/国歌法">国歌法</a>公听会。</p>
+ <p><a href="/channel/w/香港立法会">香港立法会</a>就《国歌法》本地立法5日举行超过7小时的公听会，近百名发言人士及团体代表出席。但是反对派多番扰乱会议，结果遭到驱逐。</p>
+ <p>立法会政制事务委员会连续第二周举办的《国歌法》公听会，共分为四节，每节都先邀请与会的公众人士逐一发言，再由官员和议员进行回应和跟进。据香港《<a href="/channel/w/东方日报">东方日报</a>》6日报道，在公听会上，“学联”主席张倩盈狂言“一听到国歌就想呕”。香港专业及资深行政人员协会政治及公共行政委员姚洁凝随即狠批，“请你离开香港，不要搞乱香港。”</p>
+ <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IywqN5ScF"></span></p>
+ <p>范国威</p>
+ <p>泛民议员范国威在发言结束后，故意点名邀请“市民”张倩盈，用他剩余的发言时间再度发言。主持会议的政制事务委员会主席廖长江表明，发言时间的分配应由主席决定，而他刚才已裁决公众发言环节完结。范国威仍不依不饶，但廖长江反复强调，不能任意请个别人士再进行补充，否则会造成不公。眼见获得反对派“群星拱照”的机会正在流失，张倩盈立即从座位起身，自顾自地发言，范国威则继续助攻，在座位上叫嚣。</p>
+ <p><span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IywqN9dfP"></span></p>
+ <p>张倩盈自顾自地发言</p>
+ <p><span id="article-img-2" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IywqNTNkL"></span></p>
+ <p>范国威被保安驱逐离开会议厅，其间一度推撞保安员至双双倒地 /电视截图<br></p>
+ <p>廖长江于是把二人赶离会议室，并表示“我就是腰斩这个会议，都不会给你捣乱”。其间范国威推撞执行职务的保安，导致双双倒地。香港《大公报》翻查资料后发现，张倩盈3月出任“学联”主席，其后受访时扬言会就《国歌法》抗争，包括以身试法嘘国歌，甚至不惜负上刑责。此前在2016年11月，她还在“城市论坛”上公开鼓吹暴动，称释法下当然要像旺角暴乱般上街抗争，“‘港独’从来都是一条路”。</p>
+ <p><span id="article-img-3" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IywqNaAdD"></span></p>
+ <p>资料图：张倩盈扬言日后会采取嘘国歌手段达到所谓“公民抗命”。</p>
+ <p>到了下午，“乱港派”更加肆无忌惮。打着“港独”旗号的“学生独立联盟”代表陈家驹发言时公然狂喊“香港独立、以死相搏”口号，企图冲上前展示写有“Hong Kong is not China”（“香港不是中国”）的“港独”旗帜。他随即被当时主持会议的委员会副主席周浩鼎驱逐。之后发言的“香港众志”黄之锋竟力挺陈家驹。</p>
+ <p><span id="article-img-4" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IywqNuvIx"></span></p>
+ <p>打着“港独”旗号的“学生独立联盟”代表陈家驹发言时公然狂喊“香港独立、以死相搏”口号，被当时主持会议的委员会副主席周浩鼎驱逐。</p>
+ <p>面对“港独”分子叫嚣，与会多数人士都支持《<a href="/channel/w/国歌法">国歌法</a>》本地立法。港区全国人大代表陈曼琪称，立法保护国歌是应有之义。自由党深水埗区议员李梓敬说，连国际足联都对香港球迷侮辱国歌行为看不过眼，“如果你连自己也不尊重时，其他国家的人又怎会尊重你？”政制及内地事务局局长聂德权强调，立法并非惩罚机制，不是要强迫市民爱国，期望市民勿流于偏激。</p>
+ <p><span id="article-img-5" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IywqNcBdD"></span></p>
+ <p>有评论称，“港独”分子是钻了香港没有国家安全法的空子，是国家安全的破坏者、香港<a href="/channel/w/法治">法治</a>的破坏者，是种种乱象的根源。香港《<a href="/channel/w/文汇报">文汇报</a>》也说，反对派向来唯恐天下不乱，他们真正关心的只是出位表演、个人利益而已。</p>
+ <abbr id="yidian_editor">责任编辑：王浩成</abbr>
+</div>
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:89)] ***************************************
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:65)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:66)] {"summary":"过往几年，三星在中国的用工人数大幅跌落，其工厂也渐渐由中国转移至东南亚。截至目前，三星在中国的用工人数不足3000人，而在东南亚地区的用工人数却达到了14万，比当年极盛时期的中国还多出4万。除此之外，三星去年在越南砸下的100亿美金的投资，更是占到了去年越南工","is_gov":false,"itemid":"0IyuM7K7","impid":"385806_1525779258640_4926","date":"2018-05-07 04:43:29","meta":"385806_1525779258640_4926","feedback_forbidden":false,"docid":"0IyuM7K7","title":"外资迅速撤离中国，到底发生了什么","dtype":3,"b_political":false,"content_type":"news","pageid":"Homepage","tags":[],"comment_count":1278,"extra":[],"ctype":"news","image_urls":["0IyuM726fP","0IyuM76vEo","0IyuM7Y1oO"],"image":"0IyuM726fP","title_sn":0,"like":747,"url":"http://www.yidianzixun.com/mp/content?id=56996715","up":1245,"card_position":["best"],"category":"财经","source":"政商阅读","display_flag":0,"wemedia_id":317122,"wemedia_info":{"summary":"纵览财经大事，提供有意思有价值的延伸阅读","fromId":"m317122","rank":3,"authentication":"","name":"政商阅读","plus_v":0,"source_type":1,"media_domain":"财经","image":"http://si1.go2yd.com/get-image/0CPeyJTx3Gy","type":"media","channel_id":"m317122"},"auth":true}
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:67)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:78)] docid:0IyuM7K7, title:外资迅速撤离中国，到底发生了什么
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] source:政商阅读, date:2018-05-07 04:43:29, category:财经
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] summary:过往几年，三星在中国的用工人数大幅跌落，其工厂也渐渐由中国转移至东南亚。截至目前，三星在中国的用工人数不足3000人，而在东南亚地区的用工人数却达到了14万，比当年极盛时期的中国还多出4万。除此之外，三星去年在越南砸下的100亿美金的投资，更是占到了去年越南工
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] image:0IyuM726fP
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:82)] image_urls:["0IyuM726fP","0IyuM76vEo","0IyuM7Y1oO"]
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:83)] ---------------------------------------
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:84)] tag_name:null, card_label:null
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:85)] ---------------------------------------
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:87)] content:<div class="content-bd">
+ <p><strong>文/巴九灵 来源：<a href="/channel/w/吴晓波频道">吴晓波频道</a></strong></p>
+ <p>4月27日，<a href="/channel/w/韩国">韩国</a>三星正式关闭其在中国大陆唯一一家<a href="/channel/w/网络设备">网络设备</a>生产企业——深圳<a href="/channel/w/三星电子">三星电子</a><a href="/channel/w/通信公司">通信公司</a>，并遣散了320人。</p>
+ <p>过往几年，三星在中国的用工人数大幅跌落，其工厂也渐渐由中国转移至<a href="/channel/w/东南亚">东南亚</a>。截至目前，三星在中国的用工人数不足3000人，而在东南亚地区的用工人数却达到了14万，比当年极盛时期的中国还多出4万。除此之外，三星去年在<a href="/channel/w/越南">越南</a>砸下的100亿美金的投资，更是占到了去年越南<a href="/channel/w/工业总产值">工业总产值</a>的15%左右。</p>
+ <p>纵观这十年，我们会发现，<strong>外资工厂从中国撤离已经变成了一种非常显著的现象。</strong>而外资之所以大量涌入，得益于中国在<a href="/channel/w/改革开放">改革开放</a>之初所实行的进口替代战略：以优惠的土地<a href="/channel/w/税收政策">税收政策</a>与廉价劳动力吸引国际公司，促使它们将工厂搬至中国。</p>
+ <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IyuM726fP"></span></p>
+ <p>所以，当时的<a href="/channel/w/中国经济">中国经济</a>之所以能取得累累硕果，主要来源于这两种所有制力量的增长：本土<a href="/channel/w/民营企业">民营企业</a>的壮大和外资企业的涌入。</p>
+ <p>不过，随着土地和劳动力成本的提高，以及对外资超国民待遇的取消，2008年以后，大量的工厂开始从中国撤出。</p>
+ <p>第一起引人关注的事件发生于2009年3月，耐克关闭了它在中国的唯一一家鞋类生产工厂，遣散了1400名员工，引发了当时大规模的工人罢工。但相比于耐克，在2012年，另外一个运动鞋厂商<a href="/channel/w/阿迪达斯">阿迪达斯</a>则做出了两个颇有意思的决定。</p>
+ <p>一方面，它宣布将在中国新开1100多家分店，另一方面，它也宣布关闭在中国的唯一一家自有工厂，将生产线迁移至东南亚的缅甸。</p>
+ <p>这两个决定看似矛盾，却说明了一个事实——中国日益增长的内需是这些外资企业需要的，但是各种成本的提高又让他们被迫把工厂撤离。</p>
+ <p><span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IyuM76vEo"></span></p>
+ <p>人力的低成本优势一直是<a href="/channel/w/中国制造">中国制造</a>在全球竞争中获胜的关键因素之一，然而这项优势正在慢慢丧失。<br></p>
+ <p>今年年初，新发布的《经济蓝皮书：<a href="/channel/w/中国经济">中国经济</a>前景分析》指出，目前，<a href="/channel/w/中国制造">中国制造</a>业的劳动力成本已趋近<a href="/channel/w/美国">美国</a>。不仅人均工资水平年涨幅位列全球第一，达到了8%，东南沿海地区的人均工资水平更是远超东南亚国家，人均成本是<a href="/channel/w/柬埔寨">柬埔寨</a>的4.3倍，越南的2.7倍，印度的2倍，印尼的1.8倍。</p>
+ <p>在这种情况下，三星、耐克与<a href="/channel/w/阿迪达斯">阿迪达斯</a>可以一走了之，但是对于中国本土的制造业来说无疑是一个严峻的挑战，一种产业转型与升级的倒逼机制。</p>
+ <p>眼下，有的企业开始将生产线搬至东南亚，有的企业则尝试用机器人来替代一线的产业工人，而还有些企业，它们希望通过开发核心技术，升级产业来摆脱劳动成本的压力。</p>
+ <p>有一次，我在深圳的一家外资企业做调研，公司负责人正要将自己的工厂搬去越南。我问他原因，他说了两点。</p>
+ <p>第一个原因，东南亚的人均劳动力成本远远低于中国。他说在深圳的工业园区，一个蓝领工人的月薪起码在5000元以上，加上五险一金及各种生活配套，起码要支付1.2万元人民币左右。<strong>但在<a href="/channel/w/越南">越南</a>，这个成本只有1000元人民币。</strong></p>
+ <p>第二个原因，<a href="/channel/w/东南亚">东南亚</a>各国效仿30多年前中国的做法，在吸引外资上给予了各种各样的优惠政策。</p>
+ <p>这种外资工厂的大规模撤离，对中国<a href="/channel/w/产业经济">产业经济</a>的影响是非常巨大的。</p>
+ <p>比如在拥有2万多外企的广州，外企已占据全市工业总产值规模的62%以上，在上海，外资则贡献了全市2/3的进出口总额与<a href="/channel/w/工业总产值">工业总产值</a>。而在苏州和厦门，这项指标也分别达到了67%和70%。</p>
+ <p><span id="article-img-2" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IyuM7Y1oO"></span></p>
+ <p>同时，这些外资工厂也给中国贡献了大约3000万的就业岗位，若再加上相关配套的内资企业，这个数据可能要再翻两倍。</p>
+ <p>中国经过40年的发展，成为了全球最大的制造业大国。但是，外资的大规模撤离在未来的几年仍将是一个不可避免的景象，它们的离去不仅给我们留下了一个巨大的产业空间，也促使我们加紧反思该如何降低制造业的成本，更重要的是降低税收与营商环境的成本。</p>“本文已获得吴晓波频道授权，推荐关注财经第一自媒体－
+ <a href="/channel/w/吴晓波频道">吴晓波频道</a>”
+</div>
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:89)] ***************************************
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:65)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-08 19:34:18[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:66)] {"summary":"李师傅在一家配件加工厂当维修工，工作了8年多了，工资却还是和刚进厂时一样，才5000块钱，长时间被家人嘟囔，李师傅也不堪其扰，那天就准备找老板谈涨工资的事，老板却很爽快的答应了他，并且给他涨2000块钱，不过，老板提了一个要求，让李师傅带徒弟，李师傅见老板给自","is_gov":false,"itemid":"0IycGEmH","impid":"385806_1525779258640_4926","date":"2018-05-06 05:15:25","meta":"385806_1525779258640_4926","feedback_forbidden":false,"docid":"0IycGEmH","title":"老员工教会徒弟却被开除，临走前检查了一遍机器，隔天老板哭了","dtype":3,"b_political":false,"content_type":"news","wm_copyright":"原创","pageid":"Homepage","tags":[],"comment_count":1041,"extra":[],"ctype":"news","image_urls":["0IycGEDNTM","0IycGEgjmy","0IycGEqvi1"],"image":"0IycGEDNTM","title_sn":0,"like":280,"upload_images":["0IycGEDNTM","0IycGEgjmy","0IycGEqvi1"],"url":"http://www.yidianzixun.com/mp/content?id=56908628","up":1050,"card_position":["best"],"category":"职场","source":"职场实战经验","display_flag":0,"wemedia_id":845043,"wemedia_info":{"summary":"每天分享职场故事、职场案例、和领导同事相处技巧等职场经验！","fromId":"m845043","rank":4,"authentication":"","name":"职场实战经验","plus_v":0,"source_type":1,"media_domain":"职场","image":"http://si1.go2yd.com/get-image/0KZiuI6ohCS","type":"media","channel_id":"m845043"},"auth":true}
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:67)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:78)] docid:0IycGEmH, title:老员工教会徒弟却被开除，临走前检查了一遍机器，隔天老板哭了
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] source:职场实战经验, date:2018-05-06 05:15:25, category:职场
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] summary:李师傅在一家配件加工厂当维修工，工作了8年多了，工资却还是和刚进厂时一样，才5000块钱，长时间被家人嘟囔，李师傅也不堪其扰，那天就准备找老板谈涨工资的事，老板却很爽快的答应了他，并且给他涨2000块钱，不过，老板提了一个要求，让李师傅带徒弟，李师傅见老板给自
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] image:0IycGEDNTM
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:82)] image_urls:["0IycGEDNTM","0IycGEgjmy","0IycGEqvi1"]
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:83)] ---------------------------------------
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:84)] tag_name:null, card_label:null
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:85)] ---------------------------------------
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:87)] content:<div class="content-bd">
+ <!-- wemedia true -->
+ <div id="imedia-article" class="imedia-article">
+  <p>每天分享职场干货、<a href="/channel/w/职场故事">职场故事</a>、职场案例、和领导同事相处技巧等职场经验！</p>
+  <p>图：网络 文：职场实战经验</p>
+  <p><a href="/channel/w/李师傅">李师傅</a>在一家配件加工厂当维修工，工作了8年多了，工资却还是和刚进厂时一样，才5000块钱，长时间被家人嘟囔，李师傅也不堪其扰，那天就准备找老板谈涨工资的事，老板却很爽快的答应了他，并且给他涨2000块钱，不过，老板提了一个要求，让李师傅带徒弟，李师傅见老板给自己涨了这么多工资，也就答应教徒弟。</p>
+  <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IycGE3gV0"></span></p>
+  <p>徒弟叫小飞，李师傅听其他工人说小飞是老板的外甥，用了两个月的时间，小飞就在李师傅的精心教导下，把维修和保养设备的技术及流程摸透了。</p>
+  <p>小飞学会后，却像变了个人一样，目中无人，还对李师傅大吼大叫，终于在一次抢修设备时，李师傅和小飞打了一架，李师傅的头都被小飞打破了。</p>
+  <p><span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IycGE3R7n"></span></p>
+  <p>但是事后工厂却做出了把李师傅开除的决定，李师傅还在医院住院，听到这个消息，也是很寒心，他没想到老板会这么对他，但是随后一星期，工厂里的机器故障频频，小飞解决不了，老板没有办法，又和李师傅打电话，准备把李师傅请回来，可是李师傅直接拒绝了老板。</p>
+  <p><span id="article-img-2" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IycGEa3jS"></span></p>
+  <p>不过之后李师傅想了又想，还是决定去工厂看看，毕竟自己对那些机器也有感情了，晚上只有几个工人上夜班，<a href="/channel/w/李师傅">李师傅</a>和他们说了几句，就开始修理机器，修了三四个小时，到了半夜两点多，才离开。</p>
+  <p>隔天工厂老板到了车间后，听了工厂所说后，直接感动哭了，老板后悔莫及，就这样失去了一个好员工。<br></p>
+  <p>结语：大家对此事怎么看呢？写在评论中，大家一起交流。</p>
+ </div>
+ <p class="yidian-wm-copyright-bottom">本文为一点号作者原创，未经授权不得转载</p>
+</div>
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:89)] ***************************************
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:65)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:66)] {"summary":"成为老赖之前，施华霖是个年轻的企业家，年仅27岁就已拥有五家公司，注册资本达1500多万元。成为老赖之后，施华霖成了“网红”，有网友调侃他是90后“最牛”老赖，欠款高达1.4亿元。","is_gov":false,"itemid":"0IykRKXE","impid":"385806_1525779258640_4926","date":"2018-05-06 14:10:34","meta":"385806_1525779258640_4926","feedback_forbidden":false,"docid":"0IykRKXE","title":"欠款1.4亿！27岁小伙成90后“最牛”老赖","dtype":1,"theme_fromid":"t36296","content_type":"news","b_political":true,"pageid":"Homepage","tags":[],"comment_count":148,"extra":[],"ctype":"news","image_urls":["http://si1.go2yd.com/get-image/0MwQNktfNeC"],"image":"http://si1.go2yd.com/get-image/0MwQNktfNeC","title_sn":0,"mtype":1,"like":1072,"url":"http://www.cqcb.com/yidianzixun/headline/2018-05-06/822952.html","upload_images":["http://si1.go2yd.com/get-image/0MwQNktfNeC"],"up":484,"card_position":["best"],"category":"财经","source":"重庆晨报","display_flag":0,"wemedia_id":161091,"wemedia_info":{"summary":"上游新闻官方一点号","fromId":"m161091","rank":4,"authentication":"","name":"上游新闻","plus_v":0,"source_type":2,"media_domain":"社会","image":"http://si1.go2yd.com/get-image/07hNgKC2EN6","type":"media","channel_id":"m161091"},"auth":true}
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:67)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:78)] docid:0IykRKXE, title:欠款1.4亿！27岁小伙成90后“最牛”老赖
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] source:重庆晨报, date:2018-05-06 14:10:34, category:财经
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] summary:成为老赖之前，施华霖是个年轻的企业家，年仅27岁就已拥有五家公司，注册资本达1500多万元。成为老赖之后，施华霖成了“网红”，有网友调侃他是90后“最牛”老赖，欠款高达1.4亿元。
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] image:http://si1.go2yd.com/get-image/0MwQNktfNeC
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:82)] image_urls:["http://si1.go2yd.com/get-image/0MwQNktfNeC"]
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:83)] ---------------------------------------
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:84)] tag_name:null, card_label:null
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:85)] ---------------------------------------
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:87)] content:null
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:89)] ***************************************
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:65)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:66)] {"summary":"随着化物疑云的发酵，美英法三国对大马士革进行了导弹袭击，此后，美英法不但没有撤兵，还不断向地中海增兵，并且近日美国还在亚太地区持续部署武器，这让世界局势再次变得紧张。据悉，美军还称将会从韩国撤走一部分驻韩美军，这让外界普遍猜测，因为韩国距离中国非常近，所以美军","is_gov":false,"itemid":"0IzU4TjY","impid":"385806_1525779258640_4926","date":"2018-05-07 22:20:23","meta":"385806_1525779258640_4926","feedback_forbidden":false,"docid":"0IzU4TjY","title":"四大国将在中国举行联合军演，规模空前强大，美军开始紧张了","dtype":3,"b_political":false,"content_type":"news","wm_copyright":"原创","pageid":"Homepage","tags":[],"comment_count":452,"extra":[],"ctype":"news","image_urls":["0IzU4TdLp7","0IzU4TcV6W","0IzU4TqV5s"],"image":"0IzU4TdLp7","title_sn":0,"like":283,"url":"http://www.yidianzixun.com/mp/content?id=57110565","up":2090,"card_position":["best"],"category":"军事","source":"SK军械库","display_flag":0,"wemedia_id":851011,"wemedia_info":{"summary":"喜欢军事，一点要关注我哦！","fromId":"m851011","rank":3,"authentication":"","name":"SK军械库","plus_v":0,"source_type":1,"media_domain":"军事","image":"http://si1.go2yd.com/get-image/0KqCxi8i6ro","type":"media","channel_id":"m851011"},"auth":true}
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:67)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:78)] docid:0IzU4TjY, title:四大国将在中国举行联合军演，规模空前强大，美军开始紧张了
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] source:SK军械库, date:2018-05-07 22:20:23, category:军事
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] summary:随着化物疑云的发酵，美英法三国对大马士革进行了导弹袭击，此后，美英法不但没有撤兵，还不断向地中海增兵，并且近日美国还在亚太地区持续部署武器，这让世界局势再次变得紧张。据悉，美军还称将会从韩国撤走一部分驻韩美军，这让外界普遍猜测，因为韩国距离中国非常近，所以美军
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] image:0IzU4TdLp7
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:82)] image_urls:["0IzU4TdLp7","0IzU4TcV6W","0IzU4TqV5s"]
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:83)] ---------------------------------------
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:84)] tag_name:null, card_label:null
+[INFO]2018-05-08 19:34:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:85)] ---------------------------------------
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:87)] content:<div class="content-bd">
+ <!-- wemedia true -->
+ <div id="imedia-article" class="imedia-article">
+  <p>随着化物疑云的发酵，美英法三国对大马士革进行了导弹袭击，此后，美英法不但没有撤兵，还不断向地中海增兵，并且近日美国还在<a href="/channel/w/亚太地区">亚太地区</a>持续部署武器，这让世界局势再次变得紧张。据悉，美军还称将会从韩国撤走一部分驻韩美军，这让外界普遍猜测，因为韩国距离中国非常近，所以美军此次撤军很有可能是害怕误伤美军，这不禁让人觉得大战就在眼前。</p>
+  <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IzU4TdLp7"></span></p>
+  <p>前段时间，美日印澳进行了一次安全对话，在这次对话中，四国算是基本达成了联盟。而在5月3号，法国响应四国联盟，宣布也要向亚太地区部署兵力和军舰，还声称绝对不允许任何国家在<a href="/channel/w/亚太地区">亚太地区</a>称霸，言中之意就是要叫板中国喽！对于美国及其小弟的叫嚣，中国只有4个字回应：奉陪到底！毕竟现在的中国已经今时不同往日，我们的航母、<a href="/channel/w/核潜艇">核潜艇</a>、<a href="/channel/w/东风导弹">东风导弹</a>等也不是摆设！<br></p>
+  <p><span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IzU4TcV6W"></span></p>
+  <p>另外，我们知道，从2012年开始，中俄两国都会进行一次海上联合<a href="/channel/w/军演">军演</a>，据悉2018年的军演即将开始，并且辽宁号航母也将会参与这次军演，这让这次军演威慑力十足。此外，据悉伊朗和巴铁也可能会参与军演，如此一来这次军演将会是有史以来规模最大的。对于中俄的动作，美国开始紧张了，有专家称，美军可能也会进行<a href="/channel/w/军演">军演</a>以此反击！</p>
+  <p><span id="article-img-2" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IzU4TqV5s"></span></p>
+ </div>
+ <p class="yidian-wm-copyright-bottom">本文为一点号作者原创，未经授权不得转载</p>
+</div>
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:89)] ***************************************
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:65)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:66)] {"summary":"本文由一名知乎匿名用户的亲身经历改编而成，文中人物均为化名。文章来源于：澳洲Mirror（Id:MirrorNews）转载授权请与原作者联系。","is_gov":false,"itemid":"0Iz8cAFt","impid":"385806_1525779258640_4926","date":"2018-05-07 12:05:20","meta":"385806_1525779258640_4926","feedback_forbidden":false,"docid":"0Iz8cAFt","title":"妻子产后大出血，护士偷偷递给丈夫一张纸条......","dtype":3,"b_political":false,"content_type":"news","pageid":"Homepage","tags":[],"comment_count":2484,"extra":[],"ctype":"news","image_urls":["0Iz8cAcl8E","0Iz8cA9I7f","0Iz8cAFzHA"],"image":"0Iz8cAcl8E","title_sn":0,"like":535,"url":"http://www.yidianzixun.com/mp/content?id=57028329","up":2455,"card_position":["best"],"category":"健康","source":"医享网","display_flag":0,"wemedia_id":292879,"wemedia_info":{"summary":"医享网，中国最大的病例分享网站，为患者及亲友提供病例上传、分享、交流、互助等服务。目前有超过25万会员在医享网分享治疗经验，为百万病友提供了帮助。","fromId":"m292879","rank":3,"authentication":"","name":"医享网","plus_v":0,"source_type":4,"media_domain":"健康","image":"http://si1.go2yd.com/get-image/0C8tB7GbNaq","type":"media","channel_id":"m292879"},"auth":true}
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:67)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:78)] docid:0Iz8cAFt, title:妻子产后大出血，护士偷偷递给丈夫一张纸条......
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] source:医享网, date:2018-05-07 12:05:20, category:健康
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] summary:本文由一名知乎匿名用户的亲身经历改编而成，文中人物均为化名。文章来源于：澳洲Mirror（Id:MirrorNews）转载授权请与原作者联系。
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] image:0Iz8cAcl8E
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:82)] image_urls:["0Iz8cAcl8E","0Iz8cA9I7f","0Iz8cAFzHA"]
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:83)] ---------------------------------------
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:84)] tag_name:null, card_label:null
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:85)] ---------------------------------------
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:87)] content:<div class="content-bd">
+ <p>本文由一名<a href="/channel/w/知乎">知乎</a>匿名用户的亲身经历改编而成，文中人物均为化名。文章来源于：澳洲Mirror（Id:MirrorNews）转载授权请与原作者联系。</p>
+ <p>妻子产后大出血，被送进了<a href="/channel/w/icu">ICU</a>重症病房。</p>
+ <p>此时，在门口焦急等待的丈夫，突然收到了一张护士递给他的纸条…</p>
+ <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0Iz8cAcl8E"></span></p>
+ <p>事情发生后，作者以日记的方式，记叙了当天发生的一切……</p>
+ <p><strong> 纸条写下前24小时：</strong></p>
+ <p><strong>媳妇的预产期，比预计的足足晚了一周，所以医生给她上了催产素。</strong>医生告诉我，孩子很大，但孩子她妈的骨盆结构还好，可以尝试自己生产。</p>
+ <div style="margin-bottom:10px;padding-bottom:10px;"></div>
+ <p></p>
+ <p><strong>纸条写下前20小时：</strong></p>
+ <p>她被接进了产房，我在外面等的时候发现<a href="/channel/w/手机">手机</a>没电也没带充电器…....还好公司在附近，回去拿了个充电宝。</p>
+ <p>与此同时，为了顺利开指，医生让媳妇出去走走，她从产房出来时，没看见我。</p>
+ <div style="margin-bottom:10px;padding-bottom:10px;"></div>
+ <p></p>
+ <p><strong>纸条写下前19小时：</strong></p>
+ <p>回到医院，第一件事给<a href="/channel/w/手机充电">手机充电</a>，开机就发微信问情况，大概开了一指，现在没办法出来了。我只能在产房门口苦等，买了点面包，准备熬上一宿。</p>
+ <div style="margin-bottom:10px;padding-bottom:10px;"></div>
+ <p></p>
+ <p><strong>纸条写下前16个小时：</strong></p>
+ <p><strong>产房大门突然开了，我吓了一跳。医生见到我，只说了三句话：</strong></p>
+ <div style="margin-bottom:10px;padding-bottom:10px;"></div>
+ <p></p>
+ <p><strong>1、“孩子顺利出生，”</strong></p>
+ <p><strong>2、“大人情况不太好，”</strong></p>
+ <p><strong>3、“您跟我进来一下”。</strong></p>
+ <p>我心头揪紧，紧随医生走进去，主治医生跟我摊牌：生产过程基本顺利，但媳妇生完以后，子宫收缩乏力。</p>
+ <p>我不懂，他接着解释，“就像一个吹鼓的气球一下放了气，瘪了， 缩不回来。”</p>
+ <p>“现在出血点不止不处，而是整个创面。因为子宫无力，所以常规的止血方法，比如塞纱布、按压、涂药，均无效。”他看了我一眼，说：“可能会切除子宫。”</p>
+ <p>话音一落，就拿着手术书让我签字，我赶紧签，签完问医生能不能尽力保住子宫，毕竟切除后会对媳妇产生一辈子的影响。</p>
+ <p>医生没给准信，只是说尽力，拿着单子又进去了。</p>
+ <p>我赶紧给家里打电话，我爸我妈，她爸她妈，这个时候我脑子已经乱了，怕后面遇到点情况，一个人撑不住。</p>
+ <p>我只能选择相信医生，抱最好的希望。随后有护士来催我交钱，我补交了3万押金。</p>
+ <p><strong>纸条写下前14个小时：</strong></p>
+ <p>4个老人还没来，医生又再一次叫我。血还是止不住。医生告诉我已经通知血管介入科的值班医生，让他们尽全力迅速赶到现场。</p>
+ <p>我赶紧问现在的情况，医生说切掉子宫这条路走不通了，我媳妇出血量太大了，只能采用另一个方案，就是做两个<a href="/channel/w/动脉栓塞">动脉栓塞</a>，把两条<a href="/channel/w/子宫动脉">子宫动脉</a>死死堵上，这样才可能止血！</p>
+ <p>这个时候4个老人也到了，还没来得及解释，媳妇就被从产房推出来了，我的心态当时崩了。</p>
+ <p>因为我从没见过这样的她：面无血色，白的吓人，无论我怎么喊她名字，她都没有应答。</p>
+ <p>我们5个人瞬间围上去，把她一路护送到血管介入科，大门关上了，我开始跟爸妈解释一切......</p>
+ <p><strong>纸条写下前12个小时：</strong></p>
+ <p>我们5个人在门口等，仿佛过了好几个世纪。她妈妈一直在哭，我和老丈人一直在安慰。但其实我俩内心也是无比恐慌焦虑。</p>
+ <p>突然，介入科手术室的门被大力撞开，3个医生带着几个护士，推着我媳妇冲了出来，他们朝我们大喊：</p>
+ <p>“赶紧！去前面按电梯！！！！赶紧！！！”</p>
+ <p>我有一万句话，想问医生，我甚至不知道我媳妇现在的情况，但我听到后还是像触电一样弹起，也顾不得旁人，也来不及多想，沿着狭长的医院走廊猛跑，一边跑，我一边回头大喊，</p>
+ <p>“电梯在哪边！？左还是右！！左还是右！！！”</p>
+ <p>“左转，右转，最后左转”！</p>
+ <p>我继续跑，用100米冲刺的速度闷着头跑，心像掉进了万丈悬崖，到了拐弯处，我回头一撇，后面乌泱泱一群人，在我身后20米。</p>
+ <p>医生和护士推着我媳妇跑着很快，我现在还记得，那个担架车，快的就像要散架一样，发出稀里哗啦的响声，上面挂的几个血袋也跟着飞甩，差点掉出去。</p>
+ <p>其中有个小护士，一边跑，一边用手按着我媳妇的呼吸面罩，我爸妈，还有岳父岳母在旁边喊她名字。</p>
+ <p>依然没有回答......</p>
+ <p>我按了电梯往上的按钮，电梯来的时候医生正好推着媳妇到了面前，门一开，我和车同时抢了进去，医生护士随后。</p>
+ <p>她爸妈看到还有一点空间，马上跟了进来。我爸妈在外面，想进但又感觉进不去，我们给他们腾了点地儿，他们也挤了进来。</p>
+ <p>就这几秒，医生急的面红耳赤，在电梯里大喊：</p>
+ <p>“好不容易抢出来这几秒，全耽误了！不行等下趟！”</p>
+ <p>我赶紧按了关门键，电梯上升的时候，大家都沉默了，一个个大口喘着气。</p>
+ <p>我低头看她， 她已经没了生气，感觉不到呼吸，身体完全不动，我有种坏的预感。我刚想叫她，电梯门开了。</p>
+ <p>果不其然，我的预感成真了。电梯一出门就是重症医学科病房，那三个鲜红的字母——ICU。</p>
+ <p>我们5个人只能眼睁睁看着医生跑着把她推进去。干站在门口，不知所措。</p>
+ <p>这个时候我发现门上有个喇叭，似乎能和里面的医生通话，4个老人想问，我给拦着了，怕打扰医生。</p>
+ <p>这个时候我开始<a href="/channel/w/头痛">头痛</a>欲裂，整个人还没从刚才紧张的情绪里缓过来，我爸还有岳父母这次开始扶着我，让我到旁边休息。</p>
+ <p><strong>纸条写下前11个小时：</strong></p>
+ <p><strong>一阵噪音后，喇叭里第一次有了声音。医生让家属都进去。</strong></p>
+ <p>这是我第一次进到ICU，里面是一条狭长的通道，我们刚准备往里面走，就被医生带到了紧靠门的办公室里。</p>
+ <p>办公室很小很小，一张桌子，一个沙发，里面没人。我们5个人局促地坐在沙发上，这个时候来了个医生，我们抓住这难得的机会，问了下情况。</p>
+ <p>医生交代：“病人产后出现大出血，我们医院，用尽全力，调集了产科，介入科，ICU的医生和护士，正在抢救。一些手术现在需要家属签字。”</p>
+ <p>说完就递给我们一堆纸，我印象里大概有7、8份，我想都没想就全签了。</p>
+ <p>具体内容现在想不起来了，主要就是同意医生采取应急的措施保命，了解了各种可能的意外情况，了解输血可能造成的感染等风险之类的。</p>
+ <p>签完字，我们还想再多聊会儿，但医生让我再去交钱，我之前交的几万，现在不够了。这个时候产科那边也来催我，孩子出生几个小时了，没大人管，让我去把孩子抱出来。</p>
+ <p>我懵了，这孩子抱出来，放哪呢？！</p>
+ <p>现在这情况，连大人的情况都生死未卜，我们5个人谁能顾上孩子呢。</p>
+ <p>还好，产科医生说，可以先暂时放在新生儿病房。不过他又告诉我，新生儿病房里可能有感染的风险。</p>
+ <p>我实在没得选，只能咬着牙，答应下来。</p>
+ <p>我把几万押金交了以后，卡里的钱已经剩的不多了。媳妇生孩子之前，有点闲钱就都去投资理财产品了， 现在想起来真是傻。</p>
+ <p>不过我又释然了， 毕竟我俩都没想过，生个孩子几千块钱的事，现在能演变成这样......</p>
+ <p><strong>纸条写下前10个小时：</strong></p>
+ <p>终于见到小家伙了。儿子被包的严严实实， 我从护士那笨拙地接了过来，很不熟练地揽在怀里，看着他，我却笑不出来。</p>
+ <p>孩子感觉到了温度，睁眼看了我一下，哭了几声，随后又睡着了。</p>
+ <p>我问医生，这孩子有什么问题没？</p>
+ <p>我担心是因为媳妇之前做B超的时候，发现这孩子肾盂有点宽，也就是肾有点问题，尿尿会有点难度。</p>
+ <p>医生告诉我，什么问题都没有，各项指标正常，尿尿也很顺利，我才放心。</p>
+ <p>到了新生儿病房，值班医生一问，脸色一沉，告诉我们这儿不是托儿所，都是病孩儿，把健康的小宝宝放过来干什么！小心感染。</p>
+ <p>我只能不停赔不是，解释媳妇的情况，希望能让儿子跟这待个1、2天。</p>
+ <p>医生态度缓和了下来，让我去买<a href="/channel/w/奶粉">奶粉</a>，还有纸尿裤衣服等婴儿用品，他们可以帮着照看一下。</p>
+ <p><strong>纸条写下前9个小时：</strong></p>
+ <p>孩子安顿好后，我又返回了ICU。老人还在和医生聊天，看到我来，只是问了下小孩的情况，得知有地儿待他们就安心了。</p>
+ <p>这个时候医生跟我说了下最新情况。简单来说，进行手术后，依然还在出血，感觉就像是拧不紧的水龙头。</p>
+ <p>现在只能一直用多个输血通道保持输血，身上能插针的地方，都插了输血针，而且滴管速度已经调到最快了，基本是在往身体里注血。</p>
+ <p>医生又说，她的血色素非常低，身体无法正常凝血，即便已经注入了大量的血液，但那些血液马上又会像水一样流出来。</p>
+ <p>我问，那有什么办法吗？医生苦笑了一下，告诉我，媳妇刚刚做栓塞的时候有个小伤口，为了防止她流血，两个男医生找了两个沙袋，一直用力在大腿上按着，才稍微起了点作用。</p>
+ <p>目前医院正在想方设法调解凝血功能，但是也很担心出现DIC症状。</p>
+ <p>DIC我也是第一次听说。但听完已经冒出一身冷汗。</p>
+ <p>DIC中文叫血管内弥漫性凝血，一般孕妇死亡，基本都和它有关。身体内流失太多血液后，已有的血在血管里无法正常流动，很快就会形成<a href="/channel/w/血栓">血栓</a>。</p>
+ <p>身体的脏器一旦出现血栓，马上就会停止工作，停止工作的脏器多了，人就不行了，救都救不回来。</p>
+ <p>我现在是明白了，媳妇身体内有两个战斗，一方面要止血，让血液凝固，不然会失血过多。另一方面也要让血液流动，防止<a href="/channel/w/血栓">血栓</a>。</p>
+ <p>简直是不可能的任务。</p>
+ <p>医生问我，进口药几千一支，效果很好，要不要用，因为<a href="/channel/w/医保">医保</a>没办法报销。</p>
+ <p>我回答，您尽管用，不要问我。虽然这么说，我心里是没底的，最后到底需要多少钱，存款已经不多了。</p>
+ <p>但下一秒我就下了决心，大不了把房子卖了。</p>
+ <p>医生说完就走了，临走之前又交代我去交钱，这样不会影响用药。</p>
+ <p>我把手上的卡刷了个遍，发现有点不够，又找4个老人凑了点，总算凑齐了。</p>
+ <p><strong>纸条写下前7个小时：</strong></p>
+ <p><strong>第一次迎来好消息。有个医生出来跟我们说明最新进展。</strong></p>
+ <p>他说，情况稳定一些了，虽然出血还没有止住，虽然身体各项指标还很异常，</p>
+ <p>但，出血量少了不少；血，能在身体里存住了。</p>
+ <p>我们5个人如释重负，岳母明显已经到了极限，一下瘫到岳父怀里。</p>
+ <p>然而，医生接下来的几句话，让我们几个人的心又紧紧的缩了起来，而且很久都无法再放下。</p>
+ <div style="margin-bottom:10px;padding-bottom:10px;"></div>
+ <p></p>
+ <p>医生告诉我们，我媳妇的命，目前来看是保住了。但是，由于她的出血量太大，时间太长，身体各个的<a href="/channel/w/器官">器官</a>都出现了供血不足的情况，</p>
+ <p>这样会到来什么样的后遗症，给身体造成什么样的损害，暂时无法估计。</p>
+ <p>这些器官里，最有可能的被损伤的，是<a href="/channel/w/大脑">大脑</a>。</p>
+ <p>大脑对血液的需求最大也最敏感。长时间的缺血，很可能会产生不可逆的损伤，也就是说有可能会醒不过来，或者醒了也是个<a href="/channel/w/植物人">植物人</a>，或者智力低下的残疾人。</p>
+ <p>就算大脑逃过一劫， 其他器官，比如<a href="/channel/w/心脏">心脏</a>，<a href="/channel/w/肝脏">肝脏</a>，肾脏，不太可能完好无损。毕竟现在<a href="/channel/w/转氨酶">转氨酶</a>、肌酐之类的指标数额，都高过标准值，结果谁也说不好。</p>
+ <p>这段医生说的话，我现在只能记得一些片段。然而，有一句话，却像雕刻在我心里了一般：</p>
+ <p>“现在大概，打了个平手。”</p>
+ <p>这句医生的原话，没有主语和宾语，但那一刹那，我就明白，</p>
+ <p>医生指的是，他们和死神，打了个平手。</p>
+ <p>完毕，他告诉我们，现在病人情况稳定了，我们也不用一直在门口等着，特别是老人，经历了这些，精神和肉体都需要好好休息下。</p>
+ <p>如果要探视，下午3点再来，半个小时时间，每次只能进去一个人，进去先要穿戴好防尘的防护服。</p>
+ <p>说完，医生又忙去了。就在我们聊天的间隙，很多护士都从我们身边匆匆跑过，手里拖着装满血袋的盒子......</p>
+ <p>我们5个人商量了一下，媳妇爸妈坚持不肯休息，我爸妈也不肯走，我只能先开好附近宾馆房间，让他们累了就去休息。</p>
+ <p>我开车回家，去取婴儿用品和<a href="/channel/w/奶粉">奶粉</a>。</p>
+ <p><strong>纸条写下前6个小时：</strong></p>
+ <p>从医院停车场回来，出口向东的一瞬间，一缕晨光打在我脸上，一轮旭日从地平线升起，金黄一片。</p>
+ <p>恍如隔世。</p>
+ <p>这是我一生中，最难熬最漫长的一夜了。也就在这个时候，我发现我哭了，情不自禁的，但我马上忍住了。</p>
+ <p>战斗还没结束呢，哪有时间哭！</p>
+ <p>到家以后，家门一开，一股熟悉的香气。我深吸了几口，想让自己记住这个味道。</p>
+ <p>毕竟，那时候的我还不知道，这个家，未来会变成什么样的模样。</p>
+ <p>东西收拾完毕，回到医院，把东西送给了儿子，问了下情况，一切正常，我又赶紧回到了ICU门口。</p>
+ <p><strong>纸条写下前5个小时：</strong></p>
+ <p>电梯坐上去，看到的是另外一家人。他们也是患者家属，看样子是等了整整一夜。</p>
+ <p>4个老人还在门口，憔悴不堪，但眼神里却流露出坚强。</p>
+ <p>两家人没有交流，但却都死死盯着紧闭的病房大门，想着自己的心事。</p>
+ <p>岳父岳母我爸我妈看到我来，马上过来，跟我说了一下情况。</p>
+ <p>通过他们的说明，以及以后我陆续从医生那里汇集的片段消息，我才知道，原抢救室里面的生死较量，比我们以为的还要凶险的多。</p>
+ <p>媳妇她在生产完大出血，被推入介入科做子宫动脉栓塞的时候，出现了狂暴的现象。</p>
+ <p>她用尽全力向要拔掉身上的氧气，拼命想翻身下床，后来还是几个男医生合力把她按住才行，这是人体失血后的正常反应。</p>
+ <p>后来子宫<a href="/channel/w/动脉栓塞">动脉栓塞</a>做完，媳妇已经<a href="/channel/w/休克">休克</a>了。当时医生全楞了，有的还在摇头，感觉就是没希望了，无力回天了。</p>
+ <p>好在指挥抢救的一名女医生马上回过神，非常坚定地跟说：</p>
+ <p>“送ICU，现在就送ICU，那儿可以救她！”</p>
+ <p>然后就是一路狂奔。到了ICU，几个科室的精英都在，能来经验丰富的骨干都在。</p>
+ <p>即便这样，我媳妇当时也还是一条腿已经迈了过去，血压最低都低到40了，完全没有凝血能力，一个小针眼，都可以流成一条河......</p>
+ <p>真正的命悬一线！</p>
+ <p><strong>纸条写下前4个小时：</strong></p>
+ <p>天已经完全亮了。正常情况下，医院早就是熙熙攘攘，人头攒动了。可在ICU这里，死一样的寂静。</p>
+ <p>我们一家，还有他们一家，默默无言，满脸疲惫。有的时候，医生和护士出来，马上就成为焦点，所有人都盼着这一刻，希望能有好的进展，但所有人又怕这一刻，担心有不好的消息。</p>
+ <p>我忍受不了这样压抑的气氛，准备下楼抽根烟。让岳父母有事随时给电话。</p>
+ <p>我到了楼下，人山人海，也有不少孕妇从我身边走过，我看着这些人，虽然他们都身患疾病，但他们和躺在ICU里的媳妇相比，无疑是幸运的，我羡慕他们。</p>
+ <p>走到外面无人处，我抬起头，难得的好天气。但我无心欣赏，我开始狠狠地骂起老天爷。</p>
+ <p>“你TM为什么让我媳妇遇到这样的事，为什么是我媳妇！”</p>
+ <p>“我从小到大，都没遇到过什么好事，是不是我把坏运气带给了她，可你TM有什么，冲我来啊，你有种冲我来啊！”</p>
+ <p>“我求求你，老天爷，求你了，不要让她死，活着，活着就行，傻了也行，残疾了也行，你要让她活着，我照顾她，我看着她，我守着她！</p>
+ <p>孩子我养，他父母我养，我没问题，我只求你，不管你是佛祖，<a href="/channel/w/耶稣">耶稣</a>，还是真主，我求你们，求你们……”</p>
+ <p><strong>纸条写下前2个小时：</strong></p>
+ <p>ICU此时显得更安静了，连医生和护士都不出现了。我们只好继续在门口，吊着心苦等。</p>
+ <p>我父母有点撑不住了，我把宾馆的地址告诉了他们，让他们回去休息，顺便让他们联系下月嫂的事情，这样孩子可以不用一直待在病房里。</p>
+ <p>爸妈答应了，走之前问老丈人一家是否也要走，他们拒绝了，我们三个人不敢多劝，其实心里都希望他们可以在这里。</p>
+ <p>不是因为别的，就怕万一，我媳妇不行了，她爸她妈还能见最后一面…</p>
+ <p>我爸妈走之前又说，晚上就来，大家换着盯着。</p>
+ <p>爸妈走以后，我抱了抱她妈，60好几的人了，这几个小时，哭完了这辈子的眼泪，眼睛都快睁不开了。</p>
+ <p>而她爸，则是个坚强的人，虽然一脸疲惫，但却很镇定，不慌，也没有明显的悲伤，倒是一直在给我，给媳妇她妈鼓励。</p>
+ <p>说媳妇从小身体好，这对她来说，不叫事。</p>
+ <p>我安慰了一下二老，随后下楼去买了点盒饭，拿上来后，老人说吃不下，不想吃。</p>
+ <p>我说，好歹吃一点，人是铁饭是钢，这种情况，我们不能垮啊！她还等着人照顾呢！</p>
+ <p>老丈人听了，叹了口气，点了下头，我们几个人坐在角落吃了起来，眼睛却不离病房门。</p>
+ <p>食物下肚，焦虑的心情缓解了一些，我开始冷静下来，脑子飞快地转，设想着未来可能的情况，毕竟不知道老人还能抗几天，但我不能倒下，战斗还很长，要有应对措施。</p>
+ <p><strong>第一天，12点。</strong></p>
+ <p><strong>媳妇醒了。</strong><strong></strong></p>
+ <div style="margin-bottom:10px;padding-bottom:10px;"></div>
+ <p></p>
+ <p>她想叫我，喉咙出不了声。她看了看旁边的护士，张了张嘴。护士懂了，给她一张纸。</p>
+ <p>她只写了两句话。</p>
+ <p><strong>第一句是，“宝宝还好？”</strong></p>
+ <p><strong>第二句是，“李涛（我的名字）在外面么”。</strong></p>
+ <section>
+  <span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0Iz8cAcl8E"></span>
+ </section>
+ <p>护士拿到外面，把我叫过去，偷偷塞给我，问我怎么回答。</p>
+ <div style="margin-bottom:10px;padding-bottom:10px;"></div>
+ <p></p>
+ <p>我看到这张纸的时候，<a href="/channel/w/心脏">心脏</a>开始了剧烈的跳动，随后，泪水像止不住一样，哗哗地往下流。</p>
+ <p><strong>我让护士跟她说:</strong></p>
+ <p>宝宝很好，一切正常，尿尿也没问题。我就在门外等她，我一直在，我就在她身边，离她很近。</p>
+ <p>等能探视了，我就进去看她。</p>
+ <p>短短几句话，正常说起来可能不到5秒，我却花了足足5分钟，因为我的喉咙一直很紧，哽咽到说不下去。</p>
+ <p><strong>这是一个奇迹。这是母爱的奇迹。</strong></p>
+ <p>在经历了这么多之后，在遭受了巨大的创伤之后，在鬼门关里走进去又被拉回来之后，醒来后第一句问的，是孩子。</p>
+ <p>只有母爱，</p>
+ <p>才能跨越生死！</p>
+ <p>只有母爱，</p>
+ <p>才能爱你就像爱生命！</p>
+ <p><strong>纸条写下3小时后：</strong></p>
+ <p>终于等到了探视的时间。我爸妈听闻消息提前赶了回来，看得出来，他们根本没睡觉。</p>
+ <p>探视的顺序自然不用说，她爸妈先后进去了，老两口都是红着眼睛出来的，我是第一次看到老丈人哭，但他的脸上也写满了欣慰。</p>
+ <p>到我了。我用最快的速度穿好衣服，戴好鞋套，跟着护士往里面走。我也是第一次看到ICU里面的样子：</p>
+ <p>布帘分割开了一个个小房间，仿佛像一扇扇生死门。</p>
+ <p>而她就在第四间。</p>
+ <p>我开始紧张起来，激动的心情全无，经历了鬼门关的她，会被折磨成什么样子呢？</p>
+ <p>这24个小时里面，我无数次以为，这辈子，我们将再也无法相见。我无数次地后悔，为什么当时我要去拿那个该死的充电器，而错过见她最后一面！</p>
+ <p>现在，我马上就要见到她了，像是在做梦，一直疼痛难忍的头，现在也消停了。</p>
+ <p>她还活着，她还活着啊！</p>
+ <p>我走进去，眼前的她，全身浮肿，比她<a href="/channel/w/怀孕">怀孕</a>生产的时候，还要肿。脸也胖了好几圈，别人肯定不认识了，但我知道，这就是她。</p>
+ <p>我轻轻地在她旁边坐下，去牵她的手。</p>
+ <p>这是一双怎么样的手啊！每个手指都像胡萝卜一样肿！我的心又抽动了一下，</p>
+ <p>这连弯曲的费力的手，究竟是怎么拿住笔，写下那张纸条的…</p>
+ <p>我握着她的手，一遍一遍抚摸着，不敢用力，怕她疼。</p>
+ <p>她醒了过来，看见了，眼泪一下就出来了，顺着太阳穴流到<a href="/channel/w/枕头">枕头</a>上，止不住。</p>
+ <p>我明白，媳妇，你受委屈了！你什么都没做错，为什么你要遭受这些！为什么阎王想要你的命，要让你和我还有儿子，生死两隔…</p>
+ <p>她想说话，可嘴里却还插着呼吸机，身上贴满了各种管子，旁边监控设备上数字在不停跳动，旁边担架上挂着输血袋。</p>
+ <p>她睁着眼睛，定定地望着我，那个样子，仿佛她是第一次见到我，又仿佛这是我们俩最后一次见面。</p>
+ <p>我瞬间明白，她是要把我的模样，深深地刻在脑子里，一会儿我走了，她还能记住。</p>
+ <p>我打算说一些安慰的话，然而，我一张嘴，喉咙就卡住了。我用尽全力，去控制想哭的情绪，深呼吸了几口，对她说：</p>
+ <p>“没事的，没事的，我在呢，我们都在呢，都在外面陪着你呢…...”</p>
+ <p>她听着，胸脯在轻微微微起伏，我知道，她是在抽噎。</p>
+ <p>我继续说：“宝宝没事，是个男孩！咱们的担心都是多余的！人家尿尿顺着呢！我把他放在儿科了，有人照顾他。等你病好了，我就带他来看你，咱们一起回家！”</p>
+ <p>她目光柔和了一下，但突然，眼泪忽然涌的更凶了，脸色焦虑不堪。</p>
+ <p>我一楞，明白她是在担心，担心我为了不让她操心，故意说孩子没事。</p>
+ <p>我赶紧解释，这次她终于放心下来。</p>
+ <p>时间到了，我又摸了摸她的脸，在额头上亲了她一口，告诉她明天准时来，然后一步三回头的出了病房。</p>
+ <p>出去后，医生把我们5个人叫到了一起，说明了一下情况。</p>
+ <p>她现在虽然醒了，但依然处在危险期，血色素大大低于正常水平，还需要不断输血。但出血基本控制住了。</p>
+ <p>抢救的时候，用了很多很多药物，这些药物对身体造成了大量的损伤，同时药物也需要身体花费很长时间去代谢。目前各个脏器的指标都很差，非常差。</p>
+ <p>这话我们都听懂了，就是让我们要有所心理准备，人是活过来了，但可能会有很严重的后遗症，最有可能是<a href="/channel/w/大脑">大脑</a>的损伤…...</p>
+ <p>听完这话，我并不惊讶。我早就有了足够的心理准备。大不了就是带着孩子和残疾的老婆过下半辈子。</p>
+ <p>只是我可怜的媳妇不知道要继续忍受多少年巨大的痛苦。</p>
+ <p>探视结束后，我们5个人都松了一口气，一起准备回到宾馆休息。</p>
+ <p>回到房间，躺在床上，我想着这24小时所经历的一切，媳妇悲惨的样子，只见了一面，匆匆安顿到病房里的孩子，老丈人一家的坚强和鼓励，我爸妈的陪伴…</p>
+ <p>终于再也压不住内心的情绪，开始放声大哭。</p>
+ <p>哭完以后，心情好多了，另一种情绪也由心底升起。那就是对医生们深深的敬意。</p>
+ <p>媳妇在那样的情况下，不仅顺利生产，而且还能活下来，目前来看没有太大的后遗症，已经是莫大的成就，是无数医生、护士彻夜不眠，用全力换来的。</p>
+ <p>我能想象到，死神以为媳妇的命被他握住了，可没想到这群医生却不信这个邪。</p>
+ <p>他们把死神的手指，一根手指一根地掰开，然后视死如归地和他对视，小心呵护着脆弱的生命，谨慎的步步后退。</p>
+ <p>直到带它脱离了死神的视线，再把它交还回爱人的手中，重新在人间享受平安喜乐。</p>
+ <p>想着想着，我沉沉地入睡了。</p>
+ <p><strong>纸条写下第2天：</strong></p>
+ <p><strong>命运总不会轻易放过它想要戏弄的人。</strong></p>
+ <p>早上起来第二天，我去新生儿病房探望儿子，却被告知，孩子出事了。</p>
+ <p>原来，就在今晨血检的时候，儿子c反蛋白高。我一听，肠子都悔青了。这是感染炎症的意思！果然不该放病房！</p>
+ <p>4个老人一听这事，慌了，这不是火上浇油吗！那边大人才刚刚脱离生命危险，这边孩子又病倒了！</p>
+ <p>我们一行人又急匆匆地跑到儿科，医生一看，说情况不是很严重，但是需要住院观察，不能马上出院。</p>
+ <p>4个老人在病房陪儿子，我一个人心里惴惴不安的回到ICU门口，最爱的两个人都被病魔折磨，一下子觉得天都塌了，我能做什么呢。只能寄托于医生了。</p>
+ <p>心情烦躁，我又跑到楼下抽烟。抬头一看就看到ICU的窗户，我一眼就看到了媳妇待的病床，目光像胶水一样粘在上面。</p>
+ <p>她现在什么情况呢，醒了没？痛苦吗？还在哭吗？</p>
+ <p>外面依然阳光明媚，不知道阳光能不能晒到她的病床。</p>
+ <p>好不容易熬到下午3点，到了探视的时间。这一次她的情况似乎好了不少，脸上的肿胀小了很多。</p>
+ <p>我第一时间把儿子的照片给她看，她看完以后又哭了，幸福，但又很悲伤。</p>
+ <p>刚当上妈妈，肯定很想抱抱自己的孩子，见见他吧。</p>
+ <p>当然，孩子生病的事，我没敢和她说。</p>
+ <p>探望结束后，医生说出血还在继续，但量很小很小了。血色素也在回升，但脏器的指标还是很糟糕，由于药物的作用，病人会陷入长时间的沉睡，不会感到很痛苦。</p>
+ <p><strong>纸条写下第3天：</strong></p>
+ <p>一大早，儿科那边打电话说，儿子吃了消炎药以后，c反蛋白正常了，可以抱回家了。</p>
+ <p>就当我们5个人欣喜前往新生儿病房的时候，ICU那边突然来了消息。</p>
+ <p>媳妇终于可以摆脱呼吸机了，医生让我们给她带点流食。</p>
+ <p>直到这个时候，我们5个人紧张的神经才松弛下来，这段时间以来，我也第一次看到丈母娘脸上出现了笑容。</p>
+ <p>下午的时候，我爸妈找的月嫂已经到了，我们几个人把孩子从NICU接了出来，由老人送回家。</p>
+ <p>我继续留在医院，准备探视媳妇。这一次，她已经可以说话了，不过声音嘶哑地像个老奶奶。</p>
+ <p>问的，说的，聊的，都是孩子。</p>
+ <p><strong>纸条写下第4天：</strong></p>
+ <p><strong>谢天谢地。</strong></p>
+ <p>媳妇从ICU转到了普通病房。这也意味着，这一次，死神是彻彻底底离她远去了。</p>
+ <p>回到病房后，我给她换了一身衣服，换的时候我看到她身上大片大片的淤青和瘀血，还有各种手术刀留下的伤口。这些伤口不仅疼在她身上，也是伤在我心里。</p>
+ <p>我必须小心翼翼，因为轻微的移动，都会让她喊疼。</p>
+ <p>医生来了，告诉我们她可能会一直低烧，其他<a href="/channel/w/器官">器官</a>的指标基本恢复正常了，除了肝肾。</p>
+ <p>我感到松了一口气，就算有后遗症也没关系，起码是活下来了！</p>
+ <p>就这样，我白天在医院，晚上就回去看孩子，尽量多拍视频和照片，拿给她看。我回家之前曾提出要把孩子抱过来，她却坚决不干，说医院都是细菌病毒，孩子太小，怕病着。</p>
+ <p><strong>纸条写下第5天：</strong></p>
+ <p><strong>媳妇的情况一天天地在好转。</strong>血色素在缓慢提升，<a href="/channel/w/转氨酶">转氨酶</a>、肌酐等指标，每天都在下降。就像今天的指标，只有昨天的一半。</p>
+ <p>医生和护士非常尽心，病房的严格管理让她得到了充分的休息，精神头也回来了。</p>
+ <p>她今天还让我带吸奶器，怕孩子不能按照最好的时间吃上<a href="/channel/w/母乳">母乳</a>。</p>
+ <div style="margin-bottom:10px;padding-bottom:10px;"></div>
+ <p></p>
+ <p>我能理解她的心情，但还是拒绝了，现在她身体里还残留着太多的药物，这样的奶水，喝了对孩子没什么好处的。</p>
+ <p><strong>纸条写下第6天：</strong></p>
+ <p><strong>媳妇的身体情况继续好转着。可精神状态和心态，却每况愈下。</strong></p>
+ <p>从她苏醒到现在，前几天在ICU还好，转到普通病房后，她的性子和脾气，越来越急躁了。</p>
+ <p>我能理解她，一是产后各项<a href="/channel/w/荷尔蒙">荷尔蒙</a>紊乱，情绪出现问题是正常现场。二是经历过生死劫难后，医院对于她来说，是个牢笼，好像在这里永远也无法脱离危险一样。</p>
+ <p>今天陪她的时候，她一直在和我念叨要出院，说不喜欢这里，想要回家。</p>
+ <p>但她的身体还未完全恢复，我只能晓之以理动之以情，插科打诨再循循善诱，大小道理每天变着花样说。</p>
+ <p>媳妇暂时听进去了。</p>
+ <p><strong><strong>纸条写下</strong>第8天:</strong></p>
+ <p><strong>万幸，指标终于正常了。在她情绪最后一根弦断掉之前。</strong></p>
+ <p><strong>纸条写下</strong><strong>第9天:</strong></p>
+ <p><strong>又经过了一天的观察，医生说我们可以出院了。</strong>孩子在我爸妈家，我问她直接去看孩子吗？她说不，坚持要先回家，休息好了，然后再带些自己衣物洗漱品在那边长住些日子。</p>
+ <p>我很奇怪，为什么她不第一时间飞奔到孩子身边？因为我知道她多想马上见到孩子，除了刚生出来时的匆匆一面，她还只是在<a href="/channel/w/手机">手机</a>里看过宝宝。</p>
+ <p>终于，我们回了到自己的小窝，瘫在床上，最熟悉不过的味道涌入鼻腔，我看着她，她看着我，我俩相视而笑，然后抱<a href="/channel/w/头痛">头痛</a>哭。</p>
+ <p>心中压抑了无数天的悲伤委屈，巨大的恐惧和绝望，终于在这一刻随着眼泪爆发出来。</p>
+ <p>我们都以为她再也没机会回家了，两个人再也不可能相拥而眠。曾经我们几乎万念俱灰，在死神的注视下瑟瑟发抖，看不到未来。生命就像空中的星辰，随时有可能陨落坠地。</p>
+ <p>现在，回到家的我们终于感受到，这一切真的已经结束了。</p>
+ <p>这一刻我恍然大悟，她按捺住对宝宝的想念，坚持先回到这里的原因是什么——因为这个家，这个我们俩共同拥有的地方，她要回到这个专属之地，回到她在生死之间还魂牵梦绕的地方。</p>
+ <p>只有回到这里，这一切才能终结，这场噩梦才能惊醒。她只有回到自己的世界之后，才能重新开始。为人妻，更为人母，开始余下半生的全新生活。</p>
+ <p>我们哭了笑，笑了哭，互相安慰鼓励着，说了很多很多话，描绘着三个人美好的未来。后来哭累了，不知不觉便抱着睡了过去。</p>
+ <p><strong>纸条写下</strong><strong>第二个月：</strong></p>
+ <p>我去医院交医药费余款。真正自费只花了2万，这个数字大大低于我的预算。感谢国家的医疗保险政策，我们真真是受益者。</p>
+ <p>费用明细单打了厚厚一沓，其中有两支药物，每支1㎎，每支价格5千，自费。我记得医生问过我一个药，它应该就是那一晚起到至关转折重要作用的那个。</p>
+ <p>明细中血的用量是35袋，每袋200ml。不算其他血制品，单看这一项，媳妇儿当时的输血量就在7000ml。人体内约有4000ml的血，这么算的话，她体内的血换了两轮。</p>
+ <p>医生最终的诊断是<a href="/channel/w/羊水栓塞">羊水栓塞</a>，不过没有完全确诊。可能是因为忙着抢救，没有对血液中的<a href="/channel/w/羊水">羊水</a>成分做检测。</p>
+ <p>查了无数资料，咨询了好多专家，我得到的都是同样的结论：在当时那种危急的情况下，能保住性命本来就是奇迹了，而且连子宫也保了下来！</p>
+ <p>这一切，都是仰仗于医生护士们的高超医术以及医院及时充足的血液供应。</p>
+ <p>对于医生们的救命之恩，我们一直不知道如何报答这无法言表的感激之情，思来想去，还是按着老路子，送了锦旗给产科和<a href="/channel/w/icu">ICU</a>。</p>
+ <p>旗子上的题字是我想的：“生死关头更显沉着冷静 医术高超共保母子平安”。然而遗憾的是，当时把媳妇儿从死神手中夺回来的医生都在手术室里忙，因此没能亲手将锦旗递到他们手上。</p>
+ <p><strong>纸条写下</strong><strong>第三个月:</strong></p>
+ <p>媳妇儿检查出了高血压，虽然门诊医生说和当时的抢救关系不大，但我心里一直觉得这跟当时升压药用了太多有关系。不过服用了降压药，一段时间后就慢慢恢复正常了。</p>
+ <p><strong><strong>纸条写下</strong>第七个月:</strong></p>
+ <p><strong>媳妇回到了工作岗位。</strong></p>
+ <p><strong><strong>纸条写下</strong>一年后:</strong></p>
+ <p>我们和孩子去了三亚。</p>
+ <section>
+  <span id="article-img-2" class="a-image"><img src="//i1.go2yd.com/image.php?url=0Iz8cA9I7f"></span>
+ </section>
+ <p>我们和孩子去了芽庄、<a href="/channel/w/冲绳">冲绳</a>。</p>
+ <section>
+  <span id="article-img-3" class="a-image"><img src="//i1.go2yd.com/image.php?url=0Iz8cAFzHA"></span>
+ </section>
+ <p><strong><strong>纸条写下</strong>第五年:</strong></p>
+ <div style="margin-bottom:10px;padding-bottom:10px;"></div>
+ <p></p>
+ <p>我们和孩子坐了游轮、去了<a href="/channel/w/北海道">北海道</a>。</p>
+ <section>
+  <section>
+   <span id="article-img-4" class="a-image"><img src="//i1.go2yd.com/image.php?url=0Iz8cAEkVV"></span>
+  </section>
+ </section>
+ <p>我终于可以放下心来，黑色的潮水终于退尽，下面是平坦的细沙。</p>
+ <div style="margin-bottom:10px;padding-bottom:10px;"></div>
+ <p></p>
+ <p>现在我们家里，每天都是欢声笑语。</p>
+</div>
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:89)] ***************************************
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:65)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:66)] {"summary":"某宝网站上输入“臂章”二字，可搜索出琳琅满目的臂章定制服务，而且十分廉价。于是，军迷中有段时间冒出很多诸如“中国人民解放军驻日本部队”的自制臂章，聊以自慰，借以表达强烈的爱国之心。而今，解放军最新公布的一种正式配发的臂章，却在某种程度上让军迷的玩笑成了真。","is_gov":false,"itemid":"0IzPZz0N","impid":"385806_1525779258640_4926","date":"2018-05-07 20:58:28","meta":"385806_1525779258640_4926","feedback_forbidden":false,"docid":"0IzPZz0N","title":"解放军增新臂章，日本这回真该紧张了","dtype":1,"content_type":"news","b_political":true,"wm_copyright":"原创","pageid":"Homepage","comment_count":422,"tags":[],"extra":[],"ctype":"news","image_urls":["0IzPZzcb2I"],"image":"0IzPZzcb2I","title_sn":0,"like":225,"upload_images":["0IzPZzcb2I"],"url":"http://www.yidianzixun.com/mp/content?id=57100228","up":1457,"card_position":["best"],"category":"军事","source":"领航军事","display_flag":0,"wemedia_id":556162,"wemedia_info":{"summary":"死心塌地爱国模式独立评论员","fromId":"m556162","rank":4,"authentication":"","name":"领航军事","plus_v":0,"source_type":1,"media_domain":"军事","image":"http://si1.go2yd.com/get-image/0FZQZxtqtIO","type":"media","channel_id":"m556162"},"auth":true}
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:67)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:78)] docid:0IzPZz0N, title:解放军增新臂章，日本这回真该紧张了
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] source:领航军事, date:2018-05-07 20:58:28, category:军事
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] summary:某宝网站上输入“臂章”二字，可搜索出琳琅满目的臂章定制服务，而且十分廉价。于是，军迷中有段时间冒出很多诸如“中国人民解放军驻日本部队”的自制臂章，聊以自慰，借以表达强烈的爱国之心。而今，解放军最新公布的一种正式配发的臂章，却在某种程度上让军迷的玩笑成了真。
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] image:0IzPZzcb2I
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:82)] image_urls:["0IzPZzcb2I"]
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:83)] ---------------------------------------
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:84)] tag_name:null, card_label:null
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:85)] ---------------------------------------
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:87)] content:<div class="content-bd">
+ <!-- wemedia true -->
+ <div id="imedia-article" class="imedia-article">
+  <div>
+   某宝网站上输入“
+   <a href="/channel/w/臂章">臂章</a>”二字，可搜索出琳琅满目的臂章定制服务，而且十分廉价。于是，军迷中有段时间冒出很多诸如“
+   <a href="/channel/w/中国人民解放军">中国人民解放军</a>驻
+   <a href="/channel/w/日本">日本</a>部队”的自制臂章，聊以自慰，借以表达强烈的爱国之心。而今，
+   <a href="/channel/w/解放军">解放军</a>最新公布的一种正式配发的臂章，却在某种程度上让军迷的玩笑成了真。
+   <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IzPZz8d69"></span></p>
+   <div>
+    据官方消息称，从今年的六一儿童节开始，
+    <a href="/channel/w/中国人民解放军">中国人民解放军</a>驻
+    <a href="/channel/w/吉布提">吉布提</a>保障基地部队将佩戴专用的胸标和臂章。这个看似只是后勤保障很到位的消息，实则隐含了相当大的信息量。
+   </div>
+   <div>
+    <br>
+   </div>
+   <p><span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IzPZzmxrP"></span></p>
+   <div>
+    首先，这是
+    <a href="/channel/w/解放军">解放军</a>在他国境内的第一个常驻部队，因而
+    <a href="/channel/w/臂章">臂章</a>上的“驻吉布提保障基地”字样代表的是
+    <a href="/channel/w/国际军事">国际军事</a>行动执行者，与“驻香港部队”“驻澳门部队”国内军事人员的意义完全不一样。其次，
+    <a href="/channel/w/中国人">中国人</a>历来讲究开门红，迈稳第一步就意味着走好了一半路程，驻
+    <a href="/channel/w/吉布提">吉布提</a>保障基地的开门红，必然促进在其他国家驻军的合法性与合理性的到来。因而，“驻
+    <a href="/channel/w/日本">日本</a>部队”也就不再是玩笑了。
+   </div>
+   <p><br></p>
+   <p><span id="article-img-2" class="a-image"><img src="//i1.go2yd.com/image.php?url=0IzPZz8Dox"></span></p>
+  </div>
+ </div>
+ <p class="yidian-wm-copyright-bottom">本文为一点号作者原创，未经授权不得转载</p>
+</div>
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:89)] ***************************************
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:65)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:66)] {"summary":"孩子发烧咳嗽，不少家长认为，吃点药或者抗两天就好了。然而，小病不注意，很有可能就会带来大麻烦，前两天，淄博市妇幼保健院儿科急诊，就来了这样一个孩子。","is_gov":false,"itemid":"0Iyu8G4G","impid":"385806_1525779258640_4926","date":"2018-05-06 23:30:00","meta":"385806_1525779258640_4926","feedback_forbidden":false,"docid":"0Iyu8G4G","title":"3岁男童进入ICU抢救！医生从肺里掏出巴掌大东西，被吓坏！","dtype":3,"b_political":false,"content_type":"news","pageid":"Homepage","tags":[],"comment_count":210,"extra":[],"ctype":"news","image_urls":["0Iyu8GbJ7s","0Iyu8GzHPq","0Iyu8GZ7Nr"],"image":"0Iyu8GbJ7s","title_sn":0,"like":130,"url":"http://www.yidianzixun.com/mp/content?id=56995925","up":1020,"card_position":["best"],"category":"健康","source":"都市现场","display_flag":0,"wemedia_id":810170,"wemedia_info":{"summary":"江西广播电视台都市频道《都市现场》栏目，江西第一民生类媒体","fromId":"m810170","rank":5,"authentication":"","name":"都市现场","plus_v":0,"source_type":2,"media_domain":"社会","image":"http://si1.go2yd.com/get-image/0JpJxPVtXXc","type":"media","channel_id":"m810170"},"auth":true}
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:67)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:78)] docid:0Iyu8G4G, title:3岁男童进入ICU抢救！医生从肺里掏出巴掌大东西，被吓坏！
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] source:都市现场, date:2018-05-06 23:30:00, category:健康
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] summary:孩子发烧咳嗽，不少家长认为，吃点药或者抗两天就好了。然而，小病不注意，很有可能就会带来大麻烦，前两天，淄博市妇幼保健院儿科急诊，就来了这样一个孩子。
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] image:0Iyu8GbJ7s
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:82)] image_urls:["0Iyu8GbJ7s","0Iyu8GzHPq","0Iyu8GZ7Nr"]
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:83)] ---------------------------------------
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:84)] tag_name:null, card_label:null
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:85)] ---------------------------------------
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:87)] content:<div class="content-bd">
+ <p><strong>如有引用请注明所有来源</strong></p>
+ <p>孩子<a href="/channel/w/发烧">发烧</a><a href="/channel/w/咳嗽">咳嗽</a>，不少家长认为，吃点药或者抗两天就好了。然而，小病不注意，很有可能就会带来大麻烦，前两天，淄博市妇幼保健院<a href="/channel/w/儿科急诊">儿科急诊</a>，就来了这样一个孩子。</p>
+ <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0Iyu8GbJ7s"></span></p>
+ <p>弯曲似根系，白嫩如剥了皮的树枝，不过，这可不是我们平常<a href="/channel/w/泡酒">泡酒</a>用的<strong>小“人参”</strong>，而<strong>是前两天医生从一名三岁男童肺里取出来的</strong>。</p>
+ <p>情况危急，患儿立即被转入重症监护室进行抢救，经过支气管镜检查，孩子的情况令人大吃一惊。</p>
+ <p><span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0Iyu8GzHPq"></span></p>
+ <p>原来，孩子两天以前出现了发烧咳嗽的症状，炎症引起了支气管内生性异物，病情发展迅速，短短两天时间，异物就堵塞了肺部左上叶的整个支气管。经过对孩子反复抢救和治疗，最终将支气管内的树枝状坏死物成功取出。</p>
+ <p><span id="article-img-2" class="a-image"><img src="//i1.go2yd.com/image.php?url=0Iyu8GZ7Nr"></span></p>
+ <p>姜主任介绍，这种内生性异物又名塑形性<a href="/channel/w/支气管炎">支气管炎</a>，发病急骤，发展迅速，诊断和治疗难度都比较大，死亡率很高。目前，孩子的病情已经基本稳定，但是还需要留院观察并进行治疗。</p>
+ <p><strong>提醒家长</strong><strong>平时在孩子发烧咳嗽</strong></p>
+ <p><strong>一定要留心观察，大意不得</strong></p>
+ <p><strong>小孩子好奇心强</strong></p>
+ <h3><strong>稍不留神就会出现意外</strong></h3>
+ <p><strong>误食高锰酸钾粉好奇“坑”了3岁娃</strong></p>
+ <div style="margin-bottom:10px;padding-bottom:10px;"></div>
+ <p></p>
+ <p>3岁男孩壮壮，家住旅顺口区龙头镇<a href="/channel/w/龙头村">龙头村</a>，30号下午5点左右，壮壮在家里看到一瓶颜色鲜艳的粉末，直接吃了一口，没想到，这是一瓶高锰酸钾粉，具有强腐蚀性，孩子吃了之后哭闹不止，家人赶紧拉着他赶往医院救治。</p>
+ <p><span id="article-img-3" class="a-image"><img src="//i1.go2yd.com/image.php?url=0Iyu8GSgWJ"></span></p>
+ <p>高锰酸钾是一种强氧化剂，具有杀菌<a href="/channel/w/消毒">消毒</a>的功效，但具有强腐蚀性。在交警的引领下，壮壮很快被送进急诊室急救。</p>
+ <p>医生介绍，高浓度的高锰酸钾，会严重腐蚀口腔和消化道，可能造成胃出血、肝肾损害、<a href="/channel/w/休克">休克</a>等症状，严重者可致人死亡。所幸壮壮吃的量不多，只是口腔黏膜轻微受损，加上救治及时，当晚10点多就回家了。</p>
+ <p><span id="article-img-4" class="a-image"><img src="//i1.go2yd.com/image.php?url=0Iyu8Gt3bK"></span></p>
+ <p>提醒家长：小孩子好奇心强，千万把一些危险。有毒有害及细小物品保管好，放在孩子看不见或者够不到的地方。</p>
+ <p><span id="article-img-5" class="a-image"><img src="//i1.go2yd.com/image.php?url=0Iyu8GEKxh"></span></p>
+ <p>再次给家长朋友们提个醒</p>
+ <p>千万别不把小病当回事儿</p>
+ <p>孩子<a href="/channel/w/发烧">发烧</a>咳嗽</p>
+ <p>家长切莫大意</p>
+ <p>如果出现持续发热、<a href="/channel/w/咳嗽">咳嗽</a></p>
+ <p>还有呼吸困难等症状</p>
+ <p>一定要及时就医</p>
+ <p>点个大拇指</p>
+ <div style="margin-bottom:10px;padding-bottom:10px;"></div>
+ <p></p>
+ <p>举手之劳啊</p>
+ <p>让鸽更有动力！</p>
+ <section></section>
+</div>
+[INFO]2018-05-08 19:34:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:89)] ***************************************
+[INFO]2018-05-08 19:52:02[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.resetCookie(ToutiaoDataInfoCrawler.java:156)] cookie==>UM_distinctid=1633f27bd713ad-0aa8e298da27f8-3c3c5905-100200-1633f27bd724ea; tt_webid=6553146256926377486; csrftoken=665bdfbfaba6b194cb271143dbfe796a; W2atIF=1; _ga=GA1.2.208499608.1525773011; _gid=GA1.2.1628626342.1525773011; _ba=BA0.2-20180508-51225-sKfF7iOkd5txoZXVrvkO
+[INFO]2018-05-08 19:52:03[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:科普丨细数5次生物大灭绝, url:http://toutiao.com/group/6551636437593227779/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:52:03[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:218)] **************************************************************
+[INFO]2018-05-08 19:52:03[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:219)] *******************title:科普丨细数5次生物大灭绝
+[INFO]2018-05-08 19:52:03[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:220)] *******************subName:宇宙科普小镇
+[INFO]2018-05-08 19:52:03[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:221)] *******************pubtime:2018-05-04 20:00:00
+[INFO]2018-05-08 19:52:03[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:222)] *******************crawlTime:2018-05-08 19:52:03
+[INFO]2018-05-08 19:52:03[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:223)] *******************channel:探索
+[INFO]2018-05-08 19:52:03[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:224)] **************************************************************
+[INFO]2018-05-08 19:52:03[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:当中子星物质脱离了中子星，会发生什么？有点像宇宙创生后景象, url:http://toutiao.com/group/6552414728080065032/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:52:03[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:218)] **************************************************************
+[INFO]2018-05-08 19:52:03[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:219)] *******************title:当中子星物质脱离了中子星，会发生什么？有点像宇宙创生后景象
+[INFO]2018-05-08 19:52:03[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:220)] *******************subName:宇宙万能镜
+[INFO]2018-05-08 19:52:03[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:221)] *******************pubtime:2018-05-06 23:22:03
+[INFO]2018-05-08 19:52:03[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:222)] *******************crawlTime:2018-05-08 19:52:03
+[INFO]2018-05-08 19:52:03[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:223)] *******************channel:探索
+[INFO]2018-05-08 19:52:03[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:224)] **************************************************************
+[INFO]2018-05-08 19:52:03[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:一周有趣科学简讯, url:http://toutiao.com/group/6550973515292475918/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:218)] **************************************************************
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:219)] *******************title:一周有趣科学简讯
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:220)] *******************subName:煎蛋
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:221)] *******************pubtime:2018-05-03 07:00:00
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:222)] *******************crawlTime:2018-05-08 19:52:04
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:223)] *******************channel:探索
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:224)] **************************************************************
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:外星生命形式或完全不同于地球生命，但碳基生命仍是人类寻找方向, url:http://toutiao.com/group/6551282551212737028/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:218)] **************************************************************
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:219)] *******************title:外星生命形式或完全不同于地球生命，但碳基生命仍是人类寻找方向
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:220)] *******************subName:宇宙探索
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:221)] *******************pubtime:2018-05-03 17:22:13
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:222)] *******************crawlTime:2018-05-08 19:52:04
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:223)] *******************channel:探索
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:224)] **************************************************************
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:宇宙为什么会产生引力和引力波, url:http://toutiao.com/group/6551677905636688388/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:218)] **************************************************************
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:219)] *******************title:宇宙为什么会产生引力和引力波
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:220)] *******************subName:时空通讯
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:221)] *******************pubtime:2018-05-04 18:56:23
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:222)] *******************crawlTime:2018-05-08 19:52:04
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:223)] *******************channel:探索
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:224)] **************************************************************
+[INFO]2018-05-08 19:52:04[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:土卫六的共晶正在疯狂被繁殖, url:http://toutiao.com/group/6552123370014507524/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:52:58[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.resetCookie(ToutiaoDataInfoCrawler.java:156)] cookie==>UM_distinctid=1633f27bd713ad-0aa8e298da27f8-3c3c5905-100200-1633f27bd724ea; tt_webid=6553146256926377486; csrftoken=665bdfbfaba6b194cb271143dbfe796a; W2atIF=1; _ga=GA1.2.208499608.1525773011; _gid=GA1.2.1628626342.1525773011; _ba=BA0.2-20180508-51225-sKfF7iOkd5txoZXVrvkO
+[INFO]2018-05-08 19:52:59[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:那些隐藏在地球深处的洞穴，终点通往何方, url:http://toutiao.com/group/6551246062948975117/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:52:59[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:给老鼠挠痒，在地球打隧道会怎样？这些事实让人感到很意外, url:http://toutiao.com/group/6550895233943470599/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:53:00[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:204)] ==============>title:亘古奇寒曾将地球变成土卫二！专家：罪魁祸首来自地球内部, url:http://toutiao.com/group/6553111822969340424/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:53:00[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:218)] **************************************************************
+[INFO]2018-05-08 19:53:00[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:219)] *******************title:亘古奇寒曾将地球变成土卫二！专家：罪魁祸首来自地球内部
+[INFO]2018-05-08 19:53:00[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:220)] *******************subName:中国气象爱好者
+[INFO]2018-05-08 19:53:00[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:221)] *******************pubtime:2018-05-08 18:40:00
+[INFO]2018-05-08 19:53:00[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:222)] *******************crawlTime:2018-05-08 19:53:00
+[INFO]2018-05-08 19:53:00[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:223)] *******************channel:探索
+[INFO]2018-05-08 19:53:00[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:224)] **************************************************************
+[INFO]2018-05-08 19:53:00[kafka.utils.Logging$class.info(Logging.scala:70)] Verifying properties
+[INFO]2018-05-08 19:53:00[kafka.utils.Logging$class.info(Logging.scala:70)] Property key.serializer.class is overridden to kafka.serializer.StringEncoder
+[INFO]2018-05-08 19:53:00[kafka.utils.Logging$class.info(Logging.scala:70)] Property metadata.broker.list is overridden to 172.16.38.162:9092,172.16.38.166:9092,172.16.38.163:9092,172.16.38.153:9092,172.16.38.164:9092
+[INFO]2018-05-08 19:53:00[kafka.utils.Logging$class.info(Logging.scala:70)] Property request.required.acks is overridden to -1
+[INFO]2018-05-08 19:53:00[kafka.utils.Logging$class.info(Logging.scala:70)] Property serializer.class is overridden to kafka.serializer.StringEncoder
+[INFO]2018-05-08 19:53:00[kafka.utils.Logging$class.info(Logging.scala:70)] Fetching metadata from broker BrokerEndPoint(2,172.16.38.163,9092) with correlation id 0 for 1 topic(s) Set(ToutiaoYidianNewsInfo)
+[INFO]2018-05-08 19:53:10[kafka.utils.Logging$class.info(Logging.scala:70)] Connected to 172.16.38.163:9092 for producing
+[INFO]2018-05-08 19:53:10[kafka.utils.Logging$class.info(Logging.scala:70)] Disconnecting from 172.16.38.163:9092
+[WARN]2018-05-08 19:53:10[kafka.utils.Logging$class.warn(Logging.scala:91)] Fetching topic metadata with correlation id 0 for topics [Set(ToutiaoYidianNewsInfo)] from broker [BrokerEndPoint(2,172.16.38.163,9092)] failed
+java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:110)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:80)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:79)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:124)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:59)
+	at kafka.producer.BrokerPartitionInfo.updateInfo(BrokerPartitionInfo.scala:83)
+	at kafka.producer.async.DefaultEventHandler$$anonfun$handle$1.apply$mcV$sp(DefaultEventHandler.scala:73)
+	at kafka.utils.CoreUtils$.swallow(CoreUtils.scala:79)
+	at kafka.utils.Logging$class.swallowError(Logging.scala:108)
+	at kafka.utils.CoreUtils$.swallowError(CoreUtils.scala:49)
+	at kafka.producer.async.DefaultEventHandler.handle(DefaultEventHandler.scala:73)
+	at kafka.producer.Producer.send(Producer.scala:78)
+	at kafka.javaapi.producer.Producer.send(Producer.scala:35)
+	at com.kpcoin.kafka.KafkaCommonProducer.writeMsg(KafkaCommonProducer.java:59)
+	at com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:17)
+	at com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:47)
+	at com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:225)
+	at com.kpcoin.crawlers.ToutiaoDataInfoCrawler$1.run(ToutiaoDataInfoCrawler.java:115)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:304)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO]2018-05-08 19:53:10[kafka.utils.Logging$class.info(Logging.scala:70)] Disconnecting from 172.16.38.163:9092
+[INFO]2018-05-08 19:53:10[kafka.utils.Logging$class.info(Logging.scala:70)] Fetching metadata from broker BrokerEndPoint(3,172.16.38.153,9092) with correlation id 0 for 1 topic(s) Set(ToutiaoYidianNewsInfo)
+[INFO]2018-05-08 19:55:57[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.resetCookie(ToutiaoDataInfoCrawler.java:146)] cookie==>UM_distinctid=1633f27bd713ad-0aa8e298da27f8-3c3c5905-100200-1633f27bd724ea; tt_webid=6553146256926377486; csrftoken=665bdfbfaba6b194cb271143dbfe796a; W2atIF=1; _ga=GA1.2.208499608.1525773011; _gid=GA1.2.1628626342.1525773011; _ba=BA0.2-20180508-51225-sKfF7iOkd5txoZXVrvkO
+[INFO]2018-05-08 19:55:57[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:极度深寒：爪哇西南部印度洋深处的生物学宝藏, url:http://toutiao.com/group/6550599058187092487/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-08 19:55:57[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-08 19:55:57[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:极度深寒：爪哇西南部印度洋深处的生物学宝藏
+[INFO]2018-05-08 19:55:57[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:煎蛋
+[INFO]2018-05-08 19:55:57[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-02 07:00:00
+[INFO]2018-05-08 19:55:57[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-08 19:55:57
+[INFO]2018-05-08 19:55:57[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:探索
+[INFO]2018-05-08 19:55:57[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-08 19:55:58[kafka.utils.Logging$class.info(Logging.scala:70)] Verifying properties
+[INFO]2018-05-08 19:55:58[kafka.utils.Logging$class.info(Logging.scala:70)] Property key.serializer.class is overridden to kafka.serializer.StringEncoder
+[INFO]2018-05-08 19:55:58[kafka.utils.Logging$class.info(Logging.scala:70)] Property metadata.broker.list is overridden to 172.16.38.162:9092,172.16.38.166:9092,172.16.38.163:9092,172.16.38.153:9092,172.16.38.164:9092
+[INFO]2018-05-08 19:55:58[kafka.utils.Logging$class.info(Logging.scala:70)] Property request.required.acks is overridden to -1
+[INFO]2018-05-08 19:55:58[kafka.utils.Logging$class.info(Logging.scala:70)] Property serializer.class is overridden to kafka.serializer.StringEncoder
+[INFO]2018-05-08 19:55:58[kafka.utils.Logging$class.info(Logging.scala:70)] Fetching metadata from broker BrokerEndPoint(4,172.16.38.164,9092) with correlation id 0 for 1 topic(s) Set(ToutiaoYidianNewsInfo)

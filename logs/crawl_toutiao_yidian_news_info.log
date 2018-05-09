@@ -1,0 +1,416 @@
+[INFO]2018-05-09 09:34:35[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.resetCookie(ToutiaoDataInfoCrawler.java:146)] cookie==>UM_distinctid=1633f27bd713ad-0aa8e298da27f8-3c3c5905-100200-1633f27bd724ea; tt_webid=6553146256926377486; csrftoken=665bdfbfaba6b194cb271143dbfe796a; W2atIF=1; _ga=GA1.2.208499608.1525773011; _gid=GA1.2.1628626342.1525773011; _ba=BA0.2-20180508-51225-sKfF7iOkd5txoZXVrvkO
+[INFO]2018-05-09 09:34:56[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:5颗小行星同时冲向地球？全世界只有中美有能力拦截, url:http://toutiao.com/group/6553079659439849997/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 09:36:59[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 09:36:59[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:5颗小行星同时冲向地球？全世界只有中美有能力拦截
+[INFO]2018-05-09 09:36:59[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:123军情观察室
+[INFO]2018-05-09 09:36:59[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-08 15:40:44
+[INFO]2018-05-09 09:37:00[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 09:36:21
+[INFO]2018-05-09 09:37:00[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:探索
+[INFO]2018-05-09 09:37:00[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 09:37:32[kafka.utils.Logging$class.info(Logging.scala:70)] Verifying properties
+[INFO]2018-05-09 09:37:32[kafka.utils.Logging$class.info(Logging.scala:70)] Property key.serializer.class is overridden to kafka.serializer.StringEncoder
+[INFO]2018-05-09 09:37:32[kafka.utils.Logging$class.info(Logging.scala:70)] Property metadata.broker.list is overridden to 172.16.38.162:9092,172.16.38.166:9092,172.16.38.163:9092,172.16.38.153:9092,172.16.38.164:9092
+[INFO]2018-05-09 09:37:32[kafka.utils.Logging$class.info(Logging.scala:70)] Property request.required.acks is overridden to -1
+[INFO]2018-05-09 09:37:32[kafka.utils.Logging$class.info(Logging.scala:70)] Property serializer.class is overridden to kafka.serializer.StringEncoder
+[INFO]2018-05-09 09:37:33[kafka.utils.Logging$class.info(Logging.scala:70)] Fetching metadata from broker BrokerEndPoint(3,172.16.38.153,9092) with correlation id 0 for 1 topic(s) Set(ToutiaoYidianNewsInfo)
+[INFO]2018-05-09 09:37:43[kafka.utils.Logging$class.info(Logging.scala:70)] Connected to 172.16.38.153:9092 for producing
+[INFO]2018-05-09 09:37:43[kafka.utils.Logging$class.info(Logging.scala:70)] Disconnecting from 172.16.38.153:9092
+[WARN]2018-05-09 09:37:43[kafka.utils.Logging$class.warn(Logging.scala:91)] Fetching topic metadata with correlation id 0 for topics [Set(ToutiaoYidianNewsInfo)] from broker [BrokerEndPoint(3,172.16.38.153,9092)] failed
+java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:110)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:80)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:79)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:124)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:59)
+	at kafka.producer.BrokerPartitionInfo.updateInfo(BrokerPartitionInfo.scala:83)
+	at kafka.producer.async.DefaultEventHandler$$anonfun$handle$1.apply$mcV$sp(DefaultEventHandler.scala:73)
+	at kafka.utils.CoreUtils$.swallow(CoreUtils.scala:79)
+	at kafka.utils.Logging$class.swallowError(Logging.scala:108)
+	at kafka.utils.CoreUtils$.swallowError(CoreUtils.scala:49)
+	at kafka.producer.async.DefaultEventHandler.handle(DefaultEventHandler.scala:73)
+	at kafka.producer.Producer.send(Producer.scala:78)
+	at kafka.javaapi.producer.Producer.send(Producer.scala:35)
+	at com.kpcoin.kafka.KafkaCommonProducer.writeMsg(KafkaCommonProducer.java:59)
+	at com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:17)
+	at com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:47)
+	at com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:215)
+	at com.kpcoin.crawlers.ToutiaoDataInfoCrawler.doCrawl(ToutiaoDataInfoCrawler.java:107)
+	at com.kpcoin.crawlers.ToutiaoDataInfoCrawler.main(ToutiaoDataInfoCrawler.java:96)
+[INFO]2018-05-09 09:37:43[kafka.utils.Logging$class.info(Logging.scala:70)] Disconnecting from 172.16.38.153:9092
+[INFO]2018-05-09 09:37:43[kafka.utils.Logging$class.info(Logging.scala:70)] Fetching metadata from broker BrokerEndPoint(2,172.16.38.163,9092) with correlation id 0 for 1 topic(s) Set(ToutiaoYidianNewsInfo)
+[INFO]2018-05-09 09:44:49[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.resetCookie(ToutiaoDataInfoCrawler.java:146)] cookie==>UM_distinctid=1633f27bd713ad-0aa8e298da27f8-3c3c5905-100200-1633f27bd724ea; tt_webid=6553146256926377486; csrftoken=665bdfbfaba6b194cb271143dbfe796a; W2atIF=1; _ga=GA1.2.208499608.1525773011; _gid=GA1.2.1628626342.1525773011; _ba=BA0.2-20180508-51225-sKfF7iOkd5txoZXVrvkO
+[INFO]2018-05-09 09:44:50[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:男篮现役最强阵容，此五人若能出战男篮世锦赛或能重返世界前八, url:http://toutiao.com/group/6553382730577478147/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 09:44:50[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 09:44:50[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:男篮现役最强阵容，此五人若能出战男篮世锦赛或能重返世界前八
+[INFO]2018-05-09 09:44:50[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:金日体育
+[INFO]2018-05-09 09:44:50[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-09 09:11:59
+[INFO]2018-05-09 09:44:50[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 09:44:50
+[INFO]2018-05-09 09:44:50[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:体育
+[INFO]2018-05-09 09:44:50[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 09:44:50[kafka.utils.Logging$class.info(Logging.scala:70)] Verifying properties
+[INFO]2018-05-09 09:44:50[kafka.utils.Logging$class.info(Logging.scala:70)] Property key.serializer.class is overridden to kafka.serializer.StringEncoder
+[INFO]2018-05-09 09:44:50[kafka.utils.Logging$class.info(Logging.scala:70)] Property metadata.broker.list is overridden to 172.16.38.162:9092,172.16.38.166:9092,172.16.38.163:9092,172.16.38.153:9092,172.16.38.164:9092
+[INFO]2018-05-09 09:44:50[kafka.utils.Logging$class.info(Logging.scala:70)] Property request.required.acks is overridden to -1
+[INFO]2018-05-09 09:44:50[kafka.utils.Logging$class.info(Logging.scala:70)] Property serializer.class is overridden to kafka.serializer.StringEncoder
+[INFO]2018-05-09 09:44:50[kafka.utils.Logging$class.info(Logging.scala:70)] Fetching metadata from broker BrokerEndPoint(4,172.16.38.164,9092) with correlation id 0 for 1 topic(s) Set(ToutiaoYidianNewsInfo)
+[INFO]2018-05-09 09:57:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.resetCookie(ToutiaoDataInfoCrawler.java:146)] cookie==>UM_distinctid=1633f27bd713ad-0aa8e298da27f8-3c3c5905-100200-1633f27bd724ea; tt_webid=6553146256926377486; csrftoken=665bdfbfaba6b194cb271143dbfe796a; W2atIF=1; _ga=GA1.2.208499608.1525773011; _gid=GA1.2.1628626342.1525773011; _ba=BA0.2-20180508-51225-sKfF7iOkd5txoZXVrvkO
+[INFO]2018-05-09 09:57:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:天王星和海王星真的在下钻石雨吗？这种奇观是怎么形成的？, url:http://toutiao.com/group/6552097105240916493/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 09:57:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 09:57:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:天王星和海王星真的在下钻石雨吗？这种奇观是怎么形成的？
+[INFO]2018-05-09 09:57:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:机械娘
+[INFO]2018-05-09 09:57:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-05 22:03:06
+[INFO]2018-05-09 09:57:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 09:57:41
+[INFO]2018-05-09 09:57:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:探索
+[INFO]2018-05-09 09:57:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 09:57:42[kafka.utils.Logging$class.info(Logging.scala:70)] Verifying properties
+[INFO]2018-05-09 09:57:42[kafka.utils.Logging$class.info(Logging.scala:70)] Property key.serializer.class is overridden to kafka.serializer.StringEncoder
+[INFO]2018-05-09 09:57:42[kafka.utils.Logging$class.info(Logging.scala:70)] Property metadata.broker.list is overridden to 172.16.38.162:9092,172.16.38.166:9092,172.16.38.163:9092,172.16.38.153:9092,172.16.38.164:9092
+[INFO]2018-05-09 09:57:42[kafka.utils.Logging$class.info(Logging.scala:70)] Property request.required.acks is overridden to -1
+[INFO]2018-05-09 09:57:42[kafka.utils.Logging$class.info(Logging.scala:70)] Property serializer.class is overridden to kafka.serializer.StringEncoder
+[INFO]2018-05-09 09:57:42[kafka.utils.Logging$class.info(Logging.scala:70)] Fetching metadata from broker BrokerEndPoint(2,172.16.38.163,9092) with correlation id 0 for 1 topic(s) Set(ToutiaoYidianNewsInfo)
+[INFO]2018-05-09 09:57:52[kafka.utils.Logging$class.info(Logging.scala:70)] Connected to 172.16.38.163:9092 for producing
+[INFO]2018-05-09 09:57:52[kafka.utils.Logging$class.info(Logging.scala:70)] Disconnecting from 172.16.38.163:9092
+[WARN]2018-05-09 09:57:52[kafka.utils.Logging$class.warn(Logging.scala:91)] Fetching topic metadata with correlation id 0 for topics [Set(ToutiaoYidianNewsInfo)] from broker [BrokerEndPoint(2,172.16.38.163,9092)] failed
+java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:110)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:80)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:79)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:124)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:59)
+	at kafka.producer.BrokerPartitionInfo.updateInfo(BrokerPartitionInfo.scala:83)
+	at kafka.producer.async.DefaultEventHandler$$anonfun$handle$1.apply$mcV$sp(DefaultEventHandler.scala:73)
+	at kafka.utils.CoreUtils$.swallow(CoreUtils.scala:79)
+	at kafka.utils.Logging$class.swallowError(Logging.scala:108)
+	at kafka.utils.CoreUtils$.swallowError(CoreUtils.scala:49)
+	at kafka.producer.async.DefaultEventHandler.handle(DefaultEventHandler.scala:73)
+	at kafka.producer.Producer.send(Producer.scala:78)
+	at kafka.javaapi.producer.Producer.send(Producer.scala:35)
+	at com.kpcoin.kafka.KafkaCommonProducer.writeMsg(KafkaCommonProducer.java:59)
+	at com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:17)
+	at com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:47)
+	at com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:215)
+	at com.kpcoin.crawlers.ToutiaoDataInfoCrawler.doCrawl(ToutiaoDataInfoCrawler.java:107)
+	at com.kpcoin.crawlers.runner.YidianToutiaoCrawlerRunner$1.run(YidianToutiaoCrawlerRunner.java:37)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:304)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO]2018-05-09 09:57:52[kafka.utils.Logging$class.info(Logging.scala:70)] Disconnecting from 172.16.38.163:9092
+[INFO]2018-05-09 09:57:52[kafka.utils.Logging$class.info(Logging.scala:70)] Fetching metadata from broker BrokerEndPoint(0,172.16.38.162,9092) with correlation id 0 for 1 topic(s) Set(ToutiaoYidianNewsInfo)
+[INFO]2018-05-09 09:58:02[kafka.utils.Logging$class.info(Logging.scala:70)] Connected to 172.16.38.162:9092 for producing
+[INFO]2018-05-09 09:58:02[kafka.utils.Logging$class.info(Logging.scala:70)] Disconnecting from 172.16.38.162:9092
+[WARN]2018-05-09 09:58:02[kafka.utils.Logging$class.warn(Logging.scala:91)] Fetching topic metadata with correlation id 0 for topics [Set(ToutiaoYidianNewsInfo)] from broker [BrokerEndPoint(0,172.16.38.162,9092)] failed
+java.nio.channels.ClosedChannelException
+	at kafka.network.BlockingChannel.send(BlockingChannel.scala:110)
+	at kafka.producer.SyncProducer.liftedTree1$1(SyncProducer.scala:80)
+	at kafka.producer.SyncProducer.kafka$producer$SyncProducer$$doSend(SyncProducer.scala:79)
+	at kafka.producer.SyncProducer.send(SyncProducer.scala:124)
+	at kafka.client.ClientUtils$.fetchTopicMetadata(ClientUtils.scala:59)
+	at kafka.producer.BrokerPartitionInfo.updateInfo(BrokerPartitionInfo.scala:83)
+	at kafka.producer.async.DefaultEventHandler$$anonfun$handle$1.apply$mcV$sp(DefaultEventHandler.scala:73)
+	at kafka.utils.CoreUtils$.swallow(CoreUtils.scala:79)
+	at kafka.utils.Logging$class.swallowError(Logging.scala:108)
+	at kafka.utils.CoreUtils$.swallowError(CoreUtils.scala:49)
+	at kafka.producer.async.DefaultEventHandler.handle(DefaultEventHandler.scala:73)
+	at kafka.producer.Producer.send(Producer.scala:78)
+	at kafka.javaapi.producer.Producer.send(Producer.scala:35)
+	at com.kpcoin.kafka.KafkaCommonProducer.writeMsg(KafkaCommonProducer.java:59)
+	at com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:17)
+	at com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:47)
+	at com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:215)
+	at com.kpcoin.crawlers.ToutiaoDataInfoCrawler.doCrawl(ToutiaoDataInfoCrawler.java:107)
+	at com.kpcoin.crawlers.runner.YidianToutiaoCrawlerRunner$1.run(YidianToutiaoCrawlerRunner.java:37)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:304)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO]2018-05-09 09:58:02[kafka.utils.Logging$class.info(Logging.scala:70)] Disconnecting from 172.16.38.162:9092
+[INFO]2018-05-09 09:58:02[kafka.utils.Logging$class.info(Logging.scala:70)] Fetching metadata from broker BrokerEndPoint(3,172.16.38.153,9092) with correlation id 0 for 1 topic(s) Set(ToutiaoYidianNewsInfo)
+[INFO]2018-05-09 10:26:31[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.resetCookie(ToutiaoDataInfoCrawler.java:146)] cookie==>UM_distinctid=1633f27bd713ad-0aa8e298da27f8-3c3c5905-100200-1633f27bd724ea; tt_webid=6553146256926377486; csrftoken=665bdfbfaba6b194cb271143dbfe796a; W2atIF=1; _ga=GA1.2.208499608.1525773011; _gid=GA1.2.1628626342.1525773011; _ba=BA0.2-20180508-51225-sKfF7iOkd5txoZXVrvkO
+[INFO]2018-05-09 10:26:31[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:既然引力是无限的，那能把它当作无限的能量源吗？, url:http://toutiao.com/group/6550854632225112590/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:32[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:32[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:既然引力是无限的，那能把它当作无限的能量源吗？
+[INFO]2018-05-09 10:26:32[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:火星一号
+[INFO]2018-05-09 10:26:32[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-02 13:41:40
+[INFO]2018-05-09 10:26:32[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:32
+[INFO]2018-05-09 10:26:32[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:探索
+[INFO]2018-05-09 10:26:32[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:32[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:宇宙诞生只用了几十个普朗克时间，而无数普朗克时间约等于一秒！, url:http://toutiao.com/group/6552509231470215684/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:32[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:32[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:宇宙诞生只用了几十个普朗克时间，而无数普朗克时间约等于一秒！
+[INFO]2018-05-09 10:26:32[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:奇趣工坊
+[INFO]2018-05-09 10:26:32[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-07 00:42:21
+[INFO]2018-05-09 10:26:32[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:32
+[INFO]2018-05-09 10:26:32[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:探索
+[INFO]2018-05-09 10:26:32[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:32[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:13年保罗终要进西决！德帅放狠话要速战速决，保罗再恳求球迷加油, url:http://toutiao.com/group/6553066771815858702/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:33[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:33[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:13年保罗终要进西决！德帅放狠话要速战速决，保罗再恳求球迷加油
+[INFO]2018-05-09 10:26:33[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:美职篮体育熊
+[INFO]2018-05-09 10:26:33[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-08 12:45:54
+[INFO]2018-05-09 10:26:33[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:33
+[INFO]2018-05-09 10:26:33[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:体育
+[INFO]2018-05-09 10:26:33[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:33[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:110分不再是火箭生死线！有这武器保罗目标何止西决？, url:http://toutiao.com/group/6553107835771683336/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:33[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:33[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:110分不再是火箭生死线！有这武器保罗目标何止西决？
+[INFO]2018-05-09 10:26:33[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:罗说篮球
+[INFO]2018-05-09 10:26:33[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-08 15:25:15
+[INFO]2018-05-09 10:26:33[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:33
+[INFO]2018-05-09 10:26:33[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:体育
+[INFO]2018-05-09 10:26:33[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:34[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:只有男人会肾虚吗？想养肾，就要两个人一起避免这4个误区, url:http://toutiao.com/group/6551170173045309955/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:34[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:34[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:只有男人会肾虚吗？想养肾，就要两个人一起避免这4个误区
+[INFO]2018-05-09 10:26:34[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:爆炸营养课堂
+[INFO]2018-05-09 10:26:34[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-03 10:06:08
+[INFO]2018-05-09 10:26:34[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:34
+[INFO]2018-05-09 10:26:34[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:养生
+[INFO]2018-05-09 10:26:34[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:34[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:肝炎怎么调养？多吃2种食物，不花什么钱，可以阻止肝炎恶化, url:http://toutiao.com/group/6552773940048036360/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:34[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:34[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:肝炎怎么调养？多吃2种食物，不花什么钱，可以阻止肝炎恶化
+[INFO]2018-05-09 10:26:34[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:四叶草的爱
+[INFO]2018-05-09 10:26:34[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-07 17:49:34
+[INFO]2018-05-09 10:26:34[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:34
+[INFO]2018-05-09 10:26:34[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:养生
+[INFO]2018-05-09 10:26:34[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:35[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:真爱！中超红人再表白热巴，权健球迷要帮帕托追女神, url:http://toutiao.com/group/6553185573761188365/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:35[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:35[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:真爱！中超红人再表白热巴，权健球迷要帮帕托追女神
+[INFO]2018-05-09 10:26:35[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:忠橙家族
+[INFO]2018-05-09 10:26:35[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-08 20:31:31
+[INFO]2018-05-09 10:26:35[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:35
+[INFO]2018-05-09 10:26:35[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:娱乐
+[INFO]2018-05-09 10:26:35[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:35[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:农村路边88岁老人卖的稀罕物不多见，做小生意一天进账200元, url:http://toutiao.com/group/6552277152446808589/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:36[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:隧道行车你做对了吗？通行技能了解一下, url:http://toutiao.com/group/6551920890810991111/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:36[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:36[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:隧道行车你做对了吗？通行技能了解一下
+[INFO]2018-05-09 10:26:36[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:车位之家
+[INFO]2018-05-09 10:26:36[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-06 09:38:00
+[INFO]2018-05-09 10:26:36[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:36
+[INFO]2018-05-09 10:26:36[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:社会
+[INFO]2018-05-09 10:26:36[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:36[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:夜游扬州古运河，古城美景尽收眼底，这里曾是文骚墨客的消遣之地, url:http://toutiao.com/group/6553375774437540360/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:37[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:37[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:夜游扬州古运河，古城美景尽收眼底，这里曾是文骚墨客的消遣之地
+[INFO]2018-05-09 10:26:37[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:落榜进士V
+[INFO]2018-05-09 10:26:37[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-09 08:44:59
+[INFO]2018-05-09 10:26:37[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:37
+[INFO]2018-05-09 10:26:37[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:旅行
+[INFO]2018-05-09 10:26:37[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:37[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:日本人最喜欢去的地方，传说中的山中温泉, url:http://toutiao.com/group/6553387412121190920/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:37[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:37[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:日本人最喜欢去的地方，传说中的山中温泉
+[INFO]2018-05-09 10:26:37[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:老迟
+[INFO]2018-05-09 10:26:37[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-09 09:30:09
+[INFO]2018-05-09 10:26:37[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:37
+[INFO]2018-05-09 10:26:37[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:旅行
+[INFO]2018-05-09 10:26:37[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:37[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:李白也感到茫然的这段历史，它的真相到底是什么？, url:http://toutiao.com/group/6552671781285528068/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:李白也感到茫然的这段历史，它的真相到底是什么？
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:聂作平
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-07 11:13:08
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:38
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:历史
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:星星说（5.7——5.13）双鱼座：多么庆幸长夜无需一个人, url:http://toutiao.com/group/6553193488651911684/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:星星说（5.7——5.13）双鱼座：多么庆幸长夜无需一个人
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:星星说STARCHAT
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-08 20:57:37
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:38
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:美文
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:人生：十靠，十点，十然，十修，十等，祝您十全十美，十分幸福！, url:http://toutiao.com/group/6531235190746907140/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:人生：十靠，十点，十然，十修，十等，祝您十全十美，十分幸福！
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:柳随凨
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-03-10 18:04:48
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:38
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:美文
+[INFO]2018-05-09 10:26:38[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:39[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:炉石传说：你愿意玩只有29张牌的骑士吗？和大家聊聊平衡性调整, url:http://toutiao.com/group/6553183096387142152/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:39[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:39[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:炉石传说：你愿意玩只有29张牌的骑士吗？和大家聊聊平衡性调整
+[INFO]2018-05-09 10:26:39[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:喜脉的世界
+[INFO]2018-05-09 10:26:39[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-08 20:17:18
+[INFO]2018-05-09 10:26:39[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:39
+[INFO]2018-05-09 10:26:39[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:游戏
+[INFO]2018-05-09 10:26:39[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:39[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:4am孤存狙击天秀，解说：看装备就可以看得出孤存在队伍中的地位, url:http://toutiao.com/group/6553223348438958599/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:39[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:39[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:4am孤存狙击天秀，解说：看装备就可以看得出孤存在队伍中的地位
+[INFO]2018-05-09 10:26:39[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:电竞智多星
+[INFO]2018-05-09 10:26:39[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-08 22:53:30
+[INFO]2018-05-09 10:26:39[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:39
+[INFO]2018-05-09 10:26:39[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:游戏
+[INFO]2018-05-09 10:26:39[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:40[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:「独家视频」习近平同朝鲜劳动党委员长金正恩在大连举行会晤, url:http://toutiao.com/group/6553174424625873412/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:40[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:40[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:「独家视频」习近平同朝鲜劳动党委员长金正恩在大连举行会晤
+[INFO]2018-05-09 10:26:40[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:央视新闻移动网
+[INFO]2018-05-09 10:26:40[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-08 19:43:39
+[INFO]2018-05-09 10:26:40[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:40
+[INFO]2018-05-09 10:26:40[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:全部
+[INFO]2018-05-09 10:26:40[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:40[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:巴黎，一座流动的博物馆, url:http://toutiao.com/group/6550177757920231950/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:40[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:40[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:巴黎，一座流动的博物馆
+[INFO]2018-05-09 10:26:40[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:中国新闻周刊
+[INFO]2018-05-09 10:26:40[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-04-30 17:55:03
+[INFO]2018-05-09 10:26:40[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:40
+[INFO]2018-05-09 10:26:40[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:全部
+[INFO]2018-05-09 10:26:40[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:40[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:这部暖心的魔女动画，有宫崎骏的回声吗？, url:http://toutiao.com/group/6551276346205536782/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:这部暖心的魔女动画，有宫崎骏的回声吗？
+[INFO]2018-05-09 10:26:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:三联生活周刊
+[INFO]2018-05-09 10:26:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-03 16:58:08
+[INFO]2018-05-09 10:26:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:41
+[INFO]2018-05-09 10:26:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:全部
+[INFO]2018-05-09 10:26:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:重返非小号对于彩币来说意义重大，彩币TIX的复兴之路风雨兼程, url:http://toutiao.com/group/6553157739961385486/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:重返非小号对于彩币来说意义重大，彩币TIX的复兴之路风雨兼程
+[INFO]2018-05-09 10:26:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:牛二兄
+[INFO]2018-05-09 10:26:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-08 18:38:54
+[INFO]2018-05-09 10:26:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:41
+[INFO]2018-05-09 10:26:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:教育
+[INFO]2018-05-09 10:26:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:41[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:腾讯要连接一切，凭什么？, url:http://toutiao.com/group/6553396178128470541/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:腾讯要连接一切，凭什么？
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:WiFi新连接
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-09 10:04:10
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:42
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:教育
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:货币基金和短期理财，哪一个更有优势？, url:http://toutiao.com/group/6553149464855446030/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:货币基金和短期理财，哪一个更有优势？
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:火眼财经
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-08 18:06:47
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:42
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:教育
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:酷派起诉小米！网友：这个时间掐得准, url:http://toutiao.com/group/6553228091689271816/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:酷派起诉小米！网友：这个时间掐得准
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:水哥爱搞机
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-08 23:11:54
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:42
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:教育
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:42[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:微软的失败摆在这里 华为还会研发手机系统吗？, url:http://toutiao.com/group/6553230723338207758/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:43[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:43[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:微软的失败摆在这里 华为还会研发手机系统吗？
+[INFO]2018-05-09 10:26:43[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:水哥爱搞机
+[INFO]2018-05-09 10:26:43[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-08 23:22:07
+[INFO]2018-05-09 10:26:43[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:43
+[INFO]2018-05-09 10:26:43[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:教育
+[INFO]2018-05-09 10:26:43[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:43[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:民间故事：男子拜师学捞尸，一个复仇，一个为财, url:http://toutiao.com/group/6552015608928535053/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:43[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:43[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:民间故事：男子拜师学捞尸，一个复仇，一个为财
+[INFO]2018-05-09 10:26:43[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:二社谈故事
+[INFO]2018-05-09 10:26:43[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-07 12:32:45
+[INFO]2018-05-09 10:26:43[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:43
+[INFO]2018-05-09 10:26:43[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:故事
+[INFO]2018-05-09 10:26:43[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:44[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:汽车有A、B、C、D几个等级是怎么划分的？, url:http://toutiao.com/group/6553093421882409476/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:44[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:44[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:汽车有A、B、C、D几个等级是怎么划分的？
+[INFO]2018-05-09 10:26:44[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:汽车观察家
+[INFO]2018-05-09 10:26:44[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-08 14:29:19
+[INFO]2018-05-09 10:26:44[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:44
+[INFO]2018-05-09 10:26:44[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:汽车
+[INFO]2018-05-09 10:26:44[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:44[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:主打军工品质质量却让人寒心，猎豹CS10销量下滑严重, url:http://toutiao.com/group/6553378857913680392/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:44[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:44[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:主打军工品质质量却让人寒心，猎豹CS10销量下滑严重
+[INFO]2018-05-09 10:26:44[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:文武车道
+[INFO]2018-05-09 10:26:44[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-09 09:28:44
+[INFO]2018-05-09 10:26:44[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:44
+[INFO]2018-05-09 10:26:44[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:汽车
+[INFO]2018-05-09 10:26:44[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:44[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:宝宝脾气倔要如何应对？父母应该学会这几招！, url:http://toutiao.com/group/6552721741750206980/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:宝宝脾气倔要如何应对？父母应该学会这几招！
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:外国妈咪分享育儿经
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-07 14:27:00
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:45
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:育儿
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:怎么哄孩子睡觉最有效？, url:http://toutiao.com/group/6532729086693868036/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:怎么哄孩子睡觉最有效？
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:十分妈妈
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-03-14 17:25:18
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:45
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:育儿
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:婴儿出生后由谁第一个抱回家，讲究真不少，看网友们的精彩回答, url:http://toutiao.com/group/6540908304502096387/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:婴儿出生后由谁第一个抱回家，讲究真不少，看网友们的精彩回答
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:妈妈育儿助手
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-04-05 18:24:50
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:45
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:育儿
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:宝宝突然爱说脏话？别急着上纲上线，不妨试试这些方法, url:http://toutiao.com/group/6553108340237402628/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:宝宝突然爱说脏话？别急着上纲上线，不妨试试这些方法
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:亲子沟通如何说
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-09 08:58:08
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:45
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:育儿
+[INFO]2018-05-09 10:26:45[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:46[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:个人理财有哪些好的方法？, url:http://toutiao.com/group/6526806375731823112/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:46[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:46[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:个人理财有哪些好的方法？
+[INFO]2018-05-09 10:26:46[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:火眼财经
+[INFO]2018-05-09 10:26:46[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-02-26 18:22:09
+[INFO]2018-05-09 10:26:46[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:46
+[INFO]2018-05-09 10:26:46[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:财经
+[INFO]2018-05-09 10:26:46[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:46[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:部分地区存栏量减少，生猪出栏均重下降，生猪价格将回升？, url:http://toutiao.com/group/6553065073399562759/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:46[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:46[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:部分地区存栏量减少，生猪出栏均重下降，生猪价格将回升？
+[INFO]2018-05-09 10:26:46[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:果然悠
+[INFO]2018-05-09 10:26:46[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-09 05:00:00
+[INFO]2018-05-09 10:26:46[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:46
+[INFO]2018-05-09 10:26:46[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:财经
+[INFO]2018-05-09 10:26:46[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:47[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:普京刚刚就职，安倍就要求俄罗斯“割地”，结果出人意料, url:http://toutiao.com/group/6553150646705455619/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:47[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:47[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:普京刚刚就职，安倍就要求俄罗斯“割地”，结果出人意料
+[INFO]2018-05-09 10:26:47[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:海外探客
+[INFO]2018-05-09 10:26:47[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-08 18:11:23
+[INFO]2018-05-09 10:26:47[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:47
+[INFO]2018-05-09 10:26:47[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:国际
+[INFO]2018-05-09 10:26:47[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:47[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:农场着火主人慌忙逃生，狗狗留守救出一票小弟, url:http://toutiao.com/group/6527914576221045262/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:47[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:47[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:农场着火主人慌忙逃生，狗狗留守救出一票小弟
+[INFO]2018-05-09 10:26:47[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:头号宠物星人
+[INFO]2018-05-09 10:26:47[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-03-01 18:02:32
+[INFO]2018-05-09 10:26:47[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:47
+[INFO]2018-05-09 10:26:47[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:国际
+[INFO]2018-05-09 10:26:47[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
+[INFO]2018-05-09 10:26:48[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:194)] ==============>title:范冰冰超爱的外滩露台火锅，我们花1W+滚了遍菜单！, url:http://toutiao.com/group/6552738073061360142/ match the crawrlTime - pubTime >= 432000000 condition!
+[INFO]2018-05-09 10:26:48[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:208)] **************************************************************
+[INFO]2018-05-09 10:26:48[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:209)] *******************title:范冰冰超爱的外滩露台火锅，我们花1W+滚了遍菜单！
+[INFO]2018-05-09 10:26:48[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:210)] *******************subName:上海沃会
+[INFO]2018-05-09 10:26:48[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:211)] *******************pubtime:2018-05-07 15:30:23
+[INFO]2018-05-09 10:26:48[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:212)] *******************crawlTime:2018-05-09 10:26:48
+[INFO]2018-05-09 10:26:48[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:213)] *******************channel:美食
+[INFO]2018-05-09 10:26:48[com.kpcoin.crawlers.ToutiaoDataInfoCrawler.crawlChannelNewsList(ToutiaoDataInfoCrawler.java:214)] **************************************************************
