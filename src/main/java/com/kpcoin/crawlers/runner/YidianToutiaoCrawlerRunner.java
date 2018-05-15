@@ -22,6 +22,12 @@ public class YidianToutiaoCrawlerRunner {
 			} else {
 				crawlToutiaoYidianNews();
 			}
+			for (String arg : args) {
+				if ("writeToKafka=true".equalsIgnoreCase(arg)) {
+					System.getProperties().setProperty("writeToKafka", "yes");
+					break;
+				}
+			}
 		} else {
 			crawlToutiaoYidianNews();
 		}
@@ -34,9 +40,9 @@ public class YidianToutiaoCrawlerRunner {
 		scheduledExecutorService.scheduleAtFixedRate(new Runnable() {
 			@Override
 			public void run() {
-				ToutiaoDataInfoCrawler.doCrawl();
+				//ToutiaoDataInfoCrawler.doCrawl();
 				YidianClientNewsCrawler.doCrawl();
 			}
-		}, 0, 60, TimeUnit.SECONDS);//每60秒钟抓取一次
+		}, 0, 15, TimeUnit.SECONDS);//每60秒钟抓取一次
 	} 
 }

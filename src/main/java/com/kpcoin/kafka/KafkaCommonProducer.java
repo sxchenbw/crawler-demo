@@ -1,21 +1,20 @@
 package com.kpcoin.kafka;
 
-import kafka.javaapi.producer.Producer;
-import kafka.producer.KeyedMessage;
-import kafka.producer.ProducerConfig;
-
 import java.util.Properties;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 
+import org.apache.kafka.clients.producer.KafkaProducer;
+import org.apache.kafka.clients.producer.ProducerRecord;
+
+
 /**
  * Created by chenbw on 2017/8/25.
  */
-@SuppressWarnings("deprecation")
 public class KafkaCommonProducer extends BaseKafka {
 
     @SuppressWarnings({"unchecked", "rawtypes" })
-	private static ConcurrentMap<String, Producer<String, String>> producer_instance = new ConcurrentHashMap();
+	private static ConcurrentMap<String, KafkaProducer<String, String>> producer_instance = new ConcurrentHashMap();
     private static Properties props;
 
     static {
@@ -36,11 +35,10 @@ public class KafkaCommonProducer extends BaseKafka {
      * @param topic
      * @return
      */
-    public static Producer<String, String> getProducer(String topic) {
-        Producer<String, String> producer = producer_instance.get(topic);
+    public static KafkaProducer<String, String> getProducer(String topic) {
+    	KafkaProducer<String, String> producer = producer_instance.get(topic);
         if (producer == null) {
-            ProducerConfig config = new ProducerConfig(props);
-            producer = new Producer<String, String>(config);
+            producer = new KafkaProducer<String, String>(props);
             producer_instance.put(topic, producer);
         }
         return producer;
@@ -49,14 +47,15 @@ public class KafkaCommonProducer extends BaseKafka {
     /**
      * 写消息到指定的topic
      * @param topicName
-     * @param content
+     * @param key
+     * @param value
      */
-    public static void writeMsg(String topicName, String content) {
-        Producer<String, String> producer = getProducer(topicName);
+    public static void writeMsg(String topicName, String key, String value) {
+    	KafkaProducer<String, String> producer = getProducer(topicName);
         if (producer != null) {
             try {
-                KeyedMessage<String, String> msg = new KeyedMessage<String, String>(topicName, content);
-                producer.send(msg);
+            	ProducerRecord<String, String> data = new ProducerRecord<String, String>(topicName, key, value);
+                producer.send(data);
                 logger.info("send msg to [" + topicName + "] complete!");
             } catch (Exception e) {
                 logger.error("writeMsg发生异常" + e.getMessage(), e);

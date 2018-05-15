@@ -20,11 +20,25 @@ public class YidianClientNewsCrawler extends BaseCrawler {
 	
 	public static void main(String[] args){
 		doCrawl();
+//		String docId = "0IzvTBf1";
+//		String content = crawlAndExtractNewsDetailContent(docId);
+//		System.out.println(content);
 	} 
 	
 	public static void doCrawl() {
-		String url = "http://www.yidianzixun.com/home/q/news_list_for_channel?channel_id=best&cstart=0&cend=10" +
-				"&infinite=true&refresh=1&__from__=wap&appid=web_yidian&_=" + System.currentTimeMillis();
+//		String url = "http://www.yidianzixun.com/home/q/news_list_for_channel?channel_id=best&cstart=0&cend=10" +
+//				"&infinite=true&refresh=1&__from__=wap&appid=web_yidian&_=" + System.currentTimeMillis();
+		String url = "https://a1.go2yd.com/Website//channel/news-list-for-best-channel?amazing_comments=true" +
+				"&eventid=592656649245ebc9d-a6af-41f8-8bd8-306d2b43e2b0" +
+				"&cstart=0&infinite=true&searchentry=channel_navibar&refresh=1" +
+				"&group_fromid=g181&collection_num=0&distribution=app.xiaomi.com" +
+				"&version=020900&platform=1&ad_version=010948" +
+				"&reqid=9suospd4_"+System.currentTimeMillis()+"_21671" +
+				"&cv=4.6.6.0" +
+				"&cend=30&appid=yidian" +
+				"&fields=docid&fields=date" +
+				"&fields=image&fields=image_urls&fields=like&fields=source&fields=title&fields=url&fields=comment_count&fields=up&fields=down" +
+				"&net=wifi";
 		Connection conn = null;
 		Response response = null;
 		String result = null;
@@ -36,7 +50,7 @@ public class YidianClientNewsCrawler extends BaseCrawler {
 			conn.header("Host", "www.yidianzixun.com");
 			conn.header("Referer", "http://www.yidianzixun.com/");
 			conn.header("Connection", "keep-alive");
-			conn.cookie("sptoken", "Uhoy~U%3AU%3B%3AU48261efeced332cc9f20413132c69381fc543e646c107e57007811dbe8cc4ddf");
+			conn.cookie("JSESSIONID", "kt-fnz49vIQoSLFNLu3xMw");
 			conn.userAgent("Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1");
 			
 			response = conn.execute();
@@ -87,7 +101,7 @@ public class YidianClientNewsCrawler extends BaseCrawler {
 						logger.info("content:" + content);
 						json.put("originalContent", content);
 						logger.info("***************************************");
-						writeNewsInfoToKafka(KafkaTopics.toutiao_yidian_news_topic, 
+						writeNewsInfoToKafka(KafkaTopics.toutiao_yidian_news_topic, yidianNewsKey,
 								title, source, date, image, content, tag_name, card_label, docid);
 					}
 				}

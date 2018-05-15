@@ -100,6 +100,12 @@ public class ToutiaoDataInfoCrawler extends BaseCrawler {
 	 * 
 	 */
 	public static void doCrawl() {
+//		System.setProperty("http.maxRedirects", "50");
+//		System.getProperties().setProperty("proxySet", "true");
+//		// 如果不设置，只要代理IP和代理端口正确,此项不设置也可以
+//		String ip = "125.118.75.233";
+//		System.getProperties().setProperty("http.proxyHost", ip);
+//		System.getProperties().setProperty("http.proxyPort", "6666");
 		//获取cookie信息
 		resetCookie();
 		//m.toutiao端数据接口
@@ -212,7 +218,7 @@ public class ToutiaoDataInfoCrawler extends BaseCrawler {
 								logger.info("*******************crawlTime:" + json.getString("crawlTime"));
 								logger.info("*******************channel:" + json.getString("channel"));
 								logger.info("**************************************************************");
-								writeNewsInfoToKafka(KafkaTopics.toutiao_yidian_news_topic, 
+								writeNewsInfoToKafka(KafkaTopics.toutiao_yidian_news_topic, toutiaoNewsKey,
 										title, 
 										json.getString("subName"), 
 										json.getString("pubtime"), 
