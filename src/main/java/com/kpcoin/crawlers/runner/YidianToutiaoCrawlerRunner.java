@@ -36,13 +36,19 @@ public class YidianToutiaoCrawlerRunner {
 	 * 
 	 */
 	public static void crawlToutiaoYidianNews() {
-		ScheduledExecutorService scheduledExecutorService = Executors.newScheduledThreadPool(4);
-		scheduledExecutorService.scheduleAtFixedRate(new Runnable() {
+		ScheduledExecutorService ydScheduledExecutorService = Executors.newScheduledThreadPool(4);
+		ydScheduledExecutorService.scheduleAtFixedRate(new Runnable() {
 			@Override
 			public void run() {
-				//ToutiaoDataInfoCrawler.doCrawl();
 				YidianClientNewsCrawler.doCrawl();
 			}
-		}, 0, 15, TimeUnit.SECONDS);//每60秒钟抓取一次
+		}, 0, 60, TimeUnit.SECONDS);//每60秒钟抓取一次
+		ScheduledExecutorService ttScheduledExecutorService = Executors.newScheduledThreadPool(4);
+		ttScheduledExecutorService.scheduleAtFixedRate(new Runnable() {
+			@Override
+			public void run() {
+				ToutiaoDataInfoCrawler.doCrawl();
+			}
+		}, 0, 15, TimeUnit.MINUTES);
 	} 
 }

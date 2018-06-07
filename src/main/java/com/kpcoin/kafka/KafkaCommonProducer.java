@@ -27,6 +27,10 @@ public class KafkaCommonProducer extends BaseKafka {
         props.put("serializer.class", serialClass);
         props.put("key.serializer.class", serialClass);
         props.put("request.required.acks", acks);
+        
+        props.put("bootstrap.servers", brokerList);
+        props.put("key.serializer", "org.apache.kafka.common.serialization.StringSerializer");
+        props.put("value.serializer", "org.apache.kafka.common.serialization.StringSerializer");
 
     }
 
@@ -36,7 +40,7 @@ public class KafkaCommonProducer extends BaseKafka {
      * @return
      */
     public static KafkaProducer<String, String> getProducer(String topic) {
-    	KafkaProducer<String, String> producer = producer_instance.get(topic);
+        KafkaProducer<String, String> producer = producer_instance.get(topic);
         if (producer == null) {
             producer = new KafkaProducer<String, String>(props);
             producer_instance.put(topic, producer);
@@ -47,11 +51,29 @@ public class KafkaCommonProducer extends BaseKafka {
     /**
      * 写消息到指定的topic
      * @param topicName
-     * @param key
-     * @param value
+     * @param content
      */
-    public static void writeMsg(String topicName, String key, String value) {
+    public static void writeMsg(String topicName, String content) {
     	KafkaProducer<String, String> producer = getProducer(topicName);
+        if (producer != null) {
+            try {
+            	ProducerRecord<String, String> data = new ProducerRecord<String, String>(topicName, content);
+                producer.send(data);
+                logger.info("send msg to [" + topicName + "] complete!");
+            } catch (Exception e) {
+                logger.error("writeMsg发生异常" + e.getMessage(), e);
+            }
+        }
+    }
+    
+    /**
+     * 写消息到指定的topic
+     * @param key
+     * @param topicName
+     * @param content
+     */
+    public static void writeMsg(String topicName, String key,  String value) {
+        KafkaProducer<String, String> producer = getProducer(topicName);
         if (producer != null) {
             try {
             	ProducerRecord<String, String> data = new ProducerRecord<String, String>(topicName, key, value);
@@ -64,6 +86,9 @@ public class KafkaCommonProducer extends BaseKafka {
     }
     
     public static void main(String[] args) {
-		System.out.println(brokerList);
+		String topicName = "testTopic";
+		String key = "testDataKey";
+		String value = "test content";
+		writeMsg(topicName, key, value);
 	}
 }

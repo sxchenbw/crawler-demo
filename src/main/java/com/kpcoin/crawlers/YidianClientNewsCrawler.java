@@ -1,5 +1,7 @@
 package com.kpcoin.crawlers;
 
+import java.util.concurrent.LinkedBlockingDeque;
+
 import org.apache.commons.lang3.StringUtils;
 import org.apache.log4j.Logger;
 import org.jsoup.Connection;
@@ -18,27 +20,38 @@ public class YidianClientNewsCrawler extends BaseCrawler {
 
 	public static final Logger logger = Logger.getLogger(YidianClientNewsCrawler.class);
 	
+	public static final String yidianImgPrefix = "http://i1.go2yd.com/image.php?url=";
+	
 	public static void main(String[] args){
-		doCrawl();
-//		String docId = "0IzvTBf1";
-//		String content = crawlAndExtractNewsDetailContent(docId);
-//		System.out.println(content);
+		/*
+		ScheduledExecutorService scheduledExecutorService = Executors.newScheduledThreadPool(4);
+		scheduledExecutorService.scheduleAtFixedRate(new Runnable() {
+			@Override
+			public void run() {
+				doCrawl();
+			}
+		}, 0, 1000, TimeUnit.SECONDS);//每60秒钟抓取一次
+		*/
+//		doCrawl();
+		String docId = "0J9V4Z59";
+		String content = crawlAndExtractNewsDetailContent(docId);
+		System.out.println(content);
 	} 
 	
 	public static void doCrawl() {
 //		String url = "http://www.yidianzixun.com/home/q/news_list_for_channel?channel_id=best&cstart=0&cend=10" +
-//				"&infinite=true&refresh=1&__from__=wap&appid=web_yidian&_=" + System.currentTimeMillis();
-		String url = "https://a1.go2yd.com/Website//channel/news-list-for-best-channel?amazing_comments=true" +
-				"&eventid=592656649245ebc9d-a6af-41f8-8bd8-306d2b43e2b0" +
-				"&cstart=0&infinite=true&searchentry=channel_navibar&refresh=1" +
-				"&group_fromid=g181&collection_num=0&distribution=app.xiaomi.com" +
-				"&version=020900&platform=1&ad_version=010948" +
-				"&reqid=9suospd4_"+System.currentTimeMillis()+"_21671" +
-				"&cv=4.6.6.0" +
-				"&cend=30&appid=yidian" +
-				"&fields=docid&fields=date" +
-				"&fields=image&fields=image_urls&fields=like&fields=source&fields=title&fields=url&fields=comment_count&fields=up&fields=down" +
-				"&net=wifi";
+//		"&infinite=true&refresh=1&__from__=wap&appid=web_yidian&_=" + System.currentTimeMillis();
+String url = "https://a1.go2yd.com/Website//channel/news-list-for-best-channel?amazing_comments=true" +
+		"&eventid=592656649245ebc9d-a6af-41f8-8bd8-306d2b43e2b0" +
+		"&cstart=0&infinite=true&searchentry=channel_navibar&refresh=1" +
+		"&group_fromid=g181&collection_num=0&distribution=app.xiaomi.com" +
+		"&version=020900&platform=1&ad_version=010948" +
+		"&reqid=9suospd4_"+System.currentTimeMillis()+"_21671" +
+		"&cv=4.6.6.0" +
+		"&cend=30&appid=yidian" +
+		"&fields=docid&fields=date" +
+		"&fields=image&fields=image_urls&fields=like&fields=source&fields=title&fields=url&fields=comment_count&fields=up&fields=down" +
+		"&net=wifi";
 		Connection conn = null;
 		Response response = null;
 		String result = null;
@@ -76,33 +89,35 @@ public class YidianClientNewsCrawler extends BaseCrawler {
 					int size = result == null ? 0 : result.size();
 					for (int i = 0;i < size; i ++) {
 						JSONObject item = result.getJSONObject(i);
-						logger.info("*****************接口返回的原始内容-开始********************");
-						logger.info(item);
-						logger.info("*****************接口返回的原始内容-结束********************");
 						String docid = item.getString("docid");
 						String title = item.getString("title");
 						String source = item.getString("source");
 						String date = item.getString("date");
-						String summary = item.getString("summary");
+//						String summary = item.getString("summary");
 						String category = item.getString("category");
 						String image = item.getString("image");
-						String image_urls = item.getString("image_urls");
+						image = (StringUtils.isNotBlank(image) && !image.startsWith("http")) ? yidianImgPrefix + image : "";
+						if (StringUtils.isNotBlank(image)) {
+							image = image + "&type=thumbnail_324x210";
+						}
+//						String image_urls = item.getString("image_urls");
 						String tag_name = item.getString("tag_name");
 						String card_label = item.getString("card_label");
-						logger.info("docid:" + docid + ", title:" + title);
-						logger.info("source:" + source + ", date:" + date + ", category:" + category);
-						logger.info("summary:" + summary);
+						logger.info("title:" + title);
+						logger.info("docid:" + docid);
 						logger.info("image:" + image);
-						logger.info("image_urls:" + image_urls);
-						logger.info("---------------------------------------");
-						logger.info("tag_name:" + tag_name + ", card_label:" + card_label);
+						logger.info("source:" + source + ", date:" + date );
+//						logger.info("summary:" + summary);						
+//						logger.info("image_urls:" + image_urls);
+//						logger.info("---------------------------------------");
+//						logger.info("tag_name:" + tag_name + ", card_label:" + card_label);
 						logger.info("---------------------------------------");
 						String content = crawlAndExtractNewsDetailContent(docid);
-						logger.info("content:" + content);
+						//logger.info("content:" + content);
 						json.put("originalContent", content);
 						logger.info("***************************************");
-						writeNewsInfoToKafka(KafkaTopics.toutiao_yidian_news_topic, yidianNewsKey,
-								title, source, date, image, content, tag_name, card_label, docid);
+						writeNewsInfoToKafka(KafkaTopics.toutiao_yidian_news_topic, yidianNewsKey, 
+								title, source, date, image, content, tag_name, card_label, docid, category);
 					}
 				}
 			} catch(Exception e) {
@@ -134,6 +149,16 @@ public class YidianClientNewsCrawler extends BaseCrawler {
 					Elements divs = doc.select(contentContainer);
 					if (divs != null && divs.size() == 1) {
 						Element divElement = divs.first();
+						for (Element link : divElement.select("a")) {
+							link.removeAttr("href");
+						}
+						for (Element img : divElement.select("img")) {
+							String src = img.attr("src");
+							if (StringUtils.isNotBlank(src) && src.indexOf("//") == 0) {
+								src = "http:" + src;
+								img.attr("src", src);
+							}
+						}
 						content = divElement.outerHtml();
 					}
 				}
@@ -149,7 +174,6 @@ public class YidianClientNewsCrawler extends BaseCrawler {
 	 */
 	public static void saveNewsInfo(JSONObject json) {
 		if (json != null) {
-			//TODO save news detail info to db
 			for (String  key : json.keySet()) {
 				System.out.println("save record, key:" + key);
 			}

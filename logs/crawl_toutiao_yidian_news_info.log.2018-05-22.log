@@ -1,0 +1,794 @@
+[INFO]2018-05-22 15:36:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-22 15:36:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"他常谈起五六岁时随母亲买《岳飞传》《岳母刺字》等小人书的故事。习近平说：“买回来之后，她就给我讲精忠报国、岳母刺字的故事。我说，把字刺上去，多疼啊！我母亲说，是疼，但心里铭记住了。‘精忠报国’四个字，我从那个时候一直记到现在，它也是我一生追求的目标。”","dis_recommend":true,"is_gov":false,"tag_icon":"je9lniep.png","itemid":"0J6lypKb","impid":"592656649_1526974578808_6734","date":"2018-05-22 15:31:18","meta":"592656649_1526974578808_6734","feedback_forbidden":true,"docid":"0J6lypKb","title":"习近平的英雄情怀","dtype":1,"content_type":"news","b_political":true,"dislike_fromids":["u1779","e32246","",""],"pageid":"Homepage_g181","comment_count":121,"tags":["tag_weibo_pop","tag_sticky"],"extra":[],"card_label":{"text":"置顶","border_color":"#FF5B5F","text_color":"#FF5B5F","background_color":""},"image":"http://si1.go2yd.com/get-image/0NLrF86S0bA","ctype":"news","image_urls":["http://si1.go2yd.com/get-image/0NLrF86S0bA"],"title_sn":0,"like":443,"tag_name":"sticky","upload_images":["http://si1.go2yd.com/get-image/0NLrF86S0bA"],"url":"https://app.peopleapp.com/Api/600/DetailApi/shareArticle?type=0&article_id=1756242&nickname=%E4%BA%BA%E6%B0%913657958&avatar=&uid=1702&from=singlemessage&isappinstalled=0","up":1065,"dislike_reasons":["习近平","新时代","旧闻、重复","内容质量差"],"card_position":["best"],"category":"时政","edit_cover":true,"source":"人民日报客户端","display_flag":0,"down":49,"auth":true}
+[INFO]2018-05-22 15:36:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-22 15:36:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J6lypKb, title:习近平的英雄情怀
+[INFO]2018-05-22 15:36:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:人民日报客户端, date:2018-05-22 15:31:18, category:时政
+[INFO]2018-05-22 15:36:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:他常谈起五六岁时随母亲买《岳飞传》《岳母刺字》等小人书的故事。习近平说：“买回来之后，她就给我讲精忠报国、岳母刺字的故事。我说，把字刺上去，多疼啊！我母亲说，是疼，但心里铭记住了。‘精忠报国’四个字，我从那个时候一直记到现在，它也是我一生追求的目标。”
+[INFO]2018-05-22 15:36:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:http://si1.go2yd.com/get-image/0NLrF86S0bA
+[INFO]2018-05-22 15:36:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["http://si1.go2yd.com/get-image/0NLrF86S0bA"]
+[INFO]2018-05-22 15:36:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-22 15:36:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:sticky, card_label:{"text":"置顶","border_color":"#FF5B5F","text_color":"#FF5B5F","background_color":""}
+[INFO]2018-05-22 15:36:19[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:<div class="content-bd">
+ <p>原标题:习近平的英雄情怀</p>
+ <p>他五六岁时就听母亲讲岳母刺字的故事，“精忠报国”成为他一生追求的目标；</p>
+ <p>他曾到<a href="/channel/w/井冈山">井冈山</a>、大别山、陕北多地缅怀革命英烈，讲述<a href="/channel/w/英雄故事">英雄故事</a>，号召大家铭记、崇尚英雄；</p>
+ <p>他说，“和平年代同样需要英雄情怀”，“不要让英雄既流血又流泪”。</p>
+ <p>他就是<a href="/channel/w/习近平">习近平</a>。今天，让我们一起感受习近平总书记的英雄情怀。</p>
+ <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6lypgufC"></span></p>
+ <p><strong>1.“精忠报国”是我一生追求的目标</strong></p>
+ <p>从小，习近平就在英雄故事的熏陶中成长。</p>
+ <p>他常谈起五六岁时随母亲买《<a href="/channel/w/岳飞传">岳飞传</a>》《岳母刺字》等小人书的故事。习近平说：“买回来之后，她就给我讲精忠报国、岳母刺字的故事。我说，把字刺上去，多疼啊！我母亲说，是疼，但心里铭记住了。‘精忠报国’四个字，我从那个时候一直记到现在，它也是我一生追求的目标。”</p>
+ <p>1966年，上初中一年级的习近平听了<a href="/channel/w/焦裕禄">焦裕禄</a>的故事“受到深深震撼”。“记得1966年2月7日，《<a href="/channel/w/人民日报">人民日报</a>》刊登了穆青等同志的长篇通讯《县委书记的榜样——焦裕禄》……政治课老师在念这篇通讯的过程中几度哽咽，多次泣不成声，同学们也流下眼泪。”习近平动情地说到，“我们这一代人，是深受焦裕禄同志的事迹<a href="/channel/w/教育">教育</a>成长起来的。”</p>
+ <p><span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6lypIMqK"></span></p>
+ <p>后来，当知青、上大学、参军入伍、当干部，习近平心中一直有焦裕禄的形象。1990年，习近平任福州市委书记时，以《念奴娇》的词牌填了一首《<a href="/channel/w/追思焦裕禄">追思焦裕禄</a>》。其中一句“暮雪朝霜，毋改英雄意气”，既是对<a href="/channel/w/焦裕禄">焦裕禄</a>为民情怀与英雄本色的致意，更是对自己的鞭策。</p>
+ <p>从大队支书到总书记，习近平始终牵挂着老百姓，为民服务、为国尽力。</p>
+ <p><strong>2.我们要铭记一切为中华民族和中国人民作出贡献的英雄们</strong></p>
+ <p>担任党和国家领导人后，习近平缅怀英烈的足迹遍布大江南北。</p>
+ <p><a href="/channel/w/井冈山">井冈山</a><a href="/channel/w/革命烈士陵园">革命烈士陵园</a>、红军长征会师<a href="/channel/w/纪念碑">纪念碑</a>、华东<a href="/channel/w/革命烈士陵园">革命烈士陵园</a>、金寨县革命烈士纪念塔……这些地方都留下习近平向英雄致敬的脚步。</p>
+ <p><span id="article-img-2" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6lypZypX"></span></p>
+ <p>习近平崇敬英雄，也喜欢讲<a href="/channel/w/英雄故事">英雄故事</a>。</p>
+ <p>讲抗日英烈，习近平提到一位母亲。他说，北京<a href="/channel/w/密云县">密云县</a>一位名叫邓玉芬的母亲，把丈夫和5个孩子送上前线，他们全部战死沙场。华北平原上的一个庄户人家写下这样一副对联：“万众一心保障国家独立，百折不挠争取民族解放”；横批是：“抗战到底”。这是中华儿女同<a href="/channel/w/日本">日本</a>侵略者血战到底的怒吼，是中华民族抗战必胜的宣言。</p>
+ <p>讲革命先烈，他多次提到“<a href="/channel/w/狼牙山五壮士">狼牙山五壮士</a>”、“白刃格斗英雄连”、“刘老庄连”、<a href="/channel/w/董存瑞">董存瑞</a>、<a href="/channel/w/邱少云">邱少云</a>、黄继光等。他说，回想过去那段峥嵘岁月，我们要向革命先烈表示崇高的敬意，我们永远怀念他们、牢记他们，传承好他们的红色<a href="/channel/w/基因">基因</a>。</p>
+ <p>讲维和英雄，他在谈到维和行动中殉职的和志虹时说，（她）留下年仅4岁的幼子和年逾花甲的父母。她曾经写到，大千世界，我也许只是一根羽毛，但我也要以羽毛的方式承载和平的心愿。这是她生前的愿望，也是中国对和平的承诺。</p>
+ <p>在习近平看来，一个有希望的民族不能没有英雄，一个有前途的国家不能没有先锋。包括抗战英雄在内的一切民族英雄，都是中华民族的脊梁，他们的事迹和精神都是激励我们前行的强大力量。</p>
+ <p><span id="article-img-3" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6lypORNt"></span></p>
+ <p><strong>3.实现中华民族伟大复兴的目标需要英雄精神</strong></p>
+ <p>“我们不是历史虚无主义者，也不是文化虚无主义者，不能数典忘祖、妄自菲薄。”面对一些时不时出现的歪曲历史、贬低英雄等现象，习近平态度坚定地予以回击。</p>
+ <p>在他推动下，中国以立法形式设立了烈士纪念日、中国人民<a href="/channel/w/抗日战争">抗日战争</a>胜利纪念日和<a href="/channel/w/南京大屠杀">南京大屠杀</a>死难者国家公祭日；2015年12月14日，<a href="/channel/w/中共中央政治局">中共中央政治局</a>会议审议通过了《关于建立健全党和国家功勋荣誉表彰制度的意见》，决定成立党和国家功勋荣誉表彰工作委员会；2018年5月1日起，《中华人民共和国英雄烈士保护法》正式施行。</p>
+ <p>他还强调，和平年代同样需要英雄情怀。</p>
+ <p>关于公安队伍，他说，每当听到<a href="/channel/w/公安民警">公安民警</a>在血与火、生与死的考验面前赴汤蹈火、流血牺牲的消息，我都深感心痛。</p>
+ <p>关于军人，他说，不要让英雄既流血又流泪，让军人受到尊崇，这是最基本的，这个要保障。</p>
+ <p>在他的引领下，铭记英雄、崇尚英雄、捍卫英雄、学习英雄、关爱英雄，正成为社会的风尚。</p>
+ <p><a href="/channel/w/习近平">习近平</a>曾满怀深情地说：“中华民族从站起来、富起来到强起来，经历了多少坎坷，创造了多少奇迹。”在他看来，今天，中国正在发生日新月异的变化，我们比历史上任何时期都更加接近实现中华民族伟大复兴的目标。实现我们的目标，需要英雄，需要英雄精神！</p>
+ <abbr id="yidian_editor">责任编辑：张丹凤</abbr>
+</div>
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"无数英雄先烈是我们民族的脊梁，是我们不断开拓前进的勇气和力量所在。一点资讯与众多网络媒体共同发起“崇尚英雄 精忠报国”网络征文活动，投稿方式请看通知，时间：5月21日-27日。","dis_recommend":true,"is_gov":false,"tag_icon":"je9lniep.png","itemid":"0J6GgMxz","impid":"592656649_1526974578808_6734","date":"2018-05-22 15:26:18","meta":"592656649_1526974578808_6734","feedback_forbidden":true,"docid":"0J6GgMxz","title":"专题|互动征集：我们家的报国故事","dtype":0,"b_political":false,"content_type":"news","dislike_fromids":["",""],"pageid":"Homepage_g181","comment_count":57,"tags":["tag_weibo_pop","tag_sticky"],"extra":[],"card_label":{"text":"置顶","border_color":"#FF5B5F","text_color":"#FF5B5F","background_color":""},"ctype":"news","ttype":0,"title_sn":0,"like":927,"tag_name":"sticky","url":"http://www.yidianzixun.com/topics/peYHu2e6T24uiCX7JYSJhlnStM","update_title_time":"1526960612154","up":1120,"dislike_reasons":["旧闻、重复","内容质量差"],"card_position":["best"],"source":"一点资讯","display_flag":0,"down":58,"auth":true}
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J6GgMxz, title:专题|互动征集：我们家的报国故事
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:一点资讯, date:2018-05-22 15:26:18, category:null
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:无数英雄先烈是我们民族的脊梁，是我们不断开拓前进的勇气和力量所在。一点资讯与众多网络媒体共同发起“崇尚英雄 精忠报国”网络征文活动，投稿方式请看通知，时间：5月21日-27日。
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:null
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:null
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:sticky, card_label:{"text":"置顶","border_color":"#FF5B5F","text_color":"#FF5B5F","background_color":""}
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:<div class="content-bd">
+ <style type="text/css">.a-content{margin:0;padding:0}.a{padding-left:0;padding-right:0}.a,.a-container{padding-top:0}#doc-content-1{overflow:visible}.content-bd #preview-topic-container div{text-indent:0}.container{padding:30px 0 4px}.container>.meta,.container>h3{padding-left:15px}.container .content #preview-topic-container .news-item,.container .content #preview-topic-container .preview-topic-summary,.container .content #preview-topic-container .subscribe-more-channel{margin:0 15px}.push-bar{display:none}.container .content #preview-topic-container div{margin-bottom:0}#preview-topic-container li{margin-left:0!important}#preview-topic-container .bottom-channel{padding:0 15px}#preview-topic-container .preview-topic-header{position:relative;margin-bottom:0!important}#preview-topic-container .topic-background{background-position:center top;background-size:cover;width:100%;padding-top:38%;margin-bottom:0}#preview-topic-container .preview-topic-header>.preview-topic-title{position:absolute;bottom:0;left:0;padding:10px 15px;color:#fff;font-size:18px;font-weight:700;margin-bottom:0}#preview-topic-container .preview-topic-summary{padding:15px 0;margin:0 15px;margin-top:0;margin-bottom:0!important;position:relative}#preview-topic-container .preview-topic-summary .summary-prompt{float:left;background:#03a9f4;color:#fff;font-size:14px;padding:0 5px;margin-right:10px;margin-top:2px;margin-bottom:0;line-height:18px}#preview-topic-container .preview-topic-summary .summary-content{font-size:13px;line-height:22px;margin-top:0;margin-bottom:0}#preview-topic-container .preview-category-nav{margin-top:0!important;margin-bottom:0!important}#preview-topic-container .preview-category-nav ul{margin-left:12px;margin-bottom:0;margin-top:0;padding-left:0}#preview-topic-container .preview-category-nav ul li{list-style:none;padding:0 7px;margin-right:11px;margin-bottom:0;margin-top:10px;color:#666;font-size:14px;float:left;overflow:hidden;border:1px solid rgba(187,187,187,.3);text-align:center;display:block;height:33px;line-height:31px;box-sizing:border-box;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px}#preview-topic-container .preview-category-nav.hide{display:none}#preview-topic-container .preview-news-list{margin-bottom:0!important}#preview-topic-container .other-category-list .category-item .news-title,#preview-topic-container .preview-news-list .news-title{font-size:17px;line-height:1.5;color:#222;margin-bottom:0;text-align:left;text-overflow:ellipsis;display:-webkit-box;overflow:hidden;-webkit-line-clamp:2;-webkit-box-orient:vertical}#preview-topic-container .other-category-list .category-content .news-item,#preview-topic-container .preview-news-list .news-item{padding:9px 0 10px;position:relative;margin:0 15px;cursor:pointer}#preview-topic-container .news-item.display-right-thumb-img{overflow:hidden}#preview-topic-container .news-item:after,#preview-topic-container .preview-topic-summary:after{content:'';position:absolute;bottom:0;background:#d8d8d8;width:100%;height:1px;-webkit-transform:scaleY(.5);transform:scaleY(.5);-webkit-transform-origin:0 0;transform-origin:0 0}#preview-topic-container .news-item:last-child:after{height:0}#preview-topic-container .news-item .news-thumb-image{float:right;margin-left:10px!important;background-size:cover;margin-bottom:0;width:33%;padding-top:23%;position:relative}#preview-topic-container .other-category-list .news-item .single-big-image,#preview-topic-container .preview-news-list .news-item .single-big-image{background-size:cover;margin-bottom:0;padding-bottom:0!important;overflow:hidden;padding-top:38%;position:relative;background-position:center}#preview-topic-container .other-category-list .news-ads-type.news-item .single-big-image,#preview-topic-container .preview-news-list .news-ads-type.news-item .single-big-image{padding-bottom:50%!important;padding-top:0!important;height:0}#preview-topic-container i.video-play-icon{background-image:url(http://staticimg.yidianzixun.com/s/editor/201607/2veA9uJe4.png);background-size:cover;left:50%;top:50%;position:absolute}#preview-topic-container .news-thumb-image i.video-play-icon{height:30px;width:30px;margin:-15px 0 0 -15px;border-radius:15px;-moz-border-radius:15px;-webkit-border-radius:15px}#preview-topic-container .single-big-image i.video-play-icon{height:40px;width:40px;margin:-20px 0 0 -20px;border-radius:20px;-moz-border-radius:20px;-webkit-border-radius:20px}#preview-topic-container .news-item .video-time{position:absolute;bottom:6px;right:6px;font-weight:700;font-size:10px;color:#fff;background:rgba(0,0,0,.5);display:inline-block;height:20px;line-height:20px;border-radius:24px;-moz-border-radius:24px;-webkit-border-radius:24px;padding:0 6px;text-align:center;box-sizing:border-box}#preview-topic-container .other-category-list .category-content .news-item .news-image-list,#preview-topic-container .preview-news-list .news-item .news-image-list{margin-top:5px;margin-bottom:0}#preview-topic-container .clearfix{clear:both;margin-bottom:0}#preview-topic-container .news-image-list .news-image-item{width:33%;padding-top:23%;float:left;margin-right:.5%;margin-left:0;margin-bottom:0;background-size:cover}#preview-topic-container .news-image-list .news-image-item:last-child,#preview-topic-container .subscribe-more-channel .channels-content ul li:last-child{margin-right:0}#preview-topic-container .other-category-list .category-content .news-item .news-info,#preview-topic-container .preview-news-list .news-item .news-info{margin-top:8px;margin-bottom:0;line-height:11px}#preview-topic-container .news-info span{color:#999;font-size:11px;margin-left:10px}#preview-topic-container .news-info span.source{margin-left:0}.container #preview-topic-container .news-info span.comment{margin:0 0 0 10px}#preview-topic-container .news-info span.comment.hide{display:none}#preview-topic-container .subscribe-more-channel{position:relative;padding:12px 0 15px;margin:0 15px}#preview-topic-container .subscribe-more-channel:after{content:'';position:absolute;top:0;background:#d8d8d8;width:100%;height:1px;-webkit-transform:scaleY(.5);transform:scaleY(.5);-webkit-transform-origin:0 0;transform-origin:0 0}#preview-topic-container .subscribe-more-channel .subscribe-channel-title{font-size:14px;color:#222;margin-bottom:0}#preview-topic-container .subscribe-more-channel .channels-content{margin-bottom:0;margin-top:6px}#preview-topic-container .subscribe-more-channel .channels-content ul{padding:0;margin:0;-webkit-tap-highlight-color:rgba(0,0,0,0)}#preview-topic-container .subscribe-more-channel .channels-content ul li{list-style:none;float:left;width:22.75%;margin-right:3%;margin-bottom:0}#preview-topic-container .subscribe-more-channel .channels-content .channel-name{font-size:12px;line-height:1.6;position:absolute;color:#fff;font-weight:700;bottom:0;left:0;right:0;margin-bottom:0;height:40px;padding-top:18px;box-sizing:border-box;background:linear-gradient(to top,rgba(0,0,0,.5),rgba(255,255,255,0));background:-moz-linear-gradient(to top,rgba(0,0,0,.5),rgba(255,255,255,0));background:-webkit-gradient(linear,0 0,0 bottom,from(rgba(255,255,255,0)),to(rgba(0,0,0,.5)));background:-o-linear-gradient(to top,rgba(0,0,0,.5),rgba(255,255,255,0))}#preview-topic-container .subscribe-more-channel .channels-content .channel-item .channel-background{width:100%;height:100%;background-size:cover;position:relative;text-align:center;margin-bottom:0}#preview-topic-container .subscribe-more-channel .channels-content .channel-item .channel-background:after{content:"";display:block;padding-bottom:100%}#preview-topic-container .news-ads-type .news-info span.source{margin-left:10px}#preview-topic-container .news-ads-type .news-info span.ads-logo{margin-left:0;text-align:center;box-sizing:border-box;position:relative;font-size:9px;padding:0 1px}#preview-topic-container .news-ads-type .news-info span.ads-logo:after{content:'';position:absolute;left:0;top:0;border:1px solid #999;box-sizing:border-box;width:200%;height:200%;-webkit-transform:scale(.5);transform:scale(.5);-webkit-transform-origin:left top;transform-origin:left top}#preview-topic-container .other-category-list .category-title{background-color:#ebebeb;color:#666;padding:5px 15px;margin-bottom:0;font-size:14px;font-weight:700}#preview-topic-container .other-category-list .category-item,#preview-topic-container .other-category-list .category-item .category-content{margin-bottom:0}.night #preview-topic-container .other-category-list .category-item .news-title,.night #preview-topic-container .preview-category-nav ul li,.night #preview-topic-container .preview-news-list .news-title,.night #preview-topic-container .preview-topic-summary .summary-content,.yidian-night #preview-topic-container .other-category-list .category-item .news-title,.yidian-night #preview-topic-container .preview-category-nav ul li,.yidian-night #preview-topic-container .preview-news-list .news-title,.yidian-night #preview-topic-container .preview-topic-summary .summary-content{color:#a9b1be}.night #preview-topic-container .other-category-list .category-title,.yidian-night #preview-topic-container .other-category-list .category-title{background-color:#414141;color:#f5f5f5}.night #preview-topic-container .news-item:after,.night #preview-topic-container .preview-topic-summary:after,.yidian-night #preview-topic-container .news-item:after,.yidian-night #preview-topic-container .preview-topic-summary:after{background:#54585e}@media only screen and (min-width:641px){#preview-topic-container .preview-category-nav ul li{text-indent:0}}.is_ipad #preview-topic-container{margin-top:.2rem}.is_ipad #preview-topic-container .preview-category-nav ul li{padding:0 .07rem;margin-right:.13rem;font-size:.1rem;color:#222;height:.2rem;line-height:.2rem}.is_ipad #preview-topic-container .other-category-list .category-item .news-title,.is_ipad #preview-topic-container .preview-news-list .news-title{font-size:.12rem}.is_ipad #preview-topic-container .other-category-list .category-content .news-item,.is_ipad #preview-topic-container .preview-news-list .news-item,.is_ipad #preview-topic-container .preview-topic-summary{margin:0 .17rem}.is_ipad #preview-topic-container .news-item .news-thumb-image{margin-left:.08rem!important}.is_ipad #preview-topic-container .news-item.display-right-thumb-img{overflow:hidden}.is_ipad #preview-topic-container .news-item.display-right-thumb-img .news-info{position:absolute;bottom:.17rem}</style>
+ <!-- use by olympic topic, picture gallery which news ctype is picture_gallery-->
+ <!-- 普通专题和push专题共用新闻样式-->
+ <!-- 普通专题右侧小图新闻-->
+ <!-- push专题右侧小图新闻-->
+ <!-- 加入data-ctype主要是为了oppo浏览器图集展示-->
+ <!-- 普通和push专题, 大图新闻-->
+ <!-- 加入data-ctype主要是为了oppo浏览器图集展示-->
+ <!-- 普通和push专题, 三图新闻-->
+ <!-- 加入data-ctype主要是为了oppo浏览器图集展示-->
+ <!-- 普通和push专题, 无图新闻-->
+ <!-- 加入data-ctype主要是为了oppo浏览器图集展示-->
+ <!-- push专题, 右侧小图, 音频新闻-->
+ <!-- 加入data-ctype主要是为了oppo浏览器图集展示-->
+ <!-- push专题, 伪造的焦点新闻, 因为焦点新闻默认不显示-->
+ <!-- 这里主要是为了oppo浏览器, 获取焦点新闻的点击数以及判断它是否是图集-->
+ <div id="doc1" style="display:none"></div>
+ <div id="normal-topic-header-info" style="display:none" data-header-title=""></div>
+ <div id="preview-topic-container" class="topic-type-normal">
+  <iframe id="load-script" style="display:none" onload="!function(){function e(e,n){return function(t){var i=t.target;do{if(e(i))return t.delegateTarget=i,void n.apply(this,arguments)}while(i=i.parentNode)}}function n(){var e=document.querySelector(&quot;#normal-topic-header-info&quot;),n=e.getAttribute(&quot;data-header-title&quot;)||&quot;一点专题&quot;;h()?f(&quot;yidian-article://article?t=set_article_header&amp;title=&quot;+encodeURIComponent(n)):g()&amp;&amp;container&amp;&amp;container.setArticleHeader&amp;&amp;container.setArticleHeader(n,&quot;&quot;,&quot;&quot;)}function t(){o(a(),i)}function i(e){e.forEach(function(e){var n,t=document.querySelector(&quot;#preview-topic-container #news-&quot;+e.docid);t&amp;&amp;e.comment_count>=0&amp;&amp;(n=t.querySelector(&quot;.comment&quot;),n.innerHTML=e.comment_count+&quot;评&quot;,e.comment_count>0?n.classList.remove(&quot;hide&quot;):n.classList.add(&quot;hide&quot;))})}function a(){for(var e=document.querySelectorAll(&quot;#preview-topic-container .news-item&quot;),n=[],t=0;t<e.length;t++)e[t].getAttribute(&quot;id&quot;)&amp;&amp;n.push(e[t].getAttribute(&quot;id&quot;).split(&quot;-&quot;)[1]);return n}function o(e,n){var t=e.join(&quot;,&quot;);window.yidian&amp;&amp;window.yidian.util&amp;&amp;window.yidian.util.req&amp;&amp;window.yidian.util.req({url:&quot;http://a1.go2yd.com:80/Website/contents/content-meta?docid=&quot;+t+&quot;&amp;fields=comment_count&quot;,method:&quot;GET&quot;,callback:function(e){e&amp;&amp;&quot;success&quot;===e.status&amp;&amp;e.result&amp;&amp;e.result.documents&amp;&amp;e.result.documents.length>0&amp;&amp;n(e.result.documents)}})}function r(){var e=document.querySelector(&quot;#topic-recommend-channel-header-data&quot;),n=e.getAttribute(&quot;data-channel-id&quot;),t=e.getAttribute(&quot;data-channel-name&quot;),i=e.getAttribute(&quot;data-channel-image&quot;),a=e.getAttribute(&quot;data-channel-type&quot;),o=e.getAttribute(&quot;data-channel-bookcount&quot;);_={id:n,name:t,image:i,type:a,bookcount:o},g()&amp;&amp;container.setChannelHeader?container.setChannelHeader(JSON.stringify(_)):h()&amp;&amp;window.yidian&amp;&amp;window.yidian.util&amp;&amp;window.yidian.util.openScheme(&quot;yidian-article://article?t=set_channel_header&amp;data=&quot;+JSON.stringify(_))}function c(){for(var n=document.querySelectorAll(&quot;#preview-topic-container .subscribe-more-channel .channels-content ul&quot;),t=function(e){e.preventDefault();d(e.delegateTarget.getAttribute(&quot;data-id&quot;),e.delegateTarget.getAttribute(&quot;data-name&quot;),e.delegateTarget.getAttribute(&quot;data-image&quot;),&quot;&quot;)},i=0;i<n.length;i++)n[i].addEventListener(&quot;click&quot;,e(k.hasClass(&quot;channel-item&quot;),t))}function d(e,n,t,i){g()&amp;&amp;y()?&quot;m&quot;==e[0]&amp;&amp;android.channelFromMedia?android.channelFromMedia(e,n,t,i):&quot;m&quot;!=e[0]&amp;&amp;android.channel&amp;&amp;android.channel(e,n):h()&amp;&amp;y()?f(&quot;m&quot;==e[0]?&quot;yidian-article://article?t=channel&amp;name=&quot;+encodeURIComponent(n)+&quot;&amp;id=&quot;+e+&quot;&amp;type=media&amp;image=&quot;+encodeURIComponent(t)+&quot;&amp;summary=&quot;+encodeURIComponent(i):&quot;yidian-article://article?t=channel&amp;name=&quot;+encodeURIComponent(n)+&quot;&amp;id=&quot;+e+&quot;&amp;typeStr=system&amp;image=&quot;+encodeURIComponent(t)):window.open(&quot;http://www.yidianzixun.com/channel/&quot;+e,&quot;_blank&quot;)}function l(){v(document.querySelectorAll(&quot;#preview-topic-container .news-item&quot;),u)}function u(e){var n,t,i,a=e.currentTarget;if(a.classList.contains(&quot;news-item-type-url&quot;))n=a.getAttribute(&quot;data-url&quot;),p(n);else if(a.classList.contains(&quot;news-ads-type&quot;))i=a.getAttribute(&quot;data-ads-url&quot;),w(i);else{t=a.getAttribute(&quot;id&quot;).split(&quot;-&quot;)[1];var o=+a.querySelector(&quot;.comment&quot;).innerHTML.slice(0,-1);m(t,o)}}function m(e,n){var t,i;if(C())return t=document.getElementById(&quot;news-&quot;+e),i=t.getAttribute(&quot;data-ctype&quot;),void s(e,i);if(b())return void(g()&amp;&amp;android&amp;&amp;android.doc?android.doc(e,&quot;&quot;,&quot;&quot;,n):f(&quot;yidian-article://article?t=doc&amp;docid=&quot;+e+&quot;&amp;commentcount=&quot;+n));if(g()&amp;&amp;android&amp;&amp;android.doc)try{android.doc(e,&quot;&quot;)}catch(n){try{$e(&quot;article_android#main#evt:load_doc&quot;)(e,null,&quot;push_news&quot;)}catch(n){window.open(&quot;http://www.yidianzixun.com/article/&quot;+e,&quot;_blank&quot;)}}else h()?f(&quot;yidian-article://article?t=doc&amp;docid=&quot;+e):window.open(&quot;http://www.yidianzixun.com/article/&quot;+e,&quot;_blank&quot;)}function s(e,n){try{window.yidianmini.openDoc(e,n)}catch(e){console.log(&quot;error in yidian mini app&quot;)}}function w(e){g()&amp;&amp;android.link?android.link(e,&quot;&quot;):h()?f(&quot;yidian-article://article?t=link&amp;url=&quot;+encodeURIComponent(e)):window.open(e,&quot;_blank&quot;)}function p(e){g()&amp;&amp;android.link?android.link(e,&quot;&quot;):h()?f(&quot;yidian-article://article?t=link&amp;url=&quot;+encodeURIComponent(e)):window.open(e,&quot;_blank&quot;)}function f(e){var n=document.createElement(&quot;iframe&quot;);n.className=&quot;iframe-scheme&quot;,n.style.cssText=&quot;width:1px;height:1px;position:absolute;left:-1000em;&quot;,n.src=e,document.body.appendChild(n),setTimeout(function(){n.remove()},1e3)}function y(){var e=&quot;object&quot;==typeof container,n=window.yidian&amp;&amp;window.yidian.HB_SetContentData||window.$tpls,t=window.yidian&amp;&amp;window.yidian.util;return e||n||t}function h(){var e=window.navigator.userAgent.toLowerCase();return(-1!==e.indexOf(&quot;iphone&quot;)||-1!==e.indexOf(&quot;ipod&quot;)||-1!==e.indexOf(&quot;ipad&quot;))&amp;&amp;y()}function g(){return&quot;object&quot;==typeof container}function v(e,n){for(var t=0;t<e.length;t++)e[t].addEventListener(&quot;click&quot;,n,!1)}function b(){var e=A();return 4===e.major&amp;&amp;5===e.minor&amp;&amp;e.patch>=4||(4===e.major&amp;&amp;e.minor>5||e.major>4)}function A(){if(yidian.util&amp;&amp;yidian.util.getClientInfo){var e=yidian.util.getClientInfo().version,n=e.split(&quot;.&quot;);return{major:+n[0],minor:+n[1],patch:+n[2]}}return{major:0,minor:0,patch:0}}function C(){return!!(document.documentElement.classList.contains(&quot;yidian-mini&quot;)&amp;&amp;window.yidianmini&amp;&amp;window.yidianmini.openDoc)}var _={},k={isElement:function(e){return e instanceof HTMLElement},hasClass:function(e){return function(n){return k.isElement(n)&amp;&amp;n.classList.contains(e)}}};y()&amp;&amp;function(){l(),document.querySelector(&quot;#topic-recommend-channel-header-data&quot;)&amp;&amp;r(),n(),t(),c()}()}();"></iframe>
+  <div class="preview-topic-header">
+   <div style="background-image: url('http://si1.go2yd.com/get-image/0NKOLc4xfZw');" class="topic-background"></div>
+  </div>
+  <div class="preview-topic-summary">
+   <div class="summary-prompt">
+    摘要
+   </div>
+   <div class="summary-content">
+    无数英雄先烈是我们民族的脊梁，是我们不断开拓前进的勇气和力量所在。一点资讯与众多网络媒体共同发起“崇尚英雄 精忠报国”网络征文活动，投稿方式请看通知，时间：5月21日-27日。
+   </div>
+  </div>
+  <div class="preview-news-list">
+   <!-- little different with preview push topic, preview topic also display focus news in news list-->
+   <div id="news-0J6BjNO2" data-ctype="news" class="news-item display-big-image-news">
+    <div class="news-title">
+     ​崇尚英雄缅怀先烈 习近平这十句话必须铭记​
+    </div>
+    <div class="clearfix"></div>
+    <div style="background-image: url('http://si1.go2yd.com/get-image/0NKJpn0vVJI');" class="single-big-image"></div>
+    <div class="news-info">
+     <span class="source">新华网</span>
+     <span class="comment hide">0评</span>
+     <span class="date">昨天</span>
+    </div>
+   </div>
+   <!-- little different with preview push topic, preview topic also display focus news in news list-->
+   <div id="news-0J6CP2in" data-ctype="news" class="news-item display-right-thumb-img">
+    <div style="background-image: url('http://si1.go2yd.com/get-image/0NKDkDirwXY');" class="news-thumb-image"></div>
+    <div class="news-title">
+     ​谁是英雄？今天，我们一起寻找​
+    </div>
+    <div class="news-info">
+     <span class="source">人民日报客户端</span>
+     <span class="comment">67评</span>
+     <span class="date">昨天</span>
+    </div>
+   </div>
+   <!-- little different with preview push topic, preview topic also display focus news in news list-->
+   <div id="news-0J6F7JAZ" data-ctype="news" class="news-item display-right-thumb-img">
+    <div style="background-image: url('http://i1.go2yd.com/image.php?url=0J6F7Jihkx&amp;docid=0J6F7JAZ&amp;type=thumbnail_360x260');" class="news-thumb-image"></div>
+    <div class="news-title">
+     ​崇尚英雄​是中华民族的基因禀赋
+    </div>
+    <div class="news-info">
+     <span class="source">金羊网</span>
+     <span class="comment hide">0评</span>
+     <span class="date">昨天</span>
+    </div>
+   </div>
+   <!-- little different with preview push topic, preview topic also display focus news in news list-->
+   <div id="news-0J6DVIpX" data-ctype="news" class="news-item display-right-thumb-img">
+    <div style="background-image: url('http://i1.go2yd.com/image.php?url=0J6DVIP6X3&amp;docid=0J6DVIpX&amp;type=thumbnail_360x260');" class="news-thumb-image"></div>
+    <div class="news-title">
+     什么是英雄
+    </div>
+    <div class="news-info">
+     <span class="source">浙江在线</span>
+     <span class="comment hide">0评</span>
+     <span class="date">昨天</span>
+    </div>
+   </div>
+   <!-- little different with preview push topic, preview topic also display focus news in news list-->
+   <div id="news-V_01cj57K4" data-ctype="video_live" class="news-item display-right-thumb-img">
+    <div style="background-image: url('http://i1.go2yd.com/image.php?url=V_01cj57JzMW&amp;docid=V_01cj57K4&amp;type=thumbnail_360x260');" class="news-thumb-image">
+     <i class="video-play-icon"></i>
+    </div>
+    <div class="news-title">
+     视频|​崇尚英雄 ​精忠报国
+    </div>
+    <div class="news-info">
+     <span class="source">央视视频</span>
+     <span class="comment hide">0评</span>
+     <span class="date">昨天</span>
+    </div>
+   </div>
+  </div>
+  <div class="other-category-list">
+   <div id="preview-topic-other-category-0" class="category-item">
+    <div class="category-title">
+     我们家的报国故事
+    </div>
+    <div class="category-content">
+     <!-- little different with preview push topic, preview topic also display focus news in news list-->
+     <div id="news-0J6Ch4lv" data-ctype="news" class="news-item display-big-image-news">
+      <div class="news-title">
+       有奖征文通知：​说说我们家的报国故事​——大家一起来参与
+      </div>
+      <div class="clearfix"></div>
+      <div style="background-image: url('http://i1.go2yd.com/image.php?url=0J6Ch47v7j&amp;docid=0J6Ch4lv&amp;type=thumbnail_360x260');" class="single-big-image"></div>
+      <div class="news-info">
+       <span class="source">一点历史</span>
+       <span class="comment hide">0评</span>
+       <span class="date">昨天</span>
+      </div>
+     </div>
+     <!-- little different with preview push topic, preview topic also display focus news in news list-->
+     <div id="news-0J5PEXMG" data-ctype="news" class="news-item display-three-images-news">
+      <div class="news-title">
+       我们家的报国故事：有个打过抗美援朝的外公是什么体验？
+      </div>
+      <div class="clearfix"></div>
+      <div class="news-image-list">
+       <div style="background-image: url('http://i1.go2yd.com/image.php?url=0J5PEXwabT&amp;docid=0J5PEXMG&amp;type=thumbnail_360x260');" class="news-image-item"></div>
+       <div style="background-image: url('http://i1.go2yd.com/image.php?url=0J5PEXGCcG&amp;docid=0J5PEXMG&amp;type=thumbnail_360x260');" class="news-image-item"></div>
+       <div style="background-image: url('http://i1.go2yd.com/image.php?url=0J5PEXbht9&amp;docid=0J5PEXMG&amp;type=thumbnail_360x260');" class="news-image-item"></div>
+      </div>
+      <div class="clearfix"></div>
+      <div class="news-info">
+       <span class="source">冲锋号</span>
+       <span class="comment">1评</span>
+       <span class="date">4天前</span>
+      </div>
+     </div>
+     <!-- little different with preview push topic, preview topic also display focus news in news list-->
+     <div id="news-0J6ZOW7Y" data-ctype="news" class="news-item display-right-thumb-img">
+      <div style="background-image: url('http://i1.go2yd.com/image.php?url=0J6ZOWztdc&amp;docid=0J6ZOW7Y&amp;type=thumbnail_360x260');" class="news-thumb-image"></div>
+      <div class="news-title">
+       我们家的报国故事：表爷爷赵昆仓集市锄奸！
+      </div>
+      <div class="news-info">
+       <span class="source">兵心</span>
+       <span class="comment hide">0评</span>
+       <span class="date">昨天</span>
+      </div>
+     </div>
+     <!-- little different with preview push topic, preview topic also display focus news in news list-->
+     <div id="news-0J6qgOil" data-ctype="news" class="news-item display-right-thumb-img">
+      <div style="background-image: url('http://i1.go2yd.com/image.php?url=0J6qgORjn1&amp;docid=0J6qgOil&amp;type=thumbnail_360x260');" class="news-thumb-image"></div>
+      <div class="news-title">
+       【​我们家的报国故事​】李群：青春年华献国防
+      </div>
+      <div class="news-info">
+       <span class="source">环球网</span>
+       <span class="comment hide">0评</span>
+       <span class="date">2小时前</span>
+      </div>
+     </div>
+     <!-- little different with preview push topic, preview topic also display focus news in news list-->
+     <div id="news-0J6o6B4B" data-ctype="news" class="news-item display-right-thumb-img">
+      <div style="background-image: url('http://i1.go2yd.com/image.php?url=0J6o6Bi9KW&amp;docid=0J6o6B4B&amp;type=thumbnail_360x260');" class="news-thumb-image"></div>
+      <div class="news-title">
+       【​我们家的报国故事​】为地方经济振兴献计献策的“老三届”
+      </div>
+      <div class="news-info">
+       <span class="source">中青在线</span>
+       <span class="comment hide">0评</span>
+       <span class="date">3小时前</span>
+      </div>
+     </div>
+     <!-- little different with preview push topic, preview topic also display focus news in news list-->
+     <div id="news-0J6qgS0R" data-ctype="news" class="news-item display-right-thumb-img">
+      <div style="background-image: url('http://i1.go2yd.com/image.php?url=0J6qgSEgAu&amp;docid=0J6qgS0R&amp;type=thumbnail_360x260');" class="news-thumb-image"></div>
+      <div class="news-title">
+       【​我们家的报国故事​】顾新：军人，一个神圣的名字
+      </div>
+      <div class="news-info">
+       <span class="source">环球网</span>
+       <span class="comment hide">0评</span>
+       <span class="date">2小时前</span>
+      </div>
+     </div>
+     <!-- little different with preview push topic, preview topic also display focus news in news list-->
+     <div id="news-0J15tPwk" data-ctype="news" class="news-item display-three-images-news">
+      <div class="news-title">
+       一门三豪杰：忠贞敬业传家训 赓续家风思​报国​
+      </div>
+      <div class="clearfix"></div>
+      <div class="news-image-list">
+       <div style="background-image: url('http://i1.go2yd.com/image.php?url=0J15tPyPvx&amp;docid=0J15tPwk&amp;type=thumbnail_360x260');" class="news-image-item"></div>
+       <div style="background-image: url('http://i1.go2yd.com/image.php?url=0J15tPE6aN&amp;docid=0J15tPwk&amp;type=thumbnail_360x260');" class="news-image-item"></div>
+       <div style="background-image: url('http://i1.go2yd.com/image.php?url=0J15tPFhbW&amp;docid=0J15tPwk&amp;type=thumbnail_360x260');" class="news-image-item"></div>
+      </div>
+      <div class="clearfix"></div>
+      <div class="news-info">
+       <span class="source">中国军视网</span>
+       <span class="comment hide">0评</span>
+       <span class="date">2018.5.10</span>
+      </div>
+     </div>
+     <!-- little different with preview push topic, preview topic also display focus news in news list-->
+     <div id="news-0J6J84co" data-ctype="news" class="news-item display-right-thumb-img">
+      <div style="background-image: url('http://i1.go2yd.com/image.php?url=0J6J84nIMF&amp;docid=0J6J84co&amp;type=thumbnail_360x260');" class="news-thumb-image"></div>
+      <div class="news-title">
+       为强军报国，他55岁“高龄”参军入伍
+      </div>
+      <div class="news-info">
+       <span class="source">中国江苏网</span>
+       <span class="comment hide">0评</span>
+       <span class="date">昨天</span>
+      </div>
+     </div>
+     <!-- little different with preview push topic, preview topic also display focus news in news list-->
+     <div id="news-0J6t85Ub" data-ctype="news" class="news-item display-no-image-news">
+      <div class="news-title">
+       【​我们家的报国故事​】我的奶奶与红军长征的​故事​
+      </div>
+      <div class="clearfix"></div>
+      <div class="news-info">
+       <span class="source">中青在线</span>
+       <span class="comment hide">0评</span>
+       <span class="date">1小时前</span>
+      </div>
+     </div>
+     <!-- little different with preview push topic, preview topic also display focus news in news list-->
+     <div id="news-0J6ABBwL" data-ctype="news" class="news-item display-no-image-news">
+      <div class="news-title">
+       【​我们家的报国故事​】李强：普通人该如何延续​报国​光荣传统？
+      </div>
+      <div class="clearfix"></div>
+      <div class="news-info">
+       <span class="source">凤凰新闻</span>
+       <span class="comment hide">0评</span>
+       <span class="date">昨天</span>
+      </div>
+     </div>
+     <!-- little different with preview push topic, preview topic also display focus news in news list-->
+     <div id="news-0J6ABCp4" data-ctype="news" class="news-item display-no-image-news">
+      <div class="news-title">
+       【​我们家的报国故事​】程振伟：老杜，时刻为学生“亮灯”的团干部
+      </div>
+      <div class="clearfix"></div>
+      <div class="news-info">
+       <span class="source">凤凰新闻</span>
+       <span class="comment hide">0评</span>
+       <span class="date">昨天</span>
+      </div>
+     </div>
+     <!-- little different with preview push topic, preview topic also display focus news in news list-->
+     <div id="news-0J69gqyr" data-ctype="news" class="news-item display-no-image-news">
+      <div class="news-title">
+       【​我们家的报国故事​】杨玉国：在烈士纪念碑前，我携妻儿拜谒英雄
+      </div>
+      <div class="clearfix"></div>
+      <div class="news-info">
+       <span class="source">环球网</span>
+       <span class="comment hide">0评</span>
+       <span class="date">昨天</span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <script type="text/javascript">!function(){function t(t,n){return function(e){var i=e.target;do if(t(i))return e.delegateTarget=i,void n.apply(this,arguments);while(i=i.parentNode)}}function n(){c(),e(),s()}function e(){var t=o();a(t,i)}function i(t){t.forEach(function(t){var n,e=document.querySelector("#preview-topic-container #news-"+t.docid);e&&t.comment_count>=0&&(n=e.querySelector(".comment"),n.innerHTML=t.comment_count+"评",t.comment_count>0?n.classList.remove("hide"):n.classList.add("hide"))})}function o(){for(var t=document.querySelectorAll("#preview-topic-container .news-item"),n=[],e=0;e<t.length;e++)t[e].getAttribute("id")&&n.push(t[e].getAttribute("id").split("-")[1]);return n}function a(t,n){var e=t.join(","),i="//m.yidianzixun.com/hybrid/req?url="+encodeURIComponent("http://a1.go2yd.com/Website/contents/content-meta?docid="+e+"&fields=comment_count&version=999999");r()||h({url:i,method:"GET",callback:function(t){t&&"success"===t.status&&t.documents&&t.documents.length>0&&n(t.documents)}})}function r(){return window.location.href.indexOf("yidian-inc")>-1}function c(){var t=document.querySelectorAll("#preview-topic-container .news-item");m(t,u)}function u(t){var n,e,i,o=t.currentTarget;o.classList.contains("news-item-type-url")?(n=o.getAttribute("data-url"),f(n)):o.classList.contains("news-ads-type")?(i=o.getAttribute("data-ads-url"),w(i)):(e=o.getAttribute("id").split("-")[1],l(e))}function s(){for(var n=document.querySelectorAll("#preview-topic-container .subscribe-more-channel .channels-content ul"),e=function(t){t.preventDefault();var n=t.delegateTarget.getAttribute("data-id"),e=t.delegateTarget.getAttribute("data-name"),i=t.delegateTarget.getAttribute("data-image"),o="";d(n,e,i,o)},i=0;i<n.length;i++)n[i].addEventListener("click",t(v.hasClass("channel-item"),e))}function d(t,n,e,i){window.open("http://www.yidianzixun.com/channel/"+t,"_blank")}function l(t){var n="";return window.location.href.match(/[\?&]s=([^&]*)/)&&(n=window.location.href.match(/[\?&]s=([^&]*)/)[1],"oppobrowser"===n)?void window.open("https://oppo.yidianzixun.com/article/"+t+"?s=oppobrowser&__pf__=detail&__styleType__=1","_self"):void window.open("https://www.yidianzixun.com/article/"+t,"_blank")}function w(t){window.open(t,"_blank")}function f(t){window.open(t,"_blank")}function p(){var t="object"==typeof container,n=window.yidian&&window.yidian.HB_SetContentData||window.$tpls,e=window.yidian&&window.yidian.util;return t||n||e}function m(t,n){for(var e=0;e<t.length;e++)t[e].addEventListener("click",n,!1)}function h(t){t=t||{};var n=t.url||"",e=t.callback||new Function,i=new XMLHttpRequest;i.open("POST"==t.method?"POST":"GET",n,!0),i.send(),i.onreadystatechange=function(){if(4==i.readyState)if(i.status>=200&&i.status<300||304==i.status){var t=i.responseText;try{t=JSON.parse(t)}catch(t){}e(t,i)}else e(i.statusText||null,i.status?"error":"abort")}}var v={isElement:function(t){return t instanceof HTMLElement},hasClass:function(t){return function(n){return v.isElement(n)&&n.classList.contains(t)}}};p()||n()}();</script>
+</div>
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"说起陶红，很对人会联想到徐峥的老婆小陶虹，毕竟两人的名字太像了，左边的红色礼服就是小陶虹，陶红比她大3岁，圈中人为了辨别她俩，就称一个“大陶红”一个小陶虹。","is_gov":false,"itemid":"0J73Ou5C","impid":"592656649_1526974578808_6734","date":"2018-05-22 15:21:18","meta":"592656649_1526974578808_6734","feedback_forbidden":false,"docid":"0J73Ou5C","title":"49岁陶红现身红毯 出道20年至今未婚气质如少女","dtype":3,"b_political":false,"content_type":"news","dislike_fromids":["b46390","c3","t30163","",""],"pageid":"Homepage_g181","comment_count":0,"tags":[],"extra":[],"ctype":"news","image_urls":["0J73OuI1nG","0J73Ou9ifw","0J73OuMryj"],"image":"0J73OuI1nG","title_sn":0,"mtype":1,"url":"http://ient.ifeng.com/yidian/43051355/news.shtml?ch=ref_zbs_ydzx_news","up":139,"dislike_reasons":["陶红","娱乐","气质","旧闻、重复","内容质量差"],"card_position":["best"],"category":"娱乐","source":"凤凰网","display_flag":0,"down":43,"auth":true}
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J73Ou5C, title:49岁陶红现身红毯 出道20年至今未婚气质如少女
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:凤凰网, date:2018-05-22 15:21:18, category:娱乐
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:说起陶红，很对人会联想到徐峥的老婆小陶虹，毕竟两人的名字太像了，左边的红色礼服就是小陶虹，陶红比她大3岁，圈中人为了辨别她俩，就称一个“大陶红”一个小陶虹。
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:0J73OuI1nG
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["0J73OuI1nG","0J73Ou9ifw","0J73OuMryj"]
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:null
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"常山药业事件在周末有了进一步的发酵。根据深交所5月18日发布的《上市公司监管动态》，深交所在就常山药业公告中称声的“国内ED患者人数约1.4亿人”的数据来源与准确性进行问询的基础上，已对公司及相关当事人启动违规处分程序。这体现出深交所在加强日常监管中雷厉风行的","is_gov":false,"itemid":"0J6kvvwt","impid":"592656649_1526974578808_6734","date":"2018-05-22 15:16:18","meta":"592656649_1526974578808_6734","feedback_forbidden":false,"docid":"0J6kvvwt","title":"皮海洲：启动违规处分程序 对常山药业案的查处不能ED","dtype":1,"theme_fromid":"t35583","content_type":"news","b_political":true,"wm_copyright":"原创","dislike_fromids":["e17093","u11325","c5","",""],"pageid":"Homepage_g181","tags":[],"extra":[],"image":"0J6kvvg3Al","ctype":"news","image_urls":["0J6kvvg3Al"],"title_sn":1,"upload_images":["0J6kvvg3Al"],"url":"http://www.yidianzixun.com/mp/content?id=58623304","dislike_reasons":["常山药业","证券","财经","旧闻、重复","内容质量差"],"card_position":["best"],"category":"财经","source":"海洲说股事","display_flag":0,"wemedia_id":132910,"wemedia_info":{"summary":"职业投资者，独立财经撰稿人，专栏作家。以反映中小投资者呼声为己任。所写文章以政策、时事热点评述、股票操作心得为主。","fromId":"m132910","rank":5,"authentication":"","name":"海洲说股事","plus_v":2,"source_type":1,"media_domain":"财经","image":"http://si1.go2yd.com/get-image/0BocFrdaZqi","type":"media","channel_id":"m132910"},"auth":true}
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J6kvvwt, title:皮海洲：启动违规处分程序 对常山药业案的查处不能ED
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:海洲说股事, date:2018-05-22 15:16:18, category:财经
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:常山药业事件在周末有了进一步的发酵。根据深交所5月18日发布的《上市公司监管动态》，深交所在就常山药业公告中称声的“国内ED患者人数约1.4亿人”的数据来源与准确性进行问询的基础上，已对公司及相关当事人启动违规处分程序。这体现出深交所在加强日常监管中雷厉风行的
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:0J6kvvg3Al
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["0J6kvvg3Al"]
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:<div class="content-bd">
+ <!-- wemedia true -->
+ <div id="imedia-article" class="imedia-article">
+  <p> <a href="/channel/w/常山药业">常山药业</a>事件在周末有了进一步的发酵。根据<a href="/channel/w/深交所">深交所</a>5月18日发布的《<a href="/channel/w/上市公司">上市公司</a>监管动态》，深交所在就常山药业公告中称声的“国内ED患者人数约1.4亿人”的数据来源与准确性进行问询的基础上，已对公司及相关当事人启动违规处分程序。这体现出深交所在加强日常监管中雷厉风行的一面。</p>
+  <p> 对常山药业及相关当事人启动违规处分程序，这是很有必要的。虽然常山药业有关“国内ED患者人数约1.4亿人”的公告一经发布后，在市场上引起哄动，舆论集中对“国内ED患者人数约1.4亿人”这一说法的真实性提出质疑，不过，经深交所认定，常山药业的公告涉嫌违反《<a href="/channel/w/创业板股票上市规则">创业板股票上市规则</a>》的相关规定。</p>
+  <p> 事实也确实如此。面对市场的质疑与深交所的问询，虽然常山药业表示相关数据来源于<a href="/channel/w/国信证券">国信证券</a>2014年5月底发布的相关研究报告，但却无法证实数据的准确性。如此一来，这就违背了《<a href="/channel/w/创业板股票上市规则">创业板股票上市规则</a>》中有关信息披露的基本原则及一般规定中的第2.1条与2.2条的规定，尤其是第2.2条明确规定， 上市公司董事、监事和高级管理人员应当保证公司所披露的信息真实、准确、完整、及时、公平，不能保证披露的信息内容真实、准确、完整、及时、公平的，应当在公告中作出相应声明并说明理由。很显然，常山药业并没有按此规定来办理。</p>
+  <p> 不仅如此，在常山药业不实公告的误导下，常山药业股票出现大幅上涨的走势，其中5月16日，股价涨停、17日也一度涨停，全天最终上涨9.6，两天累计上涨20.56%。而就在公司股价大幅上涨的情况下，5月17日，公司高管高树华、丁建文、黄国盛减持了所持公司部分股票。包括董事长高树华的女儿高会霞在内，四人共减持1008万股，减持金额约8800万元。其中，常山药业<a href="/channel/w/控股股东">控股股东</a>、董事长高树华减持了675万股，高会霞减持了259万股，董事、副总经理丁建文减持50万股，副总经理黄国胜减持了24.7万股。</p>
+  <p><br></p>
+  <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6kvvG0oP"></span></p>
+  <p> 上述四人的减持行为，显然又违犯了《<a href="/channel/w/创业板上市">创业板上市</a>公司规范运作指引》的相关规定。因为根据《<a href="/channel/w/创业板上市">创业板上市</a>公司规范运作指引》第3.8.17条与第 4.2.18条规定，自可能对本公司股票及其衍生品种交易价格产生较大影响的重大事件发生之日或者进入决策程序之日，至依法披露后二个交易日内，<a href="/channel/w/上市公司">上市公司</a><a href="/channel/w/控股股东">控股股东</a>、实际控制人以及董、监、高等有关人员不得买卖本公司股票及其衍生品种。而高树华等四人的减持就发生在公告的第二天，因此，当事人的减持又构成违规。</p>
+  <p> 而既然违犯了相关的规定，当然就要承担相应的责任。更何况，常山药业事件在市场上影响极大，而且公司股价出现了明显的异常波动，给投资者带来了明显的投资损失，因此，对于常山药业以及董事长高树华等人的违规行为，绝对不能睁一只眼闭一只眼，而是应依据法规来进行查处。因此，<a href="/channel/w/深交所">深交所</a>第一时间对常山药业公司及相关当事人启动违规处分程序，这是很有必要的。</p>
+  <p> 不过，对常山药业事件如果仅仅只是局限于违规处分的话，显然是不够的。毕竟处分与查处之间存在很大的不同。处分通常是一种纪律处分，而处分的方式往往也就是谴责、批评、公开批评之类，这不仅对当事人起不到惩处的作用，对其他人以及后来者也起不到震慑作用。所以，处分只是查处的第一步，重要的还是要落实在第二步，即<a href="/channel/w/证监会">证监会</a>对违法违规行为进行查处。</p>
+  <p> 而根据常山药业及高树华等人违规的事实，以及现行法律法规的规定，证监会对当事人的处罚至少可以包括两个方面：一是对高树华等高管予以警告，并处以三万元以上十万元以下的罚款。二是对常山药业公司给予警告，并处以三十万元以上六十万元以下的罚款，同时对直接负责的主管人员和其他直接责任人员给予警告，并处以三万元以上三十万元以下的罚款。 </p>
+  <p> 当然，从处罚的角度来说，上述处罚或许有些轻，但这种处罚可以解决一个问题，就是投资者有了证监会的“处罚令”之后，可以依法对<a href="/channel/w/常山药业">常山药业</a>及高树华等当事人提起索赔，这样可以部分解决对投资者的利益保护问题。这是在现行法律法规背景下，<a href="/channel/w/证监会">证监会</a>“处罚令”的又一层意义了。(原文首发于5月21日《成都商报》)</p>
+ </div>
+ <p class="yidian-wm-copyright-bottom">本文为一点号作者原创，未经授权不得转载</p>
+</div>
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"","is_gov":false,"itemid":"V_01cjk15k","impid":"592656649_1526974578808_6734","date":"2018-05-22 15:11:18","meta":"592656649_1526974578808_6734","feedback_forbidden":false,"docid":"V_01cjk15k","title":"日本的地铁为什么没有安检？看完可算大开眼界了","display_mode":"detailpage","video_url":"http://video.yidianzixun.com/video/get-url?key=video/dc096143d7b6e6861b1c77f348830cb4.mp4","dtype":23,"b_political":false,"content_type":"video","dislike_fromids":["","sc2","v30482","",""],"pageid":"Homepage_g181","comment_count":271,"tags":[],"special_size":0,"extra":[],"vsct":["vsct//国际/日本"],"image":"V_01cjk1Gbhh","ctype":"video_live","image_urls":["V_01cjk1Gbhh"],"b_native":true,"title_sn":0,"like":1,"url":"http://www.yidianzixun.com/mp/content?id=58543311","upload_images":["V_01cjk1Gbhh"],"up":1,"dislike_reasons":["类型：视频","国际","国际视频","旧闻、重复","内容质量差"],"card_position":["best"],"category":"国际","duration":95,"source":"茶后闲语","display_flag":0,"finish_play":"base","video_urls":[{"default":false,"quality":0,"url":"http://v1.go2yd.com/video/dc096143d7b6e6861b1c77f348830cb4.mp4_sd.mp4","size":5139127},{"default":true,"quality":1,"url":"http://v1.go2yd.com/video/dc096143d7b6e6861b1c77f348830cb4.mp4_bd.mp4","size":7370186},{"default":false,"quality":2,"url":"http://v1.go2yd.com/video/dc096143d7b6e6861b1c77f348830cb4.mp4_hd.mp4","size":14473887}],"wemedia_id":170813,"wemedia_info":{"summary":"碎碎念那点儿张家长李家短","fromId":"m170813","rank":3,"authentication":"","name":"茶后闲语","plus_v":0,"source_type":1,"media_domain":"社会","image":"http://si1.go2yd.com/get-image/0814CF2bgdE","type":"media","channel_id":"m170813"},"play_position":1,"auth":true,"vsct_show":["日本"]}
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:V_01cjk15k, title:日本的地铁为什么没有安检？看完可算大开眼界了
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:茶后闲语, date:2018-05-22 15:11:18, category:国际
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:V_01cjk1Gbhh
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["V_01cjk1Gbhh"]
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:null
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"曾经光环无数、红极一时的“情感教主”Ayawawa惹众怒，连日来，各媒体接续发力，深挖这位“教主”紧裹在“情感圣经”外壳下的敛财真相，抨击她借歪理邪说迷惑毒害众多女性并哄骗其为此埋单的恶劣行径，整个舆论场形成强大的“批娃”浪潮，广大网友纷纷拍手称快：“终于批她","is_gov":false,"itemid":"0J6PFY8N","impid":"592656649_1526974578808_6734","date":"2018-05-22 15:06:18","meta":"592656649_1526974578808_6734","feedback_forbidden":false,"docid":"0J6PFY8N","title":"中国妇女报：“情感教主”不凉 反邪说舆情不歇","dtype":1,"content_type":"news","b_political":true,"dislike_fromids":["t5680","",""],"pageid":"Homepage_g181","comment_count":4,"tags":[],"extra":[],"ctype":"news","image_urls":["http://si1.go2yd.com/get-image/0NKeBT1Nnvs"],"image":"http://si1.go2yd.com/get-image/0NKeBT1Nnvs","title_sn":0,"like":19,"url":"http://www.yidianzixun.com/mp/content?id=58572931","upload_images":["http://si1.go2yd.com/get-image/0NKeBT1Nnvs"],"up":10,"dislike_reasons":["新媒体","旧闻、重复","内容低俗"],"card_position":["best"],"category":"社会","source":"中国妇女报","display_flag":0,"wemedia_id":84095,"wemedia_info":{"summary":"中华全国妇女联合会主管主办，女界新闻权威，维权报道有力，生活资讯丰沛，兼具思想性、社会性和综合性的全国女性大报。","fromId":"m84095","rank":5,"authentication":"","name":"中国妇女报","plus_v":0,"source_type":2,"media_domain":"社会","image":"http://si1.go2yd.com:8082/get-image/02doflmZATA","type":"media","channel_id":"m84095"},"auth":true}
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J6PFY8N, title:中国妇女报：“情感教主”不凉 反邪说舆情不歇
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:中国妇女报, date:2018-05-22 15:06:18, category:社会
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:曾经光环无数、红极一时的“情感教主”Ayawawa惹众怒，连日来，各媒体接续发力，深挖这位“教主”紧裹在“情感圣经”外壳下的敛财真相，抨击她借歪理邪说迷惑毒害众多女性并哄骗其为此埋单的恶劣行径，整个舆论场形成强大的“批娃”浪潮，广大网友纷纷拍手称快：“终于批她
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:http://si1.go2yd.com/get-image/0NKeBT1Nnvs
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["http://si1.go2yd.com/get-image/0NKeBT1Nnvs"]
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-22 15:36:20[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:<div class="content-bd">
+ <p></p>
+ <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6PFYpNkl"></span></p>
+ <p>曾经光环无数、红极一时的<span>“情感教主”<a href="/channel/w/ayawawa">Ayawawa</a></span>惹众怒，连日来，各媒体接续发力，深挖这位“教主”紧裹在“情感圣经”外壳下的敛财真相，抨击她借歪理邪说迷惑毒害众多女性并哄骗其为此埋单的恶劣行径，整个舆论场形成强大的“批娃”浪潮，广大网友纷纷拍手称快：“终于批她了，‘妖娃’早该凉了！”一时间，反邪说舆情持续沸腾高涨。</p>
+ <p><span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6PFYdeBc"></span></p>
+ <p><span id="article-img-2" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6PFYSQVm"></span></p>
+ <p><span id="article-img-3" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6PFYqan4"></span></p>
+ <p><span id="article-img-4" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6PFYMD5Q"></span></p>
+ <p>凭借内容创业跻身网红的Ayawawa们是我国<a href="/channel/w/互联网">互联网</a>繁荣的见证者与发展红利的受益者，技术的腾飞与网络的开放为他们传播贩卖个人价值观，将庞大的“粉丝量”“流量”变现盈利提供了支撑与可能，赚得盆满钵满。固然，办自媒体吸金、做线下导师牟财，凭自己的知识赚钱无可厚非，但是不顾民族感情利用“慰安妇”歪曲事实作为“理论”依据，给女性灌输毒<a href="/channel/w/鸡汤">鸡汤</a>，向民众宣扬伪科学，将歪理邪说包装成“情感圣经”高价出售，如此无底线地挑战社会主流价值观，为何还能大行其道，长盛不衰？即使很多大V都扒过Ayawawa的“皮”，揭露批驳过她商业捆绑下的情感骗术，但她依旧特别火。除了粉丝的追捧、资本的力挺之外，究竟还有什么在为她助力撑腰？这些，都是迫切需要追问和深究的。</p>
+ <p><span id="article-img-5" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6PFY1LUK"></span></p>
+ <p>互联网不是法外之地，自媒体也并非监管真空，《中华人民共和国网络安全法》以及“九不准”“七条底线”是不容逾越的高压线，任何试图突破红线的结果都将是依法依规严惩。</p>
+ <p>去年6月6日，流量大号“咪蒙”发送的头条文章《嫖娼简史》因涉嫌低俗、性暗示或色情信息被删，随后被禁言一个月。</p>
+ <p>去年11月，<span>绝味公司</span>广告多次侮辱女性，遭到《中国妇女报》等多家主流媒体的严厉批判。网友纷纷“用脚投票”，表示拒绝再购买绝味食品。长沙绝味食品及长沙汇邦<a href="/channel/w/广告公司">广告公司</a>分别被工商部门罚款60万元，绝味食品股份有限公司向全国<a href="/channel/w/消费者">消费者</a>发布致歉信。</p>
+ <p><span><span id="article-img-6" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6PFY3v9T"></span></span></p>
+ <p>前几天，郑州空姐乘滴滴顺风车被害事件成为舆论焦点，知名自媒体公众号“<span>二更食堂</span>”发布的推文因文字低俗不堪及消费逝者激起众怒，遭到众多网友自发抵制。浙江省网信办会同杭州市网信约谈该公众号主要负责人，该公众号被微信平台封号7天。5月13日晚，二更<a href="/channel/w/创始人">创始人</a>丁丰发布致歉信，宣布二更食堂公号永久关闭。</p>
+ <p><span><span id="article-img-7" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6PFYkEbC"></span></span></p>
+ <p>最近，因有网友爆料其早期发布的某视频中含有戏谑侮辱董存瑞烈士的内容，网络大V“暴走漫画”被今日头条平台封禁。主编王尼玛官微多次发<a href="/channel/w/微博">微博</a>道歉。</p>
+ <p>这桩桩件件，不仅是主流价值观的胜利，也是反低俗、抵制无底线的舆情与某些膜拜“逝者不过是一篇10w+”“流量等于一切，眼球就是王道”的自媒体价值观PK的结果。这足证，网络综合治理体系正在建立健全，网络秩序逐渐规范、有序，广大网友对于不<a href="/channel/w/健康">健康</a>价值观保持着清醒的判断力，维护亿万民众共同的精神家园的清朗已成为一种公民自觉。</p>
+ <p>然而，也应当清醒地看到，还有Ayawawa这样的“漏网之鱼”在宣扬“新女德”毒害女性、收割流量、敛财牟利，行径极其恶劣，不容姑息。对此，有关<a href="/channel/w/互联网">互联网</a>平台企业必须履行社会责任和法定义务，不给＂妖言＂提供传播渠道。对于公众的强烈呼吁，网信、文化有关部门当进一步切实履行监管职责，依法依规对此类违法、违反公序良俗的行为给予严肃查处，该处罚处罚，该封杀封杀，以儆效尤；对于此类“在女性觉醒的时代，却教导女性不要醒来”的有悖男女平等、背离时代精神的新“三从四德”观，属地妇联组织可以主动向有关部门反映情况，积极发挥群团组织的力量，推动问题解决。而肩负弘扬正气、激浊扬清责任与使命的主流媒体，则要继续对歪理邪说保持舆论高压，在亮剑交锋中批驳谬误，肃本清源，捍卫社会主流价值观。唯有强化反邪合力，Ayawawa们才会失去市场，寸步难行，从而倒逼其敬畏法度，恪守规则。</p>
+ <p>对恶的纵容，就是对善的不公。一个宽容多元的社会，容得下不同的理念，但不包括歪理邪说。<a href="/channel/w/ayawawa">Ayawawa</a>必须凉，“情感教主”不凉，反邪说舆情不歇。</p>
+ <p><span id="article-img-8" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6PFYRfok"></span></p>
+ <p><strong>欢迎转发点赞</strong></p>
+ <p><strong>转载联系授权</strong></p>
+ <section>
+  <section>
+   <section>
+    <section>
+     <section>
+      大家都在看
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p></p>
+</div>
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"今天，《人民日报》以“中国足球面向基层加大投入”为题，报道了中国足协推出地方协会突破计划，对地方会员协会展开扶持的工作计划。原文如下：","is_gov":false,"itemid":"0J6wVV2x","impid":"592656649_1526974578808_6734","date":"2018-05-22 15:01:18","meta":"592656649_1526974578808_6734","feedback_forbidden":false,"docid":"0J6wVV2x","title":"人民日报：足协将投5000万扶持地方协会","dtype":1,"content_type":"news","b_political":true,"dislike_fromids":["u11956","sc8","c2","",""],"pageid":"Homepage_g181","comment_count":0,"tags":[],"extra":[],"ctype":"news","image_urls":["0J6wVVPXWe"],"image":"0J6wVVPXWe","title_sn":0,"url":"https://news.zhibo8.cc/zuqiu/2018-05-22/5b0392d62abb0.htm","up":82,"dislike_reasons":["中国足协","中国足球","体育","旧闻、重复","软文"],"card_position":["best"],"category":"体育","source":"直播吧","display_flag":0,"down":28,"auth":true}
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J6wVV2x, title:人民日报：足协将投5000万扶持地方协会
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:直播吧, date:2018-05-22 15:01:18, category:体育
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:今天，《人民日报》以“中国足球面向基层加大投入”为题，报道了中国足协推出地方协会突破计划，对地方会员协会展开扶持的工作计划。原文如下：
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:0J6wVVPXWe
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["0J6wVVPXWe"]
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:<div class="content-bd">
+ <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6wVVPXWe"></span></p>
+ <p>直播吧5月22日讯 今天，《<a href="/channel/w/人民日报">人民日报</a>》以“<a href="/channel/w/中国足球">中国足球</a>面向基层加大投入”为题，报道了<a href="/channel/w/中国足协">中国足协</a>推出地方协会突破计划，对地方会员协会展开扶持的工作计划。原文如下：</p>
+ <p>上周末在武汉，中国足协44家地方会员协会的代表齐聚一堂，每个人面前都摆有一纸《中国足协地方会员协会突破计划申请表》。中国足协常务副主席兼秘书长张剑介绍，本次“突破计划”中国足协将投入5000万元左右的资金，扶持地方会员协会壮大力量。若要申请到这笔经费也绝非易事，表格中密密麻麻的目标与说明不仅要求地方会员协会有发展好当地足球事业的决心信心，更要有系统的规划与清晰的工作思路。“‘突破计划’绝不是简单的拨款。”张剑说。</p>
+ <p><strong>每年为每个参与计划的会员协会拨付100万元专项资金</strong></p>
+ <p>“基层足球组织是中国足球的‘根’，‘根深’才能‘叶茂’。”壮大地方<a href="/channel/w/足协">足协</a>力量、加强地方足协建设在中国足球改革进程中占据重要的位置。自2015年3月《中国足球改革发展总体方案》印发之后，中国足协在去年的《<a href="/channel/w/中国足球协会">中国足球协会</a>2020行动计划》及《中国足球改革发展试点工作的方案》等多个文件中均对推动地方会员协会发展有所规划。</p>
+ <p>5月18日，在此基础上，“突破计划”应运而生，计划的主要任务为各地方会员协会根据实际情况，通过制订与实施2020行动计划，明确发展目标，推动体教一体化融合发展，建立新型工作模式，实现协会工作顺利转型，更好体现协会管理职责与职能。</p>
+ <p>根据计划，中国足协每年为每个参与计划的会员协会拨付100万元的“突破计划”专项资金，其中40%作为运营费用，60%作为项目经费。为确保资金得到合理利用，中国足协也将加强监管，与会员协会签署协议并设立专门账户，并在本地进行独立审计，且所有项目均需接受中国足协的财务监管和项目监管。</p>
+ <p>此外，上周末中国足协还确定江苏省、浙江省、四川省、武汉市、成都市和<a href="/channel/w/大连市">大连市</a>作为足球综合改革试点地区。</p>
+ <p><strong>要求地方协会必须完成计划申请书中所设定的目标</strong></p>
+ <p>值得一提的是，在中国足协每年为每家地方协会拨付的100万元之中，有40万元需要在年底对地方协会实施“突破计划”工作评估合格后才会拨付，这便要求地方协会必须要完成计划申请书中所设定的目标。</p>
+ <p>国务院足球改革发展部际联席会议办公室联络专员朱和元介绍，“突破计划”的工作目标分为组织体系建设和业务发展体系建设，其中组织体系建设要求地方会员协会建立健全组织架构、完善自身建设，并推动体教融合，在会员体系、注册管理、竞赛体系、培训体系等方面进行一体化管理。而业务发展体系在要求会员协会构建结构合理、层次分明、衔接有序的竞赛体系，主要包括以“周末联赛制”为主的成人业余联赛和青少年联赛等。</p>
+ <p>协会全职员工数量多少？地区注册足球人口增长了几个百分点？成人业余联赛层级增加了几个？新增了几块社会足球场地？计划申请表中的目标明确而具体。“这次计划要求各会员协会要根据本地区实际情况，制定有针对性的目标”，朱和元说，“各会员协会一定要对本地区的现状进行分析评估，使得目标能够落地、解决实际问题，而不是照搬照抄。”</p>
+ <p><strong>首个项目周期为3年，项目每年申请一次、签约一次</strong></p>
+ <p>为了实现自己设定的目标，各会员协会可以在“突破计划”中申请“注册工作系统建设”“青训体系建设”“会员协会竞赛体系建设”等不同项目，列出详细的现状、内容以及成效预期等等，并按规定汇报各自项目的进度。</p>
+ <p>“<a href="/channel/w/亚足联">亚足联</a>多年来也一直在帮助其下属的会员协会实现更好地发展，在此过程中为其提供多种多样的手段与工具，而不仅仅是资金。”亚足联会员发展部主任斯图尔特此番也专程赶来武汉分享经验。</p>
+ <p>斯图尔特介绍，亚足联为会员协会提供赛事管理、场地管理、行政发展、法务援助、财政管理、<a href="/channel/w/草根足球">草根足球</a>以及体育科学等多方面的帮助。在会员协会发展壮大的过程中，足球专业人才是至关重要的部分，因此<a href="/channel/w/亚足联">亚足联</a>的核心支持手段之一便是开设各领域的足球管理人才培训班。</p>
+ <p>“入围今年俄罗斯<a href="/channel/w/世界杯">世界杯</a>的32支球队都有一个共性”，斯图尔特说，“他们本国或本地区都有从底层到顶层的足球赛事、人才培养等方面的完整体系，这要求国家足协和地方<a href="/channel/w/足协">足协</a>必须要勠力同心，在同一个框架内工作。”</p>
+ <p>对于中国足球来说，“突破计划”或许是一个好的开始，但若要收到理想的结果却少不了长时间的奋斗。“突破计划”的首个项目周期为3年，到2020年结束，项目每年申请一次、签约一次。“没有强大的地方会员协会，就没有强大的<a href="/channel/w/中国足协">中国足协</a>和<a href="/channel/w/中国足球">中国足球</a>整体。”张剑说。</p>
+</div>
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"拼命抬杠痛宰中国！非洲兄弟送3万亿豪礼力挺，澳大利亚痛苦不已！","is_gov":false,"itemid":"V_01cKxPLd","impid":"592656649_1526974578808_6734","date":"2018-05-22 14:56:18","meta":"592656649_1526974578808_6734","feedback_forbidden":false,"docid":"V_01cKxPLd","title":"拼命抬杠痛宰中国！非洲兄弟送3万亿豪礼力挺，澳大利亚痛苦不已","display_mode":"detailpage","video_url":"http://video.yidianzixun.com/video/get-url?key=user_upload/1526458976988ea22ffd3af53cacdd2fea0dd8e42abac.mp4","dtype":23,"b_political":false,"content_type":"video","wm_copyright":"原创","dislike_fromids":["","sc2","u637","",""],"pageid":"Homepage_g181","comment_count":7,"tags":[],"keywords":["非洲","澳大利亚"],"special_size":0,"extra":[],"vsct":"国际/其他","image":"V_01cKxPm0Ew","ctype":"video_live","image_urls":["V_01cKxPm0Ew"],"b_native":true,"title_sn":0,"like":18,"url":"http://www.yidianzixun.com/mp/content?id=58088564","upload_images":["V_01cKxPm0Ew"],"up":41,"dislike_reasons":["类型：视频","国际","澳大利亚","旧闻、重复","内容质量差"],"card_position":["best"],"category":"国际","duration":125,"source":"大国之势","display_flag":0,"finish_play":"base","video_urls":[{"default":false,"quality":0,"url":"http://v1.go2yd.com/user_upload/1526458976988ea22ffd3af53cacdd2fea0dd8e42abac.mp4_sd.mp4","size":5143678},{"default":true,"quality":1,"url":"http://v1.go2yd.com/user_upload/1526458976988ea22ffd3af53cacdd2fea0dd8e42abac.mp4_bd.mp4","size":7248197},{"default":false,"quality":2,"url":"http://v1.go2yd.com/user_upload/1526458976988ea22ffd3af53cacdd2fea0dd8e42abac.mp4_hd.mp4","size":14326923}],"wemedia_id":948018,"wemedia_info":{"summary":"原创武器装备介绍，轻松了解世界军武风姿！","fromId":"m948018","rank":4,"authentication":"","name":"大国之势","plus_v":0,"source_type":1,"media_domain":"军事","image":"http://si1.go2yd.com/get-image/0MVHf6gXTCC","type":"media","channel_id":"m948018"},"down":1,"play_position":1,"auth":true}
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:V_01cKxPLd, title:拼命抬杠痛宰中国！非洲兄弟送3万亿豪礼力挺，澳大利亚痛苦不已
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:大国之势, date:2018-05-22 14:56:18, category:国际
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:拼命抬杠痛宰中国！非洲兄弟送3万亿豪礼力挺，澳大利亚痛苦不已！
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:V_01cKxPm0Ew
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["V_01cKxPm0Ew"]
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:null
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"大家都知道，在中国古代历史中，北方的游牧部落的战斗力一直都很强大，并且经常性的南侵，对中原王朝产生了巨大的威胁。那么为何游牧部落的战斗力能够如此强大呢？首先，这些部落的生存环境比较恶劣，适者生存，自然就养成了他们尚武善战的能力，更为重要的是，游牧部落的统治者建","is_gov":false,"itemid":"0J5jLOKy","impid":"592656649_1526974578808_6734","date":"2018-05-22 14:51:18","meta":"592656649_1526974578808_6734","feedback_forbidden":false,"docid":"0J5jLOKy","title":"清朝灭亡前夕，八旗子弟到底有多堕落？老舍说过一句不可思议的话","dtype":3,"content_type":"news","b_political":true,"wm_copyright":"原创","dislike_fromids":["b57188","u11867","c12","",""],"amazing_comments":[{"utk":"-go3ksmje","comment_id":"p8yxp3-go3ksmb","hot_score_2":"00000vk7o4-p8yxp3-go3ksmb","nickname":"U48746679","hot_score_1":"00000vndv8-p8yxp3-go3ksmb","userid":-1007936518,"like":102,"docid":"0J5jLOKy","createAt":"2018-05-19 17:15:03","reply_n":23,"replies":[{"utk":"-joi238un","createAt":"2018-05-19 17:36:08","reply_to":"p8yxp3-go3ksmb","nickname":"U135396387","reply_id":"p8yyo8-joi238b","userid":-1190010644,"comment":"满清与我国毫不相干，其原本属于西伯利亚通古斯地区的原始部落，明朝初年才因朝鲜的军事打击而逃到了中国边境，其文化，人种，语言，血统与华夏民族八竿子打不着，关系比日本人还要远，后来在明朝末期乘乱做大，侵略中国，在一众汉奸的帮助下成功殖民中国两百年。这段历史如今已经被歪曲的不成样子了。","profile":"http://s.go2yd.com/a/thead_bianfuxia.png"},{"utk":"-jkqmmbw8","createAt":"2018-05-19 17:37:51","reply_to":"p8yxp3-go3ksmb","nickname":"U68021163","reply_id":"p8yyr3-jkqmmbb","userid":-1183692035,"comment":"这话说的对","profile":"http://i1.go2yd.com/image.php?url=http%3A%2F%2Fsi1.go2yd.com%2Fget-image%2Fh3rd%2F0IBqr1w262y&type=_120x120"},{"utk":"-l5bev4ye","createAt":"2018-05-19 17:43:14","reply_to":"p8yxp3-go3ksmb","nickname":"U168252001","reply_id":"p8yz02-l5bev4b","userid":-1278720256,"comment":"也不能这么说，满清刚建立时候战斗力还是比较强的","profile":"http://s.go2yd.com/a/thead_xiaowanzi.png"},{"utk":"-kox74py8","createAt":"2018-05-19 17:48:45","reply_to":"p8yxp3-go3ksmb","nickname":"U164169909","reply_id":"p8yz99-kox74pb","userid":-1251183193,"comment":"明朝的灭亡不仅仅是内乱，主因还是全阶级的流氓化，这点你可以翻一下史书，各大帮派横行……++越来越剥削劳动力","profile":"http://i1.go2yd.com/image.php?url=http%3A%2F%2Fsi1.go2yd.com%2Fget-image%2Fh3rd%2F0LjLLlAH6i8&type=_120x120"}],"comment":"满清是趁明末内乱窃取天下，八旗兵本身的战斗力就不强。","profile":"http://s.go2yd.com/a/thead_zhanzhao.png"}],"pageid":"Homepage_g181","comment_count":115,"tags":[],"extra":[],"ctype":"news","image_urls":["0J5jLOIhA1","0J5jLO7DLr","0J5jLO1Fx2"],"image":"0J5jLOIhA1","title_sn":0,"like":19,"url":"http://www.yidianzixun.com/mp/content?id=58430342","up":35,"dislike_reasons":["老舍","历史","人文","旧闻、重复","内容质量差"],"card_position":["best"],"category":"历史","source":"读史闲谈","display_flag":0,"wemedia_id":570964,"wemedia_info":{"summary":"斜杠青年、自媒体爱好者、内容创业者、历史学硕士","fromId":"m570964","rank":3,"authentication":"","name":"读史闲谈","plus_v":0,"source_type":1,"media_domain":"历史","image":"http://si1.go2yd.com/get-image/0G3BTzmVIno","type":"media","channel_id":"m570964"},"down":2,"auth":true}
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J5jLOKy, title:清朝灭亡前夕，八旗子弟到底有多堕落？老舍说过一句不可思议的话
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:读史闲谈, date:2018-05-22 14:51:18, category:历史
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:大家都知道，在中国古代历史中，北方的游牧部落的战斗力一直都很强大，并且经常性的南侵，对中原王朝产生了巨大的威胁。那么为何游牧部落的战斗力能够如此强大呢？首先，这些部落的生存环境比较恶劣，适者生存，自然就养成了他们尚武善战的能力，更为重要的是，游牧部落的统治者建
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:0J5jLOIhA1
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["0J5jLOIhA1","0J5jLO7DLr","0J5jLO1Fx2"]
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:<div class="content-bd">
+ <!-- wemedia true -->
+ <div id="imedia-article" class="imedia-article">
+  <p>大家都知道，在中国古代历史中，北方的游牧部落的战斗力一直都很强大，并且经常性的南侵，对中原王朝产生了巨大的威胁。那么为何游牧部落的战斗力能够如此强大呢？首先，这些部落的生存环境比较恶劣，适者生存，自然就养成了他们尚武善战的能力，更为重要的是，游牧部落的统治者建立和完善了一系列尚武善战的体系和制度。使得部落战士不仅善战，并且还愿意远征，今天笔者就给大家聊聊<a href="/channel/w/满清八旗">满清八旗</a>以及八旗子弟的发展过程。据史料记载，八旗制度最先并非是军事制度，而是女真人在东北打猎的时候，为了形成统一的步伐，获得更多的食物，而形成的一个组织。既然有了组织，就应当有一个领导者，这个领导者其实就是牛录额真，在历史长河的发展中，这些牛录额真为了争夺最终的指挥权，彼此之间展开混战。</p>
+  <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J5jLOIhA1"></span></p>
+  <p>为了打败敌军，避免伤害己方，便形成以旗帜作为标志，到最后就成为了八旗制度。大家要知道的是，在<a href="/channel/w/满清">满清</a>未入关之前，八旗军为满清统治立下了不世之奇功，然而等到<a href="/channel/w/清军入关">清军入关</a>之后，大清王朝为了巩固自己的统治，开始主动拉拢不少汉人。据资料揭露，<a href="/channel/w/满清王朝">满清王朝</a>为了统治人口如此多的中国，特别是汉人人口众多，大力重用汉人，以减少汉人对<a href="/channel/w/满清">满清</a>政权的排斥。坦白来说，这一招还是很有用的，在相当长的时间里，汉人整体上还是拥护大清王朝统治的。然而让人没有想到的是，最坚固的堡垒往往是从内部攻破的，清军入关之后，随即展开了大刀阔斧的圈地运动，作为统治阶层一部分的八旗子弟，获得了大量的良田。这些八旗子弟将赋税和管理全部交给了自己族人，其实有点类似于分封制，结果却导致八旗子弟颓废起来，整日游手好闲。</p>
+  <p><span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J5jLO7DLr"></span></p>
+  <p>后代居然还出现了生活无着落的问题。毕竟金山再大，也会有吃光的那一天，那么<a href="/channel/w/清朝">清朝</a>灭亡前夕，八旗子弟到底有多堕落？大家都知道，著名作家老舍先生其实就是正红旗人，他亲自看到过八旗子弟的生活状况，并且对此是深恶痛绝。老舍说过一句不可思议的话，“这些八旗子弟，他们创造一种独特的生活方式，有钱人家会真的讲究，穷人家就穷讲究。而且他们在蛐蛐罐子，提笼逗鸟方面颇有点经验，然而对天下大势却一点都不知道，生活的比较糊涂。”而且更为关键的是，八旗子弟因为有法律的保护，毕竟他们是统治阶层的一部分，结果居然私自放高利贷，有的还会用军粮换钱。更有甚者还敢贩卖军队的盔甲，换到钱以后再继续贪图享乐，抽鸦片，过着奢靡腐化的生活。正是因为在这样的情况下，<a href="/channel/w/辛亥革命">辛亥革命</a>爆发时，清廷基本上毫无还手之力，毕竟依靠的八旗军队，早已无战斗力了。</p>
+  <p><span id="article-img-2" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J5jLO1Fx2"></span></p>
+  <p>笔者认为，在<a href="/channel/w/清军入关">清军入关</a>之时，八旗军队战功赫赫，并且战斗力颇为强盛，最终还打败了<a href="/channel/w/李自成">李自成</a>农民军，而且直接南下灭亡南明小朝廷。但在清廷主政之后，八旗军队却开始迅速腐化堕落，最终变成国家的寄生虫，成为老百姓的负担，<a href="/channel/w/清朝">清朝</a>灭亡前夕，八旗弟子早已不能够<a href="/channel/w/骑马">骑马</a>射箭了。只能无所事事，整日游手好闲，依靠国家财政养活，其实日子过的并不好，但也不愿意作出改变，实在是让人匪夷所思。</p>
+ </div>
+ <p class="yidian-wm-copyright-bottom">本文为一点号作者原创，未经授权不得转载</p>
+</div>
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"郭松龄像白俄人一样身材高大，因此被称为“郭鬼子”。他一度是奉系军阀实力最强的新派代表人物，统领奉系6个师15万人，占总兵力的三分之一。也正是因此，他才有底气发兵反奉。他死后，他的至交好友张学良深感惋惜，每当遇到难事，张学良都会感叹：“有茂宸在，哪用我为这份难？","is_gov":false,"itemid":"0J5wbUal","impid":"592656649_1526974578808_6734","date":"2018-05-22 14:46:18","meta":"592656649_1526974578808_6734","feedback_forbidden":false,"docid":"0J5wbUal","title":"郭鬼子反奉被枪决，后来张学良感叹：如果他在日本人不敢侵华","dtype":3,"content_type":"news","b_political":true,"wm_copyright":"原创","dislike_fromids":["e15459","u11867","c12","",""],"pageid":"Homepage_g181","comment_count":36,"tags":[],"extra":[],"image":"0J5wbUTFAl","ctype":"news","image_urls":["0J5wbUTFAl","0J5wbUKQNl","0J5wbULlri"],"title_sn":1,"like":21,"upload_images":["0J5wbUTFAl","0J5wbUKQNl","0J5wbULlri"],"url":"http://www.yidianzixun.com/mp/content?id=58481450","up":10,"dislike_reasons":["张学良","历史","人文","旧闻、重复","内容质量差"],"card_position":["best"],"category":"历史","source":"天津往事","display_flag":0,"wemedia_id":101176,"wemedia_info":{"summary":"知道一点这个城市的历史","fromId":"m101176","rank":6,"authentication":"","name":"天津往事","plus_v":0,"source_type":1,"media_domain":"历史","image":"http://si1.go2yd.com/get-image/0BxwVxHqxfM","type":"media","channel_id":"m101176"},"auth":true}
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J5wbUal, title:郭鬼子反奉被枪决，后来张学良感叹：如果他在日本人不敢侵华
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:天津往事, date:2018-05-22 14:46:18, category:历史
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:郭松龄像白俄人一样身材高大，因此被称为“郭鬼子”。他一度是奉系军阀实力最强的新派代表人物，统领奉系6个师15万人，占总兵力的三分之一。也正是因此，他才有底气发兵反奉。他死后，他的至交好友张学良深感惋惜，每当遇到难事，张学良都会感叹：“有茂宸在，哪用我为这份难？
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:0J5wbUTFAl
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["0J5wbUTFAl","0J5wbUKQNl","0J5wbULlri"]
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:<div class="content-bd">
+ <!-- wemedia true -->
+ <div id="imedia-article" class="imedia-article">
+  <div>
+   <a href="/channel/w/郭松龄">郭松龄</a>像白俄人一样身材高大，因此被称为“郭鬼子”。他一度是
+   <a href="/channel/w/奉系军阀">奉系军阀</a>实力最强的新派代表人物，统领奉系6个师15万人，占总兵力的三分之一。也正是因此，他才有底气发兵反奉。他死后，他的至交好友
+   <a href="/channel/w/张学良">张学良</a>深感惋惜，每当遇到难事，张学良都会感叹：“有茂宸在，哪用我为这份难？……如果郭松龄在，日本人就不敢发动‘九一八’事变。”
+  </div>
+  <div>
+   郭松龄（1883—1925），字茂宸，出生在辽宁奉天东陵区深井子镇渔樵村，是
+   <a href="/channel/w/唐朝">唐朝</a>名将郭子仪后裔。20岁时，郭松龄进入省城
+   <a href="/channel/w/书院">书院</a>学习。盛京将军
+   <a href="/channel/w/赵尔巽">赵尔巽</a>在奉天大北关设立陆军学堂，郭松龄入选。毕业后，郭松龄任盛京将军衙门卫队哨长，深得陆军统领
+   <a href="/channel/w/朱庆澜">朱庆澜</a>赏识。朱庆澜调入四川驻防，郭松龄随他入川。1910年，郭松龄经
+   <a href="/channel/w/方声涛">方声涛</a>、叶荃介绍加入新军同盟会。武昌起义后，
+   <a href="/channel/w/朱庆澜">朱庆澜</a>被迫离开四川，郭松龄也回了奉天。
+  </div>
+  <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J5wbUxN1n"></span></p>
+  <div>
+   （郭松龄）
+  </div>
+  <div>
+   不久后，郭松龄考入北京将校研究所，一年后又考入中国陆军大学，毕业后任北京讲武堂教官。孙中山领导护法运动失败后，郭松龄返回奉天，1919年，
+   <a href="/channel/w/张作霖">张作霖</a>重建东三省陆军讲武堂，郭被调到讲武堂任战术教官。
+  </div>
+  <div>
+   张学良也在讲武堂学习，是第一期
+   <a href="/channel/w/炮兵">炮兵</a>科学员。讲武堂教官大多对张学良关照逢迎，唯独郭松龄对他管教甚严，两人成为师徒和莫逆之交。张学良从讲武堂毕业后担任卫队旅旅长，向张作霖推荐郭松龄任卫队旅参谋长兼第二团团长。
+  </div>
+  <div>
+   郭松龄专心训练、整顿军纪，卫队旅军容一新。1920年7月，张作霖入关调停直皖战争，郭松龄任先锋司令，在天津小站以一团兵力击溃皖军两个旅，在奉军中声名鹊起，被提升为扩编后的陆军混成第八旅旅长，与张学良任旅长的第三旅合署办公，而实际的行政、训练都由郭负责。
+  </div>
+  <p><span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J5wbU0ryK"></span></p>
+  <div>
+   （《少帅》中的郭松龄）
+  </div>
+  <div>
+   第一次直奉战争，奉军老派将领打得一塌糊涂，只有张学良和郭松龄的两个旅挽回点面子，三、八旅在
+   <a href="/channel/w/山海关">山海关</a>一役中，与直军几倍追兵相抗衡，阻止了直军突破山海关直取奉天的计划，使张作霖安然退回奉天。
+  </div>
+  <div>
+   此后张作霖成立东三省陆军整理处，张学良任参谋长，实际由郭松龄代理。张作霖将奉、吉、黑三省军队统一为“东北军”，取消师制，改为旅制。张学良的第三旅改为第二旅，郭松龄的第八旅改为第六旅，仍合署办公，在张作霖心中，郭松龄就等同于张学良，所以好武器、好装备都可着郭松龄来，奉军精锐几乎尽在郭松龄麾下。
+  </div>
+  <div>
+   郭松龄治军“大公无私、量才使用、信赏必罚、甘苦与共”，他的观点是：“凡平日升官心切的人，就是战时最怕死的人；平时钻营门路的人，就是轻弃职守的人。”他在军队中推行军需独立，军需不再是长官的私人账房，而是部队供给的保障。蒋介石后来说，东北有两件事值得学，一是
+   <a href="/channel/w/王永江">王永江</a>的理财之道，二是郭松龄的军需独立。
+  </div>
+  <p><span id="article-img-2" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J5wbUfHsA"></span></p>
+  <div>
+   （《少帅》中的郭松龄）
+  </div>
+  <div>
+   张学良的行伍生涯，从一开始训练、提拔为军官，到指挥打仗，都是跟郭松龄绑在一起的。张学良对郭松龄推心置腹，郭松龄对张学良也是鞠躬尽瘁。一般人都认为郭松龄是张学良的灵魂，张学良自己则说：“我就是茂宸，茂宸就是我”。直到晚年，张学良仍说：“我最敬重郭松龄，我前半生的事业完全靠他。”
+  </div>
+  <div>
+   第二次直奉战争，张学良与郭松龄担任第三军正副军长。郭松龄率军增援九门口，激战石门寨，出击秦皇岛，所向披靡，张学良郭松龄名声大振，张作霖任命张学良为京榆驻军司令部司令，郭松龄为副司令。
+  </div>
+  <div>
+   奉军分成老派和新派。老派是和张作霖一起出道的把兄弟，包括
+   <a href="/channel/w/张作相">张作相</a>、张景惠、
+   <a href="/channel/w/汤玉麟">汤玉麟</a>、孙烈臣、吴俊升。新派分为“
+   <a href="/channel/w/士官">士官</a>”派和“陆大”派，“士官”派多是日本
+   <a href="/channel/w/士官">士官</a>学校毕业，以
+   <a href="/channel/w/杨宇霆">杨宇霆</a>为首，成员有姜登选、韩麟春、常阴槐等人，“陆大”派的代表就是郭松龄。
+  </div>
+  <p><span id="article-img-3" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J5wbUd6n7"></span></p>
+  <div>
+   （张作霖）
+  </div>
+  <div>
+   第二次直奉战争奉系打赢了，内部却发生地盘之争。张作霖原定由姜登选接管江苏，郭松龄接管安徽。不料杨宇霆也想要地盘，结果杨去了江苏，把姜登选挤到了安徽，山东督军给了张宗昌，贡献最大的郭松龄则落了空。
+  </div>
+  <div>
+   对此，张作霖的解释是：“将来我的位子就是小六子的，小六子掌了大权，你郭松龄还怕没有位子吗？”张作霖也暗示过郭松龄，只要时机得当，会给他一块合适的地盘。但实际是，郭松龄手上掌握的是奉军的核心部队，所以没办法把郭松龄连人带兵派成封疆大吏。
+  </div>
+  <div>
+   20年代中期，郭松龄作为奉军的代表，与夫人韩淑秀一起到日本观操，得知张作霖在日本购买武器要与
+   <a href="/channel/w/冯玉祥">冯玉祥</a>开战，郭松龄愤慨至极，决定联络冯玉祥反奉。
+  </div>
+  <p><span id="article-img-4" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J5wbUN3g5"></span></p>
+  <div>
+   （张学良）
+  </div>
+  <div>
+   郭松龄和他周围的魏益三、盛世才以及幕僚
+   <a href="/channel/w/林长民">林长民</a>和
+   <a href="/channel/w/齐世英">齐世英</a>，受五四以来国民革命的思想影响很大。郭松龄跟冯玉祥联系上以后，思想变化更快。他之所以反奉，是为了打造一个新东北，一个新奉军。
+  </div>
+  <div>
+   回国后，张作霖派郭松龄到天津部署进攻国民军，郭到天津却与冯玉祥频繁联系。张学良向郭松龄、
+   <a href="/channel/w/李景林">李景林</a>传达向国民军进攻的密令，郭松龄公然抗命，痛陈不可再战。张作霖察觉郭松龄有异心，发急电令郭松龄调部集中在滦州，回奉天听候命令。郭松龄立即与冯玉祥接洽，议定由冯玉祥据西北，直隶、热河归李景林，郭松龄管辖东三省，冯玉祥、李景林共同支持郭军反奉。
+  </div>
+  <p><span id="article-img-5" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J5wbUNRI6"></span></p>
+  <div>
+   （奉系军队）
+  </div>
+  <div>
+   郭松龄起兵前，称病住进天津
+   <a href="/channel/w/意大利">意大利</a>医院。张学良前去探望，劝他回奉天向“上将军面陈意见”。郭表示：“上将军脑筋陈旧，在杨宇霆这帮群小包围之下恐已无力挽回，必须赶走老杨这帮人，父让子继，由我们来干。”张学良赞成反对军阀混战、革新东北，但无论如何做不到反对父亲张作霖。
+  </div>
+  <div>
+   郭松龄在天津国民饭店召集亲信部下开会，公开表示对张作霖、
+   <a href="/channel/w/杨宇霆">杨宇霆</a>的不满，以军团长张学良名义下令部队撤到滦州，发布反奉宣言书，手下将领绝大多数表示赞同，但有三十多名将领犹豫不决，郭松龄将这些人逮捕，押往天津李景林处关押起来。
+  </div>
+  <div>
+   郭松龄在滦州起兵，杀了姜登选，率7万大军攻占
+   <a href="/channel/w/山海关">山海关</a>，夺取绥中、兴城，冲破连山防线，占领锦州。不料
+   <a href="/channel/w/李景林">李景林</a>突然背盟，向
+   <a href="/channel/w/冯玉祥">冯玉祥</a>的国民军开战，并扣押郭军在天津存放的钱款和6万套冬装。
+  </div>
+  <p><span id="article-img-6" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J5wbUN0MH"></span></p>
+  <div>
+   （奉系军队）
+  </div>
+  <div>
+   <a href="/channel/w/张学良">张学良</a>不再对郭松龄抱有幻想，派飞机在郭军上空投撒传单，揭露郭松龄盗用自己名义倒戈反奉，谴责其忘恩负义，呼吁“老张家人不打老张家”。士兵中流传：“吃张家，穿张家，跟着郭鬼子造反真是冤家。”将士互问：“进奉天干嘛？打老帅吗？做人得讲良心。”一时间军心涣散，士兵纷纷投诚。也就是说，郭松龄并没有本事把他的新思想贯彻到军队中，军阀部队当兵打仗赚钱，对新文化无感，吃老张家的饭，更不能打老张家的人。
+  </div>
+  <div>
+   所以当兵的开始拖枪逃跑、消极怠工，也有人蓄意破坏，在攻打新民县巨流河时，遭到日本关东军袭击，后方被从黑龙江来支援的奉系吴俊升切断，郭军一败涂地。郭松龄与夫人韩淑秀化装逃跑，在新民县一个菜窑被奉军逮捕，押至
+   <a href="/channel/w/辽中县">辽中县</a>老达房后，审都没审就被毙了，
+   <a href="/channel/w/张作霖">张作霖</a>又下了一道命令，曝尸三日，方可收葬。
+  </div>
+  <p><span id="article-img-7" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J5wbUIYWP"></span></p>
+  <div>
+   （《少帅》中的
+   <a href="/channel/w/郭松龄">郭松龄</a>）
+  </div>
+  <br>
+  <br>
+ </div>
+ <p class="yidian-wm-copyright-bottom">本文为一点号作者原创，未经授权不得转载</p>
+</div>
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"和吴亦凡比帅，还说自己不是他的粉丝，不过最后夸了吴亦凡很有礼貌又帅气。想必吴亦凡的内心也是崩溃的吧。","is_gov":false,"itemid":"0J6wppZf","impid":"592656649_1526974578808_6734","date":"2018-05-22 14:41:18","meta":"592656649_1526974578808_6734","feedback_forbidden":false,"docid":"0J6wppZf","title":"都是谢娜的恋人，为何一个受万人追捧被章子怡夸，一个却被追着喷","dtype":1,"b_political":false,"content_type":"news","dislike_fromids":["e695816","c3","e12318","",""],"pageid":"Homepage_g181","comment_count":27,"tags":[],"extra":[],"ctype":"news","image_urls":["0J6wppREFb"],"image":"0J6wppREFb","title_sn":0,"like":3,"upload_images":["0J6wppREFb"],"url":"http://www.yidianzixun.com/mp/content?id=58688750","up":14,"dislike_reasons":["谢娜","娱乐","章子怡","旧闻、重复","内容质量差"],"card_position":["best"],"category":"娱乐","source":"华语娱乐聚焦","display_flag":0,"wemedia_id":201009,"wemedia_info":{"summary":"聚焦影视一手动态，提供最新行业观点","fromId":"m201009","rank":4,"authentication":"","name":"华语娱乐聚焦","plus_v":2,"source_type":1,"media_domain":"娱乐","image":"http://si1.go2yd.com/get-image/09AcW9yhwy8","type":"media","channel_id":"m201009"},"auth":true}
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J6wppZf, title:都是谢娜的恋人，为何一个受万人追捧被章子怡夸，一个却被追着喷
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:华语娱乐聚焦, date:2018-05-22 14:41:18, category:娱乐
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:和吴亦凡比帅，还说自己不是他的粉丝，不过最后夸了吴亦凡很有礼貌又帅气。想必吴亦凡的内心也是崩溃的吧。
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:0J6wppREFb
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["0J6wppREFb"]
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:<div class="content-bd">
+ <!-- wemedia true -->
+ <div id="imedia-article" class="imedia-article">
+  <p>作为娱乐圈里有名的自恋型男演员，<a href="/channel/w/刘烨">刘烨</a>大概是男明星里最爱比帅的人了。</p>
+  <p>比如在微博中，和别人比帅似乎变成了刘烨的日常。</p>
+  <div>
+   <div>
+    <span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6wppvc8M"></span>
+   </div>
+  </div>
+  <p>和吴亦凡比帅，还说自己不是他的粉丝，不过最后夸了吴亦凡很有礼貌又帅气。想必吴亦凡的内心也是崩溃的吧。</p>
+  <div>
+   <div>
+    <span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6wppuRsX"></span>
+   </div>
+  </div>
+  <p>和刘德华比帅。</p>
+  <div>
+   <div>
+    <span id="article-img-2" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6wppXid2"></span>
+   </div>
+  </div>
+  <p>就连自己做梦都梦见被人说帅。</p>
+  <div>
+   <div>
+    <span id="article-img-3" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6wppbl7u"></span>
+   </div>
+  </div>
+  <p>而且还常常发自拍夸自己帅。</p>
+  <div>
+   <div>
+    <span id="article-img-4" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6wppaSbm"></span>
+   </div>
+  </div>
+  <p>对于刘烨这种十分自恋的微博，网友却十分买账。</p>
+  <p>“社长的真的帅呀，哈哈！也许社长现在有人说他油腻了，可是我们社长年轻的时候确实是帅的呀。哇哈哈。。。。”</p>
+  <p>甚至章子怡都盖章认证刘烨的帅：“刘烨是我们班最帅的男生，我一直说剧组来挑演员，肯定能选上他，听说他得了金马奖，真的不容易，他真的很努力。”</p>
+  <div>
+   <div>
+    <span id="article-img-5" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6wppJLeE"></span>
+   </div>
+  </div>
+  <p>而关于刘烨的自恋，一起合作过的赵薇也吐槽过：“我认为现在男演员这个年龄层很少有比他好的。但也不能太夸他，得让他有进步的空间，他很容易骄傲的。”</p>
+  <div>
+   <div>
+    <span id="article-img-6" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6wpp01jZ"></span>
+   </div>
+  </div>
+  <p>对比之下，张杰似乎很少被人说自恋，可是生活中的张杰虽然低调，却常常被朋友爆料，比如之前一起参加节目的<a href="/channel/w/李维嘉">李维嘉</a>就曾记说过张杰十分自恋：“在彩排的时候，张杰会不停夸自己唱得不错。”</p>
+  <div>
+   <div>
+    <span id="article-img-7" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6wpp4Bxt"></span>
+   </div>
+  </div>
+  <p>张杰在微博还会夸自己的手。</p>
+  <div>
+   <div>
+    <span id="article-img-8" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6wppzydO"></span>
+   </div>
+  </div>
+  <p>更有意思的是，某次张杰讲述自己做检查时带耳机，也被网友吐槽了，难道做核磁共振还可以带耳机听歌吗？</p>
+  <div>
+   <div>
+    <span id="article-img-9" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6wppEJ0t"></span>
+   </div>
+  </div>
+  <p>不同的是，作为<a href="/channel/w/谢娜">谢娜</a>的老公，网友们常常质疑为何有关张杰的颜值就很少有人夸呢？</p>
+  <p>“看见嘲笑张杰自恋，可是娜娜的前任难道不更自恋吗，在刘烨微博搜索帅，居然有38个结果，而张杰只有9条呀。”</p>
+  <p>对此，很多网友说那是因为刘烨是真的帅，大概是真相了吧！</p>
+  <div>
+   <div>
+    <span id="article-img-10" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6wppRfll"></span>
+   </div>
+  </div>
+  <p>其实，张杰的长相还算是可以，但是和刘烨比的话似乎就差那么一点，可如果比唱歌的话，<a href="/channel/w/刘烨">刘烨</a>也比不过张杰啊，看来还是要术业有专攻，总不能用长处比短处，这未免太不公平了是吧。</p>
+ </div>
+</div>
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"最近《流星花园》重播，勾起了很多人关于青春和初恋的回忆，十七年前那场花美男风潮席卷荧屏，留下了我们对爱情最初的印象。其实内地偶像剧的历史更早一些，只不过年代久远渐渐被大众给遗忘了，可当年那些英俊漂亮的面孔也曾火红一时。","is_gov":false,"itemid":"0J6Rymvo","impid":"592656649_1526974578808_6734","date":"2018-05-22 14:36:19","meta":"592656649_1526974578808_6734","feedback_forbidden":false,"docid":"0J6Rymvo","title":"内地第一代偶像剧主演现状: 有的贵为影帝, 有的变成路人","dtype":3,"content_type":"news","b_political":true,"wm_copyright":"原创","dislike_fromids":["e266463","sc38","c3","",""],"pageid":"Homepage_g181","comment_count":20,"tags":[],"extra":[],"image":"0J6Rym2kFB","ctype":"news","image_urls":["0J6Rym2kFB","0J6Rymg7xl","0J6Rymdqqk"],"title_sn":0,"like":12,"upload_images":["0J6Rym2kFB","0J6Rymg7xl","0J6Rymdqqk"],"url":"http://www.yidianzixun.com/mp/content?id=58265036","up":13,"dislike_reasons":["偶像剧","电影","娱乐","旧闻、重复","内容质量差"],"card_position":["best"],"category":"娱乐","source":"南唐遗少","display_flag":0,"wemedia_id":239365,"wemedia_info":{"summary":"新浪娱乐名博、知名娱评人、亿万级自媒体","fromId":"m239365","rank":4,"authentication":"","name":"南唐遗少","plus_v":0,"source_type":1,"media_domain":"娱乐","image":"http://si1.go2yd.com/get-image/0B2gFnryZG4","type":"media","channel_id":"m239365"},"auth":true}
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J6Rymvo, title:内地第一代偶像剧主演现状: 有的贵为影帝, 有的变成路人
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:南唐遗少, date:2018-05-22 14:36:19, category:娱乐
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:最近《流星花园》重播，勾起了很多人关于青春和初恋的回忆，十七年前那场花美男风潮席卷荧屏，留下了我们对爱情最初的印象。其实内地偶像剧的历史更早一些，只不过年代久远渐渐被大众给遗忘了，可当年那些英俊漂亮的面孔也曾火红一时。
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:0J6Rym2kFB
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["0J6Rym2kFB","0J6Rymg7xl","0J6Rymdqqk"]
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:<div class="content-bd">
+ <!-- wemedia true -->
+ <div id="imedia-article" class="imedia-article">
+  <p>最近《流星花园》重播，勾起了很多人关于青春和初恋的回忆，十七年前那场花美男风潮席卷荧屏，留下了我们对爱情最初的印象。其实内地<a href="/channel/w/偶像剧">偶像剧</a>的历史更早一些，只不过年代久远渐渐被<a href="/channel/w/大众">大众</a>给遗忘了，可当年那些英俊漂亮的面孔也曾火红一时。</p>
+  <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6Rym5we1"></span></p>
+  <p> </p>
+  <p>谁才是内地偶像剧的鼻祖一直存在争议，好几部戏都不肯把这个头衔拱手于人，为此各自在前面冠上了独一无二的定语。比如说《<a href="/channel/w/将爱情进行到底">将爱情进行到底</a>》，就是内地第一部“青春”偶像剧，影响力最广知名度最高。</p>
+  <p><span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6RymA2A4"></span></p>
+  <p> </p>
+  <p>和现在的小鲜肉小鲜花相比，那时候的<a href="/channel/w/李亚鹏">李亚鹏</a>和<a href="/channel/w/徐静蕾">徐静蕾</a>太好看了，一个阳光帅气一个清纯甜美，干净纯粹得像一张没有任何痕迹的白纸。</p>
+  <p>杨铮和文慧的经历成了一代青年男女的爱情启蒙，相爱的两个人未必能够走到最后，有时候错过也有一种遗憾美，至少曾经轰轰烈烈不顾一切地爱过。</p>
+  <p><span id="article-img-2" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6RymUq2M"></span></p>
+  <p> </p>
+  <p>二十年后，她成了娱乐圈公认的才女和票房<a href="/channel/w/导演">导演</a>，跟歌手男友相恋多年；而他经历了和歌坛天后的一段<a href="/channel/w/婚姻">婚姻</a>，如今有些微微发福，早已不是当年潇洒不羁的模样。</p>
+  <p>当他们在《跨界歌王》再度同台，依然带给观众久违的情感冲击，记忆一幕一幕重现在脑海里。原来老徐和<a href="/channel/w/李亚鹏">李亚鹏</a>都四十多岁了，可那些追《将爱》的日子仿佛昨天一般。</p>
+  <p><span id="article-img-3" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6RymZd3S"></span></p>
+  <p> </p>
+  <p>《将爱情进行到底》这部剧的主演阵容挺有意思，如同一锅乱炖的“大杂烩”，有科班出身的专业演员，也有玩票的主持人和歌手，<a href="/channel/w/田震">田震</a>高旗陈明等唱将都在里面露过脸。尤其是陈明，她演唱的片尾曲《等你爱我》，随着<a href="/channel/w/电视剧">电视剧</a>的播出整整火到现在。</p>
+  <p><span id="article-img-4" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6Rymfz26"></span></p>
+  <p> </p>
+  <p>二十年后，曾是歌坛大姐大的<a href="/channel/w/田震">田震</a>鲜少露面，陈明参加了《我是歌手》重新翻红，<a href="/channel/w/谢雨欣">谢雨欣</a>早已淡出娱乐圈带着两个女儿生活。</p>
+  <p>只有<a href="/channel/w/王学兵">王学兵</a>，把一手好牌打得稀巴烂。作为公众人物，浪子回头金不换没那么容易，就算你真心改正努力补救，想要挽回观众的心也几乎没有可能，早知今日何必当初呢。</p>
+  <p><span id="article-img-5" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6RymFQwR"></span></p>
+  <p> </p>
+  <p>别看廖凡现在变得很粗狂，当初人家也是演过偶像剧的。《将爱》里面，他塑造的男二号雨森挺悲情，做了一回文慧的备胎，又因为一场意外与世长辞。对这个角色印象最深的就是戴着一副近视眼镜，多了几分文质彬彬的书生气。</p>
+  <p><span id="article-img-6" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6Rym89BS"></span></p>
+  <p> </p>
+  <p>《将爱情进行到底》一众主演当中，廖凡绝对不是最火的，但他在电影圈的成就毋庸置疑是最高的。<br></p>
+  <p>踏踏实实拍了十几年戏，终于凭借《白日焰火》拿到了<a href="/channel/w/柏林电影节">柏林电影节</a>最佳男主角，成为葛优夏雨之后内地第三位“三大影帝”，一时之间名声大噪。没有帅气的外形又如何，演技和个人魅力加了太多分。</p>
+  <p><span id="article-img-7" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6RymJr01"></span></p>
+  <p> </p>
+  <p>《<a href="/channel/w/将爱情进行到底">将爱情进行到底</a>》播出的前一年，另外一部帅哥美女云集的剧已经播出，正是内地第一部校园偶像剧《<a href="/channel/w/真空爱情记录">真空爱情记录</a>》。<br></p>
+  <p>更值得说的一点是，该剧的三位主角<a href="/channel/w/马伊琍">马伊琍</a>陈龙<a href="/channel/w/保剑锋">保剑锋</a>，都出自上海戏剧学院九四表演班，三位同班同学也把各自的名字刻在了国剧的历史上。</p>
+  <p><span id="article-img-8" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6Rymu1wZ"></span></p>
+  <p> </p>
+  <p>二十一年过去了，三个人再度同框满满都是感慨，尽管不再青春眼角多了皱纹，同窗情谊却始终没有变过。<br></p>
+  <p>陈龙的演艺之路一波三折，经历过大红大紫，也遭遇过多年低谷，近年和胡歌合作的《琅琊榜》大获好评；马伊琍多年来一直位居一线<a href="/channel/w/电视剧">电视剧</a>演员的行列，作品不算多但每一部都叫好又叫座，去年的《我的前半生》热度居高不下；从偶像小生到“中年大叔”，<a href="/channel/w/保剑锋">保剑锋</a>从容面对着岁月的礼遇，年龄渐长的同时演技也日渐成熟。</p>
+  <p><span id="article-img-9" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6RymRBWx"></span></p>
+  <p> </p>
+  <p>大家还记得《<a href="/channel/w/真空爱情记录">真空爱情记录</a>》的女一号“崔希”吗，<a href="/channel/w/马伊琍">马伊琍</a>在剧中给她做配，留着一头干练的<a href="/channel/w/短发">短发</a>，漂亮又有气质，完全符合那个年代班花的形象。</p>
+  <p>演完此剧后，<a href="/channel/w/张雅琳">张雅琳</a>便退出了影视圈，摇身一变成了中央台的女主播，主持过多档节目和文艺晚会。可惜前几年她悄无声息地离开了<a href="/channel/w/央视">央视</a>，选择做回一个普通人，享受平淡的家庭生活。</p>
+  <p><span id="article-img-10" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6RymX0IE"></span></p>
+  <p> </p>
+  <p>如果不是<a href="/channel/w/瞿颖">瞿颖</a>在《天天向上》重新提及，我们或许早已忘记了内地第一部都市<a href="/channel/w/偶像剧">偶像剧</a>《真情告白》。</p>
+  <p>男女主角，是同为名模出身的胡兵和<a href="/channel/w/瞿颖">瞿颖</a>，两个大高个俊男靓女搭配，着实是荧屏上一道养眼的风景线。</p>
+  <p><span id="article-img-11" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J6RymEoPO"></span></p>
+  <p> </p>
+  <p>他俩不但是公认的“荧幕情侣”，还是名副其实的至交好友，见证了彼此二十多年的变化，以及生活中每一段重要历程，在娱乐圈有这样<a href="/channel/w/性格">性格</a>相投无话不谈的异性闺蜜真好。</p>
+  <p>两个人的演艺道路也极为相似，都曾放弃<a href="/channel/w/模特">模特</a>事业转型全职演员，近些年又双双淡出了影视圈，偶尔能在综艺节目里看到二位的身影。岁月这般静好，只愿曾带给我们回忆的演员们一切安好。</p>
+ </div>
+ <p class="yidian-wm-copyright-bottom">本文为一点号作者原创，未经授权不得转载</p>
+</div>
+[INFO]2018-05-22 15:36:21[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************

@@ -1,0 +1,389 @@
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"中共中央总书记、国家主席、中央军委主席、中央外事工作委员会主任习近平5月15日上午主持召开中央外事工作委员会第一次会议并发表重要讲话。习近平强调，要加强党中央对外事工作的集中统一领导，准确把握当前国际形势发展变化，锐意进取，开拓创新，努力开创中国特色大国外交新","dis_recommend":true,"is_gov":false,"tag_icon":"je9lniep.png","itemid":"0J3an3x3","impid":"592656649_1526438086941_3998","date":"2018-05-16 10:29:46","meta":"592656649_1526438086941_3998","feedback_forbidden":true,"docid":"0J3an3x3","title":"习近平主持召开中央外事工作委员会第一次会议","dtype":0,"content_type":"news","b_political":true,"dislike_fromids":["u1779","e32246","c1","",""],"pageid":"Homepage_g181","tags":["tag_weibo_pop","tag_sticky"],"comment_count":87,"extra":[],"card_label":{"text":"置顶","border_color":"#FF5B5F","text_color":"#FF5B5F","background_color":""},"ctype":"news","title_sn":0,"like":420,"tag_name":"sticky","url":"http://www.xinhuanet.com/politics/leaders/2018-05/15/c_1122836914.htm","up":921,"dislike_reasons":["习近平","新时代","时政","旧闻、重复","内容质量差"],"card_position":["best"],"category":"时政","source":"新华社","display_flag":0,"down":66,"auth":true}
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J3an3x3, title:习近平主持召开中央外事工作委员会第一次会议
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:新华社, date:2018-05-16 10:29:46, category:时政
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:中共中央总书记、国家主席、中央军委主席、中央外事工作委员会主任习近平5月15日上午主持召开中央外事工作委员会第一次会议并发表重要讲话。习近平强调，要加强党中央对外事工作的集中统一领导，准确把握当前国际形势发展变化，锐意进取，开拓创新，努力开创中国特色大国外交新
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:null
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:null
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:sticky, card_label:{"text":"置顶","border_color":"#FF5B5F","text_color":"#FF5B5F","background_color":""}
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:<div class="content-bd">
+ <p>原标题:习近平主持召开中央外事工作委员会第一次会议</p>
+ <p><strong><a href="/channel/w/习近平">习近平</a>主持召开中央外事工作委员会第一次会议强调</strong></p>
+ <p><strong>加强党中央对外事工作的集中统一领导</strong></p>
+ <p><strong>努力开创中国特色大国外交新局面</strong></p>
+ <p><strong><a href="/channel/w/李克强">李克强</a><a href="/channel/w/王沪宁">王沪宁</a>韩正<a href="/channel/w/王岐山">王岐山</a>参加</strong></p>
+ <p>新华社北京5月15日电 <a href="/channel/w/中共中央">中共中央</a>总书记、国家主席、中央军委主席、中央外事工作委员会主任习近平5月15日上午主持召开中央外事工作委员会第一次会议并发表重要讲话。习近平强调，要加强党中央对外事工作的集中统一领导，准确把握当前国际形势发展变化，锐意进取，开拓创新，努力开创中国特色大国外交新局面，为实现“两个一百年”奋斗目标、实现中华民族伟大复兴的中国梦作出更大贡献。</p>
+ <p><a href="/channel/w/中共中央政治局">中共中央政治局</a>常委、国务院总理、中央外事工作委员会副主任<a href="/channel/w/李克强">李克强</a>，国家副主席、中央外事工作委员会委员<a href="/channel/w/王岐山">王岐山</a>出席会议。中共中央政治局常委、中央书记处书记<a href="/channel/w/王沪宁">王沪宁</a>，<a href="/channel/w/中共中央政治局">中共中央政治局</a>常委、<a href="/channel/w/国务院副总理">国务院副总理</a>韩正参加会议。</p>
+ <p>习近平在讲话中强调，党的十八大以来，在党中央坚强领导下，我们积极推进外交理论和实践创新，完善和深化全方位外交布局，倡导和推进“一带一路”建设，深入参与全球治理体系改革和建设，坚定捍卫国家主权、安全、发展利益，加强党对外事工作的集中统一领导，走出了一条中国特色大国外交新路，取得了历史性成就。</p>
+ <p>习近平指出，当今世界不确定不稳定因素增多，我国发展面临的机遇和挑战并存。我们要准确把握国际形势变化的规律，既认清中国和世界发展大势，又看到前进道路上面临的风险挑战，未雨绸缪、妥善应对，切实做好工作。当前和今后一个时期，要深化外交布局，落实重大外交活动规划，增强风险意识，坚定维护国家主权、安全、发展利益。</p>
+ <p>习近平强调，“一带一路”建设是我们推动构建人类命运共同体的重要实践平台。几年来，“一带一路”建设从理念到行动，发展成为实实在在的国际合作，取得了令人瞩目的成就。要抓好首届“一带一路”国际合作高峰论坛成果的落实，凝聚各方共识，规划合作愿景，扩大对外开放，加强同各国的沟通、协商、合作，推动“一带一路”建设走深走实、行稳致远，更好造福各国人民。</p>
+ <p>习近平指出，地方外事工作是党和国家对外工作的重要组成部分，对推动对外交往合作、促进地方改革发展具有重要意义。要在中央外事工作委员会集中统一领导下，统筹做好地方外事工作，从全局高度集中调度、合理配置各地资源，有目标、有步骤推进相关工作。</p>
+ <p><a href="/channel/w/习近平">习近平</a>强调，做好新形势下外事工作，中央外事工作委员会要发挥决策议事协调作用，推动外交理论和实践创新，为外事工作不断开创新局面提供有力指导。要强化顶层设计和统筹协调，提高把方向、谋大局、定政策能力，推进对外工作体制机制改革，加强外事工作队伍建设，抓好重点工作的推进、检查、督办，确保党中央对外决策部署落到实处。</p>
+ <p>会议审议通过了《中央外事工作委员会工作规则》等文件。</p>
+ <p>中央外事工作委员会委员出席会议，有关领导同志、中央和<a href="/channel/w/国家机关">国家机关</a>有关部门负责同志列席会议。</p>
+ <abbr id="yidian_editor">责任编辑：张丹凤</abbr>
+</div>
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"姚明、贾平凹领衔，后面还有胡歌……本月5日开播的央视大型文化综艺节目《朗读者》第二季，上周末亮相的袁泉让观众眼前一亮。13日晚袁泉接受上游新闻-重庆晨报记者采访时，连连感谢董卿帮自己圆了一个中学时代就有的梦。","is_gov":false,"itemid":"0J30bDod","impid":"592656649_1526438086941_3998","date":"","meta":"592656649_1526438086941_3998","feedback_forbidden":false,"docid":"0J30bDod","title":"袁泉登上《朗读者》感谢董卿：她圆了我中学时就有的梦！","dtype":3,"b_political":false,"content_type":"news","dislike_fromids":["c12","e1514577","t9530","",""],"amazing_comments":[{"utk":"-h1cyzxyq","docid":"0J30bDod","comment_id":"p8qz87-h1cyzxb","createAt":"2018-05-15 10:07:19","hot_score_2":"00000vjxq1-p8qz87-h1cyzxb","hot_score_1":"00000vkik1-p8qz87-h1cyzxb","nickname":"U72075916","userid":-1030209837,"like":27,"comment":"气质美女，不断充实自己。","profile":"http://s.go2yd.com/a/thead_xiongmao.png"}],"pageid":"Homepage_g181","tags":[],"comment_count":8,"extra":[],"ctype":"news","image_urls":["0J30bDScLz","0J30bDW9AG","0J30bDDlzG"],"image":"0J30bDScLz","title_sn":0,"like":34,"url":"http://m.cqcb.com/entertainment/2018-05-14/839083_pc.html","up":321,"dislike_reasons":["人文","董卿","戏曲","旧闻、重复","内容质量差"],"card_position":["best"],"category":"文化","source":"重庆晨报","display_flag":0,"down":26,"auth":true}
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J30bDod, title:袁泉登上《朗读者》感谢董卿：她圆了我中学时就有的梦！
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:重庆晨报, date:, category:文化
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:姚明、贾平凹领衔，后面还有胡歌……本月5日开播的央视大型文化综艺节目《朗读者》第二季，上周末亮相的袁泉让观众眼前一亮。13日晚袁泉接受上游新闻-重庆晨报记者采访时，连连感谢董卿帮自己圆了一个中学时代就有的梦。
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:0J30bDScLz
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["0J30bDScLz","0J30bDW9AG","0J30bDDlzG"]
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:<div class="content-bd">
+ <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J30bDScLz"></span></p>
+ <p><a href="/channel/w/袁泉">袁泉</a>在上周的《<a href="/channel/w/朗读者">朗读者</a>》节目中。</p>
+ <p><a href="/channel/w/姚明">姚明</a>、<a href="/channel/w/贾平凹">贾平凹</a>领衔，后面还有胡歌……本月5日开播的央视大型文化<a href="/channel/w/综艺节目">综艺节目</a>《朗读者》第二季，上周末亮相的袁泉让观众眼前一亮。13日晚袁泉接受上游新闻-重庆晨报记者采访时，连连感谢<a href="/channel/w/董卿">董卿</a>帮自己圆了一个中学时代就有的梦。</p>
+ <p><strong>朗读《<a href="/channel/w/牡丹亭">牡丹亭</a>》是圆梦</strong></p>
+ <p>袁泉在采访中一开始就表达了自己对《朗读者》的喜欢。“第一季开播时我就是它的忠实观众。”品质、良心，这是《朗读者》留给袁泉的主要印象。“它能够让你从各种各样的人生中感受到平凡中的伟大。同时我本人也非常的欣赏董卿，所以在今年节目组邀约的时候我就答应来参加。”</p>
+ <p><span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J30bDW9AG"></span></p>
+ <p><span id="article-img-2" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J30bDDlzG"></span></p>
+ <p>节目中袁泉朗读了《<a href="/channel/w/牡丹亭·惊梦">牡丹亭·惊梦</a>》。</p>
+ <p>看过节目的观众应该对袁泉朗读的戏曲作品《牡丹亭·惊梦》印象深刻，选择这个袁泉直言不光是刻意为之，并且可以说是要感谢节目组的一个小细节。</p>
+ <p>“最初想到这个题材是因为我学过七年的戏曲，而《牡丹亭》也一直都是我非常喜欢的一部作品。但是因为我当时学戏的时候是11岁到18岁，而实际上《牡丹亭》是要读了大学以后才有机会去学的，所以我虽然一直很喜欢，也在台下看过前辈们的表演，但却没有机会作为戏曲演员真正学习表演《<a href="/channel/w/牡丹亭·惊梦">牡丹亭·惊梦</a>》这个片段。”袁泉说，选择这个作品来朗读，也算是圆了自己当年的梦。</p>
+ <p>同时，这一期节目的主题是想念。袁泉说，当时自己也回忆了很多在戏曲学院附中上学时候的思乡之情，“就觉得如果能够把它朗读出来，也算是弥补自己的一个遗憾了吧。”</p>
+ <p><strong>董卿是很好的<a href="/channel/w/引领者倾听者">引领者倾听者</a></strong></p>
+ <p>《牡丹亭》里那些昆曲曲牌里的唱词，从小就在袁泉心里，“所以我非常能够体会得到它其中的每一个字所表达的意境，在字和字组成词句之后，会有戏曲的那种韵律在里面。”袁泉说，这次在《<a href="/channel/w/朗读者">朗读者</a>》中也算是一个尝试，就是把本来有旋律的一段戏曲作品的唱词，用朗读的形式呈现出来。</p>
+ <p>不过，这也不容易。即便是“幼儿学”，袁泉也格外重视。“确定要朗读《牡丹亭》选段之后，我又回去听了曾经一位已经过世的老先生对于《<a href="/channel/w/牡丹亭">牡丹亭</a>》这一段在昆曲曲牌里面的非常细腻的逐字讲述，这也在一定程度上唤起了我当年学习戏曲时候的很多回忆。”</p>
+ <p><span id="article-img-3" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J30bDm0tT"></span></p>
+ <p>袁泉在节目中接受了董卿的访谈。</p>
+ <p>袁泉说，自己当年学习一出戏，戏里每一句的唱词，唱词中的每一个唱腔，老师都会去指导你，她会指导你的吐字，指导你所有音符的起承转合。“所以说在这样一个为录制节目做准备的过程中，不仅是对过往的回忆，同时也让我不由得再次赞叹中国传统戏曲文化的博大精深。”</p>
+ <p>说到这里时，<a href="/channel/w/袁泉">袁泉</a>还特地为节目制片人董卿点了赞。 和董卿的访谈让她格外印象深刻。“我觉得<a href="/channel/w/董卿">董卿</a>在访谈的时候真的会让你感受到她是一位非常好的引领者，同时也是一位非常好的倾听者。所以当我和她聊起在少年时代的这些回忆的时候，就真的会觉得对面的这位倾听者她带给了你一种很强大的信任感。”</p>
+ <p>上游新闻-重庆晨报记者 裘晋奕</p>
+</div>
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"在光迅科技副总经理兼董秘毛浩看来，如果说4G时代改变了我们的生活，那么5G时代则会改变我们的社会。这场正在到来的通信行业的革命，对光迅科技到底意味着什么呢？","is_gov":false,"itemid":"0J3hvYqG","impid":"592656649_1526438086941_3998","date":"","meta":"592656649_1526438086941_3998","feedback_forbidden":false,"docid":"0J3hvYqG","title":"5G对光迅科技来说到底意味着什么？","dtype":0,"b_political":false,"content_type":"news","dislike_fromids":["e16381","u13048","sc18","",""],"pageid":"Homepage_g181","comment_count":0,"tags":[],"extra":[],"ctype":"news","title_sn":0,"url":"http://epaper.stcn.com/paper/zqsb/html/epaper/index/content_1149701.htm","up":1,"dislike_reasons":["光迅科技","5G","IT","旧闻、重复","内容质量差"],"card_position":["best"],"category":"科技","source":"证券时报网","display_flag":0,"wemedia_id":69769,"wemedia_info":{"summary":"《证券时报》是证监会、银保监会指定信息披露报纸。证券时报网为中国主流财经网站、创业板指定信息披露平台。","fromId":"m69769","rank":5,"authentication":"","name":"证券时报网","plus_v":0,"source_type":2,"media_domain":"财经","image":"http://s.go2yd.com/b/ijus4k45.png","type":"media","channel_id":"m69769"},"auth":true}
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J3hvYqG, title:5G对光迅科技来说到底意味着什么？
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:证券时报网, date:, category:科技
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:在光迅科技副总经理兼董秘毛浩看来，如果说4G时代改变了我们的生活，那么5G时代则会改变我们的社会。这场正在到来的通信行业的革命，对光迅科技到底意味着什么呢？
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:null
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:null
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:<div class="content-bd">
+ <founder-content>
+  <p> 证券时报记者 付建利 </p>
+  <p> </p>
+  <p> 在<a href="/channel/w/光迅科技">光迅科技</a>副总经理兼董秘毛浩看来，如果说<a href="/channel/w/4g">4G</a>时代改变了我们的生活，那么5G时代则会改变我们的社会。这场正在到来的通信行业的革命，对光迅科技到底意味着什么呢？</p>
+  <p> 在毛浩看来，关于5G建设的节点，第一，目前4G基站的建设还是在进一步完善和优化，可能基于5G的规划今年下半年会开始启动，今年年底明年年初，5G基站的建设可能会启动，整个传输网也会进行改造和优化，与之配套，接下来<a href="/channel/w/数据中心">数据中心</a>可能也会加快上马。华为、小米等企业都有自己的数据中心，随着5G的投入应用，手机上的数据都会传到云端，它的数据中心建设会进一步加速。等到5G发牌，5G<a href="/channel/w/手机应用">手机应用</a>的时候，从传输到接入、到数据中心，包括基站侧，建设都得跟上来。到时候<a href="/channel/w/消费者">消费者</a>传输的很多都是<a href="/channel/w/高清视频">高清视频</a>的内容，这些数据全部在<a href="/channel/w/数据中心">数据中心</a>，在网上存起来。毛浩预计5G大概会在2020年前后发牌，在这之前必须建好，否则网络好不容易建设起来，很容易崩掉，因为到时候很多交流都可能是高清晰的视频，甚至可能是3D。5G建设大概是这样几个时点。</p>
+  <p> 毛浩认为，5G的建设是全线布局，也是立体建设，它的应用不仅仅是基于传统的语音通话，实际上更多是视频。人与人之间的高清传输，还有一个更重要的用途，就是物联网。物与物之间信息的传递，以及所有传感网和物感网的建设，基本上都是依托5G建设起来的。手机未来在终端上会有很多新的应用，包括大量的传感网，一个是与人相关的，比如可<a href="/channel/w/穿戴设备">穿戴设备</a>、医疗、智能驾驶、<a href="/channel/w/智能家居">智能家居</a>等，随着5G的应用，大量动态信息的采集与应用，以及大量传感器的使用，都会跟上来。以<a href="/channel/w/无人驾驶">无人驾驶</a>为例，未来的无人汽车带宽会做到1个G，除了汽车上需要大量传感器外，沿着汽车的通道和线路，两边实际上有大量传感器，它不停地要把汽车运营的数据传到网络上，同时还要有反馈，这对整个网络建设会有很大带动。</p>
+  <p> 在未来的万物互联时代，更多的节点、更多的传感器，需要更多的芯片、发射模块、接收模块、激光器，效率最高的还是用激光来探测，不仅成本低，而且准确度高。传统的传感器基本上是基于电，但电的带宽不够，信息量也不够，同时需要有电源管理，这些都是传统的电子器件或<a href="/channel/w/电线电缆">电线电缆</a>，有一定的寿命期限，而光纤传感是基于激光器和光纤，光纤的寿命逻辑上20年、30年都不会坏，所以未来物联网中间大量的传感器都是基于光的，光迅科技的芯片未来可能会在这些领域应用比较多，量会大很多，这些是硬件。在软件方面，可能更多的互动<a href="/channel/w/游戏">游戏</a>，或者3D<a href="/channel/w/虚拟现实">虚拟现实</a>，会比较多地应用光迅科技的产品。</p>
+  <p> “5G是改变社会，<a href="/channel/w/4g">4G</a>只是改变生活。5G的应用场景就是万物互联、超低延时、超高速，但这需要光通信的技术。未来新型太阳能电子、新型的可见光照明，包括汽车车灯，都是跟激光器相关的产业，对于<a href="/channel/w/光迅科技">光迅科技</a>来说，商业机会很多很多，只是我们怎么样去把握好而已。”毛浩信心满满地表示。</p>
+ </founder-content>
+ <p></p>
+</div>
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"诗词是中华文化的浓缩，每一寸河山，都饱含文人骚客的诗情画意和浓烈情感。独怜幽草涧边生，一片孤城万仞山，晴川历历汉阳树，夜半钟声到客船…你知道这些诗句都是写哪座城吗？洛城、渭城、锦官城、姑苏、浔阳又是现在的哪座城？不知道的转发学习！","is_gov":false,"itemid":"0J2Uaj00","impid":"592656649_1526438086941_3998","date":"2018-05-16 10:14:46","meta":"592656649_1526438086941_3998","feedback_forbidden":false,"docid":"0J2Uaj00","title":"40诗词，带你走遍大美中国！","dtype":1,"b_political":false,"content_type":"news","dislike_fromids":["e2261","c12","sc80","",""],"pageid":"Homepage_g181","comment_count":1,"tags":[],"extra":[],"ctype":"news","image_urls":["0J2Uajw1mU"],"image":"0J2Uajw1mU","title_sn":0,"like":40,"url":"http://www.yidianzixun.com/mp/content?id=57763048","dislike_reasons":["诗词","人文","中国文化","旧闻、重复","内容质量差"],"card_position":["best"],"category":"文化","source":"生活与艺术","display_flag":0,"wemedia_id":91028,"wemedia_info":{"summary":"弘扬东方美学，传播艺术文化！","fromId":"m91028","rank":4,"authentication":"","name":"生活与艺术","plus_v":0,"source_type":1,"media_domain":"文化","image":"http://si1.go2yd.com/get-image/03BKNZvHQYq","type":"media","channel_id":"m91028"},"down":1,"auth":true}
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J2Uaj00, title:40诗词，带你走遍大美中国！
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:生活与艺术, date:2018-05-16 10:14:46, category:文化
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:诗词是中华文化的浓缩，每一寸河山，都饱含文人骚客的诗情画意和浓烈情感。独怜幽草涧边生，一片孤城万仞山，晴川历历汉阳树，夜半钟声到客船…你知道这些诗句都是写哪座城吗？洛城、渭城、锦官城、姑苏、浔阳又是现在的哪座城？不知道的转发学习！
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:0J2Uajw1mU
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["0J2Uajw1mU"]
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-16 10:34:47[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:<div class="content-bd">
+ <p></p>
+ <p><strong>◆</strong><strong> ◆ ◆</strong></p>
+ <p>诗词是中华文化的浓缩，每一寸河山，都饱含文人骚客的诗情画意和浓烈情感。独怜幽草涧边生，一片孤城万仞山，晴川历历汉阳树，夜半钟声到客船…你知道这些诗句都是写哪座城吗？洛城、渭城、<a href="/channel/w/锦官城">锦官城</a>、姑苏、浔阳又是现在的哪座城？不知道的转发学习！</p>
+ <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2Uajw1mU"></span></p>
+ <p><span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2Uaj8sx3"></span></p>
+ <p><span id="article-img-2" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2Uajbwbo"></span><span id="article-img-3" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2UajFDPR"></span><span id="article-img-4" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2Uaj1807"></span><span id="article-img-5" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2Uajd3iw"></span><span id="article-img-6" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2Uaj7zA7"></span><span id="article-img-7" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2UajSdt2"></span><span id="article-img-8" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2Uaj8Sv8"></span></p>
+ <p><strong></strong></p>
+ <p><strong>读点书吧</strong></p>
+ <p></p>
+ <p>爱读书，爱美文！</p>
+ <p></p>
+ <p><strong>识别关注</strong></p>
+ <p><strong><strong></strong></strong></p>
+ <p></p>
+ <p><strong>识别关注</strong></p>
+</div>
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"大米，可以说已经成为了很多中国人餐桌上的主食，尤其是我国的南方地区，差不多每顿饭都会吃到大米，不过通常人们吃的大米都不会太贵，一般三五块一斤就撑死了，但是你听说过4000块钱一斤的大米么？","is_gov":false,"itemid":"V_01cHD2wg","impid":"592656649_1526438086941_3998","date":"","meta":"592656649_1526438086941_3998","feedback_forbidden":false,"docid":"V_01cHD2wg","title":"世界上最贵的米，一般人吃不起，一斤售价4000块！","display_mode":"detailpage","video_url":"http://video.yidianzixun.com/video/get-url?key=user_upload/152643650205945ba0e32906d80f00152e6aeb3da65eb.mp4","dtype":23,"b_political":false,"content_type":"video","wm_copyright":"原创","dislike_fromids":["","v25350","",""],"pageid":"Homepage_g181","tags":[],"keywords":["社会奇闻"],"special_size":0,"extra":[],"vsct":["vsct//社会/奇闻趣事"],"image":"V_01cHD2Wd20","ctype":"video_live","image_urls":["V_01cHD2Wd20"],"b_native":true,"title_sn":0,"url":"http://www.yidianzixun.com/mp/content?id=58037854","upload_images":["V_01cHD2Wd20"],"dislike_reasons":["类型：视频","社会视频","旧闻、重复","内容质量差"],"card_position":["best"],"category":"社会","duration":78,"source":"创一科论","display_flag":0,"finish_play":"base","video_urls":[{"default":false,"quality":0,"url":"http://v1.go2yd.com/user_upload/152643650205945ba0e32906d80f00152e6aeb3da65eb.mp4_sd.mp4","size":4596138},{"default":true,"quality":1,"url":"http://v1.go2yd.com/user_upload/152643650205945ba0e32906d80f00152e6aeb3da65eb.mp4_bd.mp4","size":6585802},{"default":false,"quality":2,"url":"http://v1.go2yd.com/user_upload/152643650205945ba0e32906d80f00152e6aeb3da65eb.mp4_hd.mp4","size":12927427}],"wemedia_id":542738,"wemedia_info":{"summary":"学习生活小常识，分享有趣的冷知识","fromId":"m542738","rank":4,"authentication":"","name":"创一科论","plus_v":0,"source_type":4,"media_domain":"科学","image":"http://si1.go2yd.com/get-image/0MdjjhUW8ky","type":"media","channel_id":"m542738"},"play_position":1,"auth":true,"vsct_show":["奇闻趣事"]}
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:V_01cHD2wg, title:世界上最贵的米，一般人吃不起，一斤售价4000块！
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:创一科论, date:, category:社会
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:大米，可以说已经成为了很多中国人餐桌上的主食，尤其是我国的南方地区，差不多每顿饭都会吃到大米，不过通常人们吃的大米都不会太贵，一般三五块一斤就撑死了，但是你听说过4000块钱一斤的大米么？
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:V_01cHD2Wd20
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["V_01cHD2Wd20"]
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:null
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"亚原子粒子会通过自然界中的四种基本力相互作用。引力使我们牢牢地待在地球表面上，也让我们手中的咖啡杯不向天空飘散；电磁力作用于带电粒子之间，并会在暴风天的日子里引发闪电；强力是如此的强大，以至于通过它相互作用的粒子（即夸克和胶子）会被紧紧地束缚在一起，并且仅能作","is_gov":false,"itemid":"0J2Wi19h","impid":"592656649_1526438086941_3998","date":"2018-05-16 10:04:46","meta":"592656649_1526438086941_3998","feedback_forbidden":false,"docid":"0J2Wi19h","title":"物理学家第一次精确测量了质子的弱荷","dtype":1,"content_type":"news","b_political":true,"dislike_fromids":["u6163","c10","t24641","",""],"pageid":"Homepage_g181","tags":[],"comment_count":4,"extra":[],"ctype":"news","image_urls":["0J2Wi1A8xq"],"image":"0J2Wi1A8xq","title_sn":0,"like":1,"url":"http://www.yidianzixun.com/mp/content?id=57773423","up":1,"dislike_reasons":["物理学家","科学","品读科学","旧闻、重复","内容质量差"],"card_position":["best"],"category":"科学","source":"原理","display_flag":0,"wemedia_id":218872,"wemedia_info":{"summary":"科学，照亮黑暗的蜡烛。","fromId":"m218872","rank":4,"authentication":"","name":"原理","plus_v":0,"source_type":1,"media_domain":"科学","image":"http://si1.go2yd.com/get-image/0HUgRhsuzz6","type":"media","channel_id":"m218872"},"auth":true}
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J2Wi19h, title:物理学家第一次精确测量了质子的弱荷
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:原理, date:2018-05-16 10:04:46, category:科学
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:亚原子粒子会通过自然界中的四种基本力相互作用。引力使我们牢牢地待在地球表面上，也让我们手中的咖啡杯不向天空飘散；电磁力作用于带电粒子之间，并会在暴风天的日子里引发闪电；强力是如此的强大，以至于通过它相互作用的粒子（即夸克和胶子）会被紧紧地束缚在一起，并且仅能作
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:0J2Wi1A8xq
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["0J2Wi1A8xq"]
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:<div class="content-bd">
+ <p>亚原子粒子会通过自然界中的<strong>四种基本力</strong>相互作用。<strong>引力</strong>使我们牢牢地待在<a href="/channel/w/地球">地球</a>表面上，也让我们手中的咖啡杯不向天空飘散；<strong>电磁力</strong>作用于带电粒子之间，并会在暴风天的日子里引发<a href="/channel/w/闪电">闪电</a>；<strong>强力</strong>是如此的强大，以至于通过它相互作用的粒子（即夸克和胶子）会被紧紧地束缚在一起，并且仅能作为复合物（比如质子和中子）存在；<strong>弱力</strong>则会激发<a href="/channel/w/太阳">太阳</a>内部的一系列链式反应，还能为<a href="/channel/w/放射性衰变">放射性衰变</a>提供一种机制。</p>
+ <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2Wi1GGdu"></span></p>
+ <p>○ 四种基本力。| 图片来源：Typoform</p>
+ <p>此外，正如大多数人所熟悉的，<strong>质量</strong>是引力产生相互作用的根源，而<strong>电荷</strong>和<strong>磁矩</strong>是电磁力的核心。但描述强力和弱力的强度的物理性质，却是不太为人熟知的<strong>色荷</strong>和<strong>弱荷</strong>。一个粒子的弱荷类似于它的电荷——是质子在电磁力作用下受到影响的度量，但却又非常不同。在<strong><a href="/channel/w/粒子物理学">粒子物理学</a>的<a href="/channel/w/标准模型">标准模型</a></strong>中，这两种相互作用是紧密相连的。（标准模型是一个非常成功的理论，它将弱力和电磁力描述为一个单一的力的两个不同方面。）</p>
+ <p>在一项最新的研究中，<a href="/channel/w/科学家">科学家</a>在<a href="/channel/w/美国">美国</a>杰斐逊实验室进行的Q-weak实验中，<strong>首次以极高的精确度测量了质子的弱荷</strong>。此次的研究结果对无法用当前理论描述的物理学设置了严格的约束条件。其研究结果发表于2018年5月9日的《自然》杂志。</p>
+ <p><span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2Wi1A8xq"></span></p>
+ <p>○ 在Q-weak实验中使用的设备，其目标是精确的测量质子的弱荷。其实验结果与标准模型的预测几乎完全一致。 | 图片来源：JEFFERSON LAB/DOE</p>
+ <p>相比于强力和电磁力，弱力实在是太微弱了，因此十分难以被测量。幸运的是，大自然提供了一种方便的度量标尺，那就是一种与<strong><a href="/channel/w/宇称对称">宇称对称</a></strong>（类似于镜像对称）有关的原理。</p>
+ <p>那么，什么是宇称对称呢？假如有一个过程的出现与其镜像的出现概率完全相同，那么我们就说这一过程保持宇称对称。事实上，在宏观世界中，我们能轻易地看到宇称对称的破坏，这尤其出现在生物系统中。举个例子，如果人类的手性也遵循宇称对称，那么世界上的人口应该有一半是右撇子，一半是左撇子。但显然，这并没有发生，因为大多数人都是右撇子。</p>
+ <p>同样地，粒子也具有手性。一个右手性粒子的自旋方向是由当右手大拇指指向粒子的运动方向时，四根手指的卷曲来定义的。相对应的，对于一个左手性粒子来说，则需要弯曲左手的手指来联系粒子的自旋和速度方向。而不同寻常的是，<strong>当所有亚原子粒子间通过弱力相互作用时，都会违反宇称对称。</strong>因此，弱荷就可以通过对比粒子的左右手性的行为来确定。</p>
+ <p>为了测量质子的弱荷，Q-weak的研究人员在实验中朝含有低温液氢的质子靶发射了具有特定手性的电子束，并且设计了一个特别的装置来测量这些从质子靶上散射的电子。</p>
+ <p>接着，研究人员测量出了一种不对称性，这种不对称性描述的是从质子散射出的电子的左右手性的概率差异。结果显示，每十亿中就有 -226.5±9.3 的不对称。数字前的“负号”表示的是左手性电子比右手性电子更容易散射。我们可以用山脉高度的类比来理解这种不对称性的大小：如果山脉的高度违反了<a href="/channel/w/宇称对称">宇称对称</a>性，那么珠穆朗玛峰和它的镜像对应物在高度上将有2mm的差别，并且对这一差异的测量将精确到±80μm。</p>
+ <p><span id="article-img-2" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2Wi1SZOs"></span></p>
+ <p>○ 从质子(p)散射的电子(e)的宇称不守恒。一个螺旋性为+1的入射电子被散射于“宇称不守恒镜面”。在宇称不守恒镜面中的镜像里，入射电子具有相反的螺旋性(-1)，电子并没有在散射后进入宇称不守恒镜中（就像发生在一面真正的镜子中那样），而像是从宇称不守恒镜面出来。由光子（γ，蓝色波浪线）传递的占主导作用的电磁力保持了宇称的守恒。而由Z⁰玻色子（红色虚线）传递的弱相互作用，则违背了宇称守恒。实验通过翻转入射光束的螺旋性（相当于模仿宇称不守恒镜面的“反射”效应）对弱相互作用进行了研究。| 图片来源：The Jefferson Lab Qweak Collaboration</p>
+ <p>这一结果比以往所有通过对来自核子目标散射的电子来研究宇称不守恒的实验都具有更高的精度。Q-weak实验组利用测量到的不对称性，最终确定了<strong>质子的弱荷为 0.0719 ± 0.0045，这与标准模型预测的值非常吻合</strong>。（为了方便比较，论文中作者按惯例将质子电荷记为+1。）</p>
+ <p>或许有人会疑问，为什么<a href="/channel/w/物理学家">物理学家</a>想要如此精确地测量质子的弱荷呢？简而言之，<strong>为了测试我们认知的界限</strong>。物理学家总是试图知道在怎样的尺度下，当前理论就会无法解释观测到的数据。这种失败或许就意味着<strong>第五种基本力</strong>的存在。这是一种假想的未被发现的相互作用，它或许在我们迄今为止还为探索过的极高能量中扮演着重要角色。</p>
+ <p>根据Q-weak实验组对测量结果的报告表明，如果真的存在这种相互作用，那么它们将在超过几个TeV（1TeV=10¹²电子伏特）的粒子能量下才会显现出来。作为比较，在我们熟悉的核裂变（核子分裂成两个或更多部分）反应堆中，平均每个粒子释放的能量约为10⁶eV。这项实验中，研究人员的新物理能级下限与CERN的<a href="/channel/w/大型强子对撞机">大型强子对撞机</a>实验的设定相当、并相辅相成。这非常令人惊叹，因为这次实验中，研究人员用到的电子束的能量比<a href="/channel/w/大型强子对撞机">大型强子对撞机</a>中质子束的能量低几千倍。</p>
+ <p>物理学家 Anne Kinney 说：“在十多年的谨慎研究之后，Q-weak 不仅提供了更多与标准模型有关的信息，它还显示了即便是在中等能量级别的实验中，也能以极高的精准度收获与大型对撞机同等水平的科学结果。这种精度对于搜寻超越标准模型的物理来说将至关重要，届时新的粒子效应或许将会出现于极其微小的差异中。”</p>
+ <p>在一个多世纪以前，<a href="/channel/w/科学家">科学家</a>已经证明电荷会以一份一份的离散形式出现，这为经典电磁学和现代量子力学之间的架构了一座桥梁。从物理常量到粒子属性（如质子的弱荷），通过以更高精度对这些物理量进行测量，可能就会发现需要修改标准模型的新相互作用和粒子。如此宏远的追求需要几代人共同努力不断精化研究。或许有一天，已获得的知识就能带来突破。</p>
+ <p>核<a href="/channel/w/物理学家">物理学家</a> Timothy Hallman 说：“这些极具挑战的实验结果为寻找超越现有理解的新物理提供了另一条线索。有大量证据证明，<a href="/channel/w/标准模型">标准模型</a>只能对自然现象提供一份不完备的描述，而我们却仍不知道突破会出现在什么地方。像Q-weak这样的实验将我们更进一步接近这一问题的答案。”</p>
+ <p>编译：小雨</p>
+ <p>参考来源：</p>https://www.nature.com/articles/d41586-018-05037-9
+</div>
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"5月11日上午，国务院总理李克强在日本首相安倍晋三陪同下，参观考察了丰田汽车（TYO:7203/NYSE:TM）北海道厂区，氢燃料电池汽车是参观项目之一。","is_gov":false,"itemid":"0J2XndSE","impid":"592656649_1526438086941_3998","date":"2018-05-16 09:59:46","meta":"592656649_1526438086941_3998","feedback_forbidden":false,"docid":"0J2XndSE","title":"总理参观的丰田氢电车，技术成熟得2025年后","dtype":1,"content_type":"news","b_political":true,"dislike_fromids":["u1563","c11","t5499","",""],"pageid":"Homepage_g181","comment_count":1,"tags":[],"extra":[],"ctype":"news","image_urls":["0J2XndvU4Q"],"image":"0J2XndvU4Q","title_sn":0,"like":4,"url":"http://www.yidianzixun.com/mp/content?id=57774636","up":1,"dislike_reasons":["丰田","汽车","电池","旧闻、重复","内容质量差"],"card_position":["best"],"category":"汽车","source":"财经十一人","display_flag":0,"wemedia_id":264734,"wemedia_info":{"summary":"本号由十一位专业财经记者创建，专注深度分析、独家报道，研讨企业兴衰，推动阳光商业","fromId":"m264734","rank":5,"authentication":"","name":"财经十一人","plus_v":0,"source_type":1,"media_domain":"科技","image":"http://si1.go2yd.com/get-image/0BoswXoCxOa","type":"media","channel_id":"m264734"},"auth":true}
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J2XndSE, title:总理参观的丰田氢电车，技术成熟得2025年后
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:财经十一人, date:2018-05-16 09:59:46, category:汽车
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:5月11日上午，国务院总理李克强在日本首相安倍晋三陪同下，参观考察了丰田汽车（TYO:7203/NYSE:TM）北海道厂区，氢燃料电池汽车是参观项目之一。
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:0J2XndvU4Q
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["0J2XndvU4Q"]
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:<div class="content-bd">
+ <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XndvU4Q"></span></p>
+ <p>汽车动力要两条腿走路，中国锂电已在世界前列，<a href="/channel/w/燃料电池">燃料电池</a>这条腿也要强壮起来<br></p>
+ <p><strong>王斌斌 陈亮 |文</strong></p>
+ <p><strong>施智梁 |编辑</strong></p>
+ <p>5月11日上午，国务院总理<a href="/channel/w/李克强">李克强</a>在<a href="/channel/w/日本">日本</a>首相<a href="/channel/w/安倍晋三">安倍晋三</a>陪同下，参观考察了<a href="/channel/w/丰田汽车">丰田汽车</a>（TYO:7203/NYSE:TM）<a href="/channel/w/北海道">北海道</a>厂区，氢<a href="/channel/w/燃料电池汽车">燃料电池汽车</a>是参观项目之一。</p>
+ <p>动力的转型是当下<a href="/channel/w/汽车行业">汽车行业</a>变革的重要趋势，锂离子动力电池和燃料电池是其中两条重要的技术路径。目前在中国，大巴上多用磷酸铁锂电池，乘用车上三元锂电池已居主流，而<a href="/channel/w/氢燃料电池">氢燃料电池</a>几乎很少应用。</p>
+ <p>从技术原理上看，锂离子动力电池可以视为一个需要充放电的能量转化装置，而燃料电池是将燃料的化学能通过电化学反应直接转换成<a href="/channel/w/电能">电能</a>的发电设备。当锂电池技术出现时，全球大部分车企都在研究燃料电池，并不看好动力电池的前景。</p>
+ <p>“中国刚开始也以研究燃料电池为主，后来反复比较国内产业优势和交通体系特点，提出以锂电先行为特征的‘纯电驱动’战略，才最终与日韩处于同一阵营，并且在<a href="/channel/w/新能源">新能源</a>电动汽车产业化方面走在世界前列。”中国科学院院士、中国电动汽车百人会执行副理事长欧阳明高告诉《财经》记者。</p>
+ <p>中国在3C锂电池生产方面产业化优势明显。因此，雄厚的产业化基础下，中国锂离子动力电池技术发展迅猛。2017年，全球动力电池销量前十中，有七家是中国电池企业。</p>
+ <p>能量密度、安全性、稳定性、一致性等关键指标，中国锂离子动力电池已经与日韩企业不相伯仲。基于国产高镍正极材料，尤其镍钴锰622材料，2017年底方壳电池单体能量密度超过200瓦时/公斤，全部电池单体能量密度在230±20瓦时/公斤。</p>
+ <p>到2020年，中国锂离子动力电池能量密度目标是300瓦时/公斤。为此，中国各企业和<a href="/channel/w/高校">高校</a>都在加大投入，对固态电池和富锂锰基材料产业化进行研究。</p>
+ <p>目前中国大力发展锂离子动力电池，同时也在支持燃料电池。2016年5月，中共中央、国务院印发《国家创新驱动发展战略纲要》，表示要“开发氢能、燃料电池等新一代能源技术。”在2018年新能源汽车补贴加速退坡的情况下，中国保持燃料电池汽车补贴不变。</p>
+ <p>政策起到了效果，中国的氢燃料电池汽车市场开始逐渐活跃，更多的企业以及资本愿意进入这一领域。上汽集团（600104.SH）前瞻技术部燃料电池整车项目总工程师程伟透露，以前上汽找国内的合作伙伴，对方要求开发费车企全包，现在国内很多供应商主动找到上汽要求合作，并表示愿意自行承担相关开发费用。在2018年2月11日，由国家能源集团牵头的中国氢能源及燃料电池产业创新联盟在北京正式成立。</p>
+ <p>氢能燃料电池技术需要加快发展，这符合我国能源革命的需要，但欧阳明高不同意“氢是终极能源”和“氢能燃料电池车是终极环保车”的说法。氢和电都是能源载体，并无“终极”之说。小型轿车对能量要求较低，锂电池可能发挥更大作用。“所以就新能源汽车而言，燃料电池与纯电将来会是共生共存。”</p>
+ <p>一位参与国内<a href="/channel/w/新能源">新能源</a>汽车发展路线图制定的资深专家也提醒说，二十年前他刚开始研究时，也是跟现在进来的人一样充满热情，但是时间长了，变得越来越理性，“这水挺深的”。</p>
+ <p>上汽集团前瞻技术研究部燃料电池系统部总监陈雪松直言，“中国很多人就觉得市场会一下爆发，但是这个得尊重市场规律，要考虑能源怎么解决，产品的可靠性和用户体验，需要时间。”</p>
+ <p>早在1992年，丰田就开始了<a href="/channel/w/氢燃料电池">氢燃料电池</a>车的开发工作，2014年上市其首款量产氢燃料电池汽车“MIRAI未来”。丰田汽车对《财经》记者表示，该车在充氢3分钟可行驶500公里（NEDC工况下丰田测试值）。</p>
+ <p>丰田的加氢速度和上汽相当，据程伟透露，上汽的氢燃料电池汽车通过加氢站充氢耗时也在3-5分钟之间。如果通过撬装站（即车载氢罐）加氢，虽然更为便利，但由于气压较低，加氢时长需20分钟甚至一小时。</p>
+ <p>上汽集团是国内较早投入技术研发的车企，2006年正式成立燃料电池事业部，从整车集成、系统集成，到如今发力突破电堆技术，公司一直在投入研发，并相继推出燃料电池乘用车<a href="/channel/w/荣威">荣威</a>750、950等车型，陈雪松有信心在十三五和之后的十四五期间，上汽的技术指标全面对标丰田。</p>
+ <p>在这期间，很多燃料电池相关的企业或倒闭或转型，上汽也受过影响。陈雪松对《财经》坦言，“外面都死掉了，上汽内部也曾质疑过，这个方向对不对？最终坚持了下来。”现如今上汽大通的轻型商用车FCV80已获得逾百辆订单。</p>
+ <p>但市场远未成熟。国际咨询机构E4tech的调查显示，截至2017年11月，燃料电池乘用车全球总销量在6000辆左右，不足中国去年纯电动乘用车销量（46.8万台）的零头。</p>
+ <p>因为氢和燃料电池技术原本应用于<a href="/channel/w/航空航天">航空航天</a>以及<a href="/channel/w/军事">军事</a>等对价格不敏感的领域，技术本身相对成熟，但拓展到民用领域，如何完善产业链、大规模降成本才是关键。</p>
+ <p>燃料电池汽车的成本可分为能源端、生产端和用户端三方面。</p>
+ <p>氢能的供给规模尚不足以支撑大规模商业化推广，费用偏贵。上汽集团前瞻技术部<a href="/channel/w/燃料电池">燃料电池</a>整车项目总工程师程伟认为终端加氢40元/公斤能让用户有比较好的体验，但是现在国内外的价格多在70-80元。</p>
+ <p>从生产端来看，国内产业链比较薄弱，国外也不能说成熟，因此目前制造成本比同类型的燃油车和纯电动汽车更高。“在全球来讲，产业链并不成熟，丰田、<a href="/channel/w/本田">本田</a>和现代等大多都是依靠背后财团，打造一个全封闭系统自己干的。”广东泰罗斯汽车动力系统有限公司总经理张锐明对《财经》透露，现在很多催化剂、质子膜等核心材料和零部件掌握在少数企业手中，成本居高不下。</p>
+ <p>同时，一位从事燃料电池汽车行业多年的资深人士告诉《财经》，加氢站所占的土地属商业用地，涉及消防、安监、住建等很多部门，现在没有人牵头负责，略显混乱。</p>
+ <p>而在日本，加氢站已然非常普遍。目前丰田汽车在日本布局了91座加氢站。今年春天，丰田联合基础设施公司、汽车公司、金融机构等11家公司，成立新公司大规模战略布局加氢站成。计划在第1期的4年时间里建设80座加氢站，在2020年之前建设160座加氢站。</p>
+ <p>而从用户端来看，目前市场对于燃料电池汽车的认知非常不充分，对于其安全性的质疑很多。丰田在<a href="/channel/w/日本">日本</a>也遇到困难，如在车辆进入密闭空间如地下停车场时有无安全隐患，没有权威的第三方可证明。</p>
+ <p>丰田汽车告诉《财经》记者，公司在安全问题方面做了三重保障。首先确保高压储氢罐的构造非常坚固，不会漏气。曾经进行的追尾事故模拟实验证明，从后方以80公里/每小时的车速进行撞击，储氢罐不会遭到任何的伤害。其次，储氢罐周围布有探测器，一旦发生漏气，将会迅速地停止车辆，切断氢气传输。</p>
+ <p><a href="/channel/w/丰田汽车">丰田汽车</a>还表示，他们利用氢气容易在空气中扩散的特性，在储氢罐的进口即气瓶的阀的位置进行了特殊的设计，如果周边有起火或者达到非常高的温度的时候，这个阀遇到高温会自动地熔化，使氢气在空气当中迅速扩散，从而避免发生爆炸之类的危险。</p>
+ <p>不过解决了安全性问题，<a href="/channel/w/氢燃料汽车">氢燃料汽车</a>市场仍不会在短期内爆发，而且市场普遍预计，与跟纯电动的发展路径类似，<a href="/channel/w/燃料电池汽车">燃料电池汽车</a>将首先从商用车开始应用，即从客车开始，然后再慢慢推广到乘用车。</p>
+ <p>即使行业里的最乐观者，预计市场启动还至少需5年，欧阳明高和上汽相关负责人将技术相对成熟和产业规模化的时间设在2025年。但从启动到市场占有率的提升，还有更长的路要走。</p>
+ <p>作者为《财经》记者</p>
+ <p></p>
+</div>
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"1973年春，合肥二钢厂扩建，需征用合肥东郊大兴集包公墓等处土地，当时正处“文革”时期，虽然早就被列为省级文物保护单位的包公墓，也不得不为钢厂扩建让道。幸好省博物馆得知消息后，向上级打报告申请对包公墓进行发掘，才减少了文物被破坏的损失。这次发掘共清理了包括包拯","is_gov":false,"itemid":"0J2n0dW2","impid":"592656649_1526438086941_3998","date":"2018-05-16 09:54:46","meta":"592656649_1526438086941_3998","feedback_forbidden":false,"docid":"0J2n0dW2","title":"包拯家族墓出土的几件瓷器","dtype":1,"content_type":"news","b_political":true,"dislike_fromids":["e150306","b22071","c12","",""],"pageid":"Homepage_g181","comment_count":6,"tags":[],"extra":[],"ctype":"news","image_urls":["0J2n0dhfTp"],"image":"0J2n0dhfTp","title_sn":0,"like":11,"url":"http://yishu.sdnews.com.cn/ysyx/201805/t20180514_2391525.htm","up":9,"dislike_reasons":["瓷器","包拯","人文","旧闻、重复","内容质量差"],"card_position":["best"],"category":"文化,历史","source":"鲁网","display_flag":0,"wemedia_id":102027,"wemedia_info":{"summary":"鲁网（原山东新闻网），创建于1997年，是经国务院新闻办公室批准成立，山东省新闻工作者协会主办的山东省重点新闻网站和对外宣传网站，是全国最早的新闻网站之一。\n","fromId":"m102027","rank":3,"authentication":"","name":"鲁网","plus_v":0,"source_type":2,"media_domain":"财经","image":"http://si1.go2yd.com/get-image/041t4NSL6MS","type":"media","channel_id":"m102027"},"auth":true}
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J2n0dW2, title:包拯家族墓出土的几件瓷器
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:鲁网, date:2018-05-16 09:54:46, category:文化,历史
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:1973年春，合肥二钢厂扩建，需征用合肥东郊大兴集包公墓等处土地，当时正处“文革”时期，虽然早就被列为省级文物保护单位的包公墓，也不得不为钢厂扩建让道。幸好省博物馆得知消息后，向上级打报告申请对包公墓进行发掘，才减少了文物被破坏的损失。这次发掘共清理了包括包拯
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:0J2n0dhfTp
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["0J2n0dhfTp"]
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:<div class="content-bd">
+ <p><span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2n0dhfTp"></span></p>
+ <p> <span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2n0d4EhX"></span></p>
+ <p> <span id="article-img-2" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2n0dhcti"></span></p>
+ <p></p>
+ <p>1973年春，合肥二钢厂扩建，需征用合肥东郊大兴集包公墓等处土地，当时正处“文革”时期，虽然早就被列为省级文物保护单位的包公墓，也不得不为钢厂扩建让道。幸好省<a href="/channel/w/博物馆">博物馆</a>得知消息后，向上级打报告申请对包公墓进行发掘，才减少了文物被破坏的损失。这次发掘共清理了包括包拯墓在内的包氏家族墓葬十二座，出土陶瓷器、铜镜、铜钱、银压胜钱、墓志等各类文物五十余件，作为官居二品的北宋重臣，包拯及其家族的墓葬中竟然没有出土一件贵重的金器、玉器，这足以说明包拯的清廉刚正，以及对家族后人的教导有方。</p>
+ <p>如果一定要从包氏家族墓出土文物中选出几件精品的话，<a href="/channel/w/景德镇窑影青釉">景德镇窑影青釉</a>镂空瓷香熏（图3）算得上一件文房珍品。此香熏通高11厘米，口径11.4厘米，香熏由炉身和炉盖两部分组成，盖与身设计为子母口，便于套合。炉身呈圆筒形，平底，下承三只花瓣形足。炉盖为半球形，顶部镂空饰菊花纹，其下刻双层重叠的二十四峰，峰间镂十六个小圆孔，盖下口沿处再刻划弦纹两道。整个香熏造型浑圆饱满，通体施影青釉，釉色纯正莹润，瓷质细腻坚实，故可断定为景德镇窑烧造的产品。另外，炉盖上的<a href="/channel/w/纹饰">纹饰</a>采用了镂雕技法和刻花工艺，当属景德镇窑影青釉瓷器中的精品。</p>
+ <p>香熏又称香炉，在宋代十分流行，是文人书房中必备的陈设品，有“焚香、烹茶、插花、挂画”文人雅士四艺之说，其中“焚香”正是指在香熏中焚烧香料，形成熏烟，以避邪驱虫，同时也代表着宋代文人的一种雅趣，此风气一直延续至明清时期。</p>
+ <p>这件<a href="/channel/w/景德镇窑影青釉">景德镇窑影青釉</a>镂空瓷香熏，出土于包氏家族墓群四号墓，也就是包绶夫妇合葬墓。据包绶墓志记载：包绶是包拯的次子，包拯去世时，他才五岁，由长嫂崔氏扶养成人，二十五岁时受“荫补”，历任濠州团练判官、少府监丞、国子监丞、汝州通判等职，“生平清苦守节，廉白是务，遗外声利，罕有伦比”。最终，他在赴任潭州通判的途中病故。包绶病故后，人们打开他的行李，除“诰轴著述外，曾无毫发所积为后日计者”。1973年的发掘证实了这一点，文物工作者只从包绶棺木内发现了几件瓷器、砚台、残墨、残铜镜和一些铜钱等少量物品。而这件香熏以及同出的砚台和墨都是古代文人必备的文房用品，这也从另一个侧面反映了包绶一生与书为伴的事实。另需要注意的是，这件影青釉香熏的炉身口沿处残缺一部分，器物表面磨损严重，还有几道裂纹，从这些使用痕迹看，这件香熏定是包绶生前使用了多年的物品，反映出墓主人生活朴素，承载了合肥包氏“清廉节俭”的家族文化。</p>
+ <p>除此香熏之外，另有两件黑釉盏值得一提。其中一件黑釉盏（图2）：高5.9厘米，口径12.5厘米，足径3.7厘米。盏为敞口，深腹，矮圈足，胎体较为坚致。盏内外壁均施黑釉，釉层较厚，釉面浓黑而光亮。盏外壁施釉大半，下腹无釉处书有一个“包”字，下腹及器底无釉处可见施有白色化妆土的胎体，化妆土脱落处现黄褐色胎。盏口沿釉层较薄，显一圈紫红色。此盏出土于包拯家族墓群中的包永年墓，根据同出的墓志记载：包永年，字延之，是北宋名臣包拯之孙，宋宣教郎，知鄂州<a href="/channel/w/崇阳县">崇阳县</a>事，卒于北宋宣和二年。另一件为黑釉兔毫盏（图1），高4厘米，口径13厘米，底径4.1厘米。盏呈大敞口，浅腹，矮圈足。器内外均施黑釉，釉面有窑变现象，形成兔毫状纹理。出土时，此盏有镶嵌的银边残片，银边宽1.3厘米。此盏出土于合肥包拯家族墓群中的二号墓，虽然未发现墓志，但此墓与上述包永年墓共一个封土堆，很可能是包永年夫人墓，时代应该非常接近，因此这两件黑釉盏都是时代明确的北宋晚期的标准器。</p>
+ <p>1994年，包拯家族墓出土的这3件兼具艺术价值与历史文化价值的瓷器，被国家文物局专家鉴定小组鉴定为国家一级文物，是与地方先贤包拯有关的难得的实物。</p>
+</div>
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"最近，沈飞公开了一则关于鹘鹰的画册，除了鹘鹰本身外，背景的一个不明型号机头却引发了广泛关注，它会是新型隐身歼轰机么？","is_gov":false,"itemid":"V_01cHFAzf","impid":"592656649_1526438086941_3998","date":"","meta":"592656649_1526438086941_3998","feedback_forbidden":false,"docid":"V_01cHFAzf","title":"第二种轰20现身？沈飞两张照片曝光中国第二种隐身歼轰机","display_mode":"detailpage","video_url":"http://video.yidianzixun.com/video/get-url?key=user_upload/1526434849773e0d2d101da8cb1dd30386056e3526bdf.mp4","dtype":23,"b_political":false,"content_type":"video","wm_copyright":"原创","dislike_fromids":["","t1698","e23329","",""],"pageid":"Homepage_g181","tags":[],"keywords":["轰炸机"],"special_size":0,"extra":[],"vsct":["vsct//军事/武器科技"],"image":"V_01cHFAtzgJ","ctype":"video_live","image_urls":["V_01cHFAtzgJ"],"b_native":true,"title_sn":0,"url":"http://www.yidianzixun.com/mp/content?id=58037824","upload_images":["V_01cHFAtzgJ"],"dislike_reasons":["类型：视频","武器","轰炸机","旧闻、重复","内容质量差"],"card_position":["best"],"category":"军事","duration":349,"source":"迷彩虎","display_flag":0,"finish_play":"base","video_urls":[{"default":false,"quality":0,"url":"http://v1.go2yd.com/user_upload/1526434849773e0d2d101da8cb1dd30386056e3526bdf.mp4_sd.mp4","size":13360160},{"default":true,"quality":1,"url":"http://v1.go2yd.com/user_upload/1526434849773e0d2d101da8cb1dd30386056e3526bdf.mp4_bd.mp4","size":18753992},{"default":false,"quality":2,"url":"http://v1.go2yd.com/user_upload/1526434849773e0d2d101da8cb1dd30386056e3526bdf.mp4_hd.mp4","size":37742721}],"wemedia_id":130421,"wemedia_info":{"summary":"迷彩虎是一档融合游戏、影视和动漫元素，集专业性与娱乐性于一体的军事科普节目。","fromId":"m130421","rank":5,"authentication":"","name":"迷彩虎","plus_v":0,"source_type":4,"media_domain":"军事","image":"http://si1.go2yd.com/get-image/05p7CsW0tzU","type":"media","channel_id":"m130421"},"play_position":1,"auth":true,"vsct_show":["武器科技"]}
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:V_01cHFAzf, title:第二种轰20现身？沈飞两张照片曝光中国第二种隐身歼轰机
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:迷彩虎, date:, category:军事
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:最近，沈飞公开了一则关于鹘鹰的画册，除了鹘鹰本身外，背景的一个不明型号机头却引发了广泛关注，它会是新型隐身歼轰机么？
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:V_01cHFAtzgJ
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["V_01cHFAtzgJ"]
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:null
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"通过饮食来调节、来养生，指的是什么呢？通过饮食调节养生，实际上，就等于是中医中所谓的食疗养生，食疗是非常有效的养生方法，想要通过饮食调节来养生的朋友们，不妨笔者下面要说的5点！","is_gov":false,"itemid":"0J2WER3u","impid":"592656649_1526438086941_3998","date":"2018-05-16 09:44:46","meta":"592656649_1526438086941_3998","feedback_forbidden":false,"docid":"0J2WER3u","title":"关于通过饮食调节来养生的五点分析","dtype":1,"b_political":false,"content_type":"news","dislike_fromids":["c16","u59","u159","",""],"pageid":"Homepage_g181","tags":[],"extra":[],"ctype":"news","image_urls":["0J2WERFI1M"],"image":"0J2WERFI1M","title_sn":0,"url":"http://www.yidianzixun.com/mp/content?id=57768014","dislike_reasons":["健康","养生","素食","旧闻、重复","内容质量差"],"card_position":["best"],"category":"健康","source":"中华健康学习网","display_flag":0,"wemedia_id":84293,"wemedia_info":{"summary":"为全球人类提供最可靠最实用的中医健康资讯，发扬祖国中医药文化，服务大众中医’治未病“养生调理。中国最权威中医健康门户网站(www.zyjkwh.com)","fromId":"m84293","rank":4,"authentication":"","name":"中华健康学习网","plus_v":0,"source_type":4,"media_domain":"健康","image":"http://si1.go2yd.com/get-image/05QZg6huczo","type":"media","channel_id":"m84293"},"auth":true}
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J2WER3u, title:关于通过饮食调节来养生的五点分析
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:中华健康学习网, date:2018-05-16 09:44:46, category:健康
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:通过饮食来调节、来养生，指的是什么呢？通过饮食调节养生，实际上，就等于是中医中所谓的食疗养生，食疗是非常有效的养生方法，想要通过饮食调节来养生的朋友们，不妨笔者下面要说的5点！
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:0J2WERFI1M
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["0J2WERFI1M"]
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:<div class="content-bd">
+ <span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2WERFI1M"></span>
+ <p>通过饮食来调节、来<a href="/channel/w/养生">养生</a>，指的是什么呢？通过饮食调节养生，实际上，就等于是中医中所谓的食疗养生，食疗是非常有效的养生方法，想要通过饮食调节来养生的朋友们，不妨笔者下面要说的5点！</p>
+ <p><strong>第一点，通过饮食调节来养生，首先要注意摄取的量的合适。</strong></p>
+ <p>必须要有合适的摄取量，才能够起到养生效果，摄取的量过多或过少，都会有所影响。</p>
+ <p><strong>第二点，饮食营养要均衡、全面，且充足。</strong></p>
+ <p>想要通过饮食调节来养生，不管是青少年还是中老年人，都应该注意饮食要均衡、要全面，而且要充足，只有充足、均衡、全面的营养，才能够起到养生效果。</p>
+ <p>第三点，饮食调节还需要注意阴阳平衡。</p>
+ <span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2WER4jvr"></span>
+ <p>不同体质的人，其饮食有不同的针对点，最基本的就是阴阳平衡，其次是具备针对性的摄入一些能够改善体质、提高体质、起到养生作用和效果的食物。</p>
+ <p>第四点，通过饮食调节来养生，应当擅于吃素食、吃一些健康的食物。</p>
+ <p>注意，这并不是说素食就是健康的，而是说素食是相对健康的，适当吃素食当然能够保证身体健康，吃一些健康的谷物、粗粮等等也能够起到养生效果。</p>
+ <p><strong>第五点，水果和蔬菜，是非常重要的。</strong></p>
+ <p>任何希望通过饮食来调节身体、来养生的人，都必须要知道，蔬菜和水果，是最为重要的养生要素。多吃水果和蔬菜，是非常健康的行为。</p>
+ <p>综合来说，通过饮食调节来养生，也就是食疗<a href="/channel/w/养生">养生</a>，是非常正常、且能够做到的。 </p>
+</div>
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"文章称，荷兰或许是倡导自行车出行方面的先驱，不过如今，承载高科技的共享单车正在世界各地掀起一场脚踏实地的变革。创新的关键在于这种新型租赁单车是无桩的。人们找到一辆单车，用智能手机开锁，然后就可以租用它一个小时、一天或一周的时间——之后，人们可以在结束旅程时锁上","is_gov":false,"itemid":"0J3TG38Z","impid":"592656649_1526438086941_3998","date":"2018-05-16 09:39:46","meta":"592656649_1526438086941_3998","feedback_forbidden":false,"docid":"0J3TG38Z","title":"外媒：中国用共享单车带动全球化","dtype":1,"content_type":"news","b_political":true,"dislike_fromids":["t32639","c4","c6","",""],"pageid":"Homepage_g181","comment_count":7,"tags":[],"extra":[],"ctype":"news","image_urls":["0J3TG3BqKJ"],"image":"0J3TG3BqKJ","title_sn":0,"mtype":1,"like":8,"url":"http://m.haiwainet.cn/ydc/345415/2018/0515/content_31316604_1.html?s=yidianzixun","up":166,"dislike_reasons":["共享单车","互联网","科技","旧闻、重复","内容质量差"],"card_position":["best"],"category":"科技","source":"海外网","display_flag":0,"down":36,"auth":true}
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J3TG38Z, title:外媒：中国用共享单车带动全球化
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:海外网, date:2018-05-16 09:39:46, category:科技
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:文章称，荷兰或许是倡导自行车出行方面的先驱，不过如今，承载高科技的共享单车正在世界各地掀起一场脚踏实地的变革。创新的关键在于这种新型租赁单车是无桩的。人们找到一辆单车，用智能手机开锁，然后就可以租用它一个小时、一天或一周的时间——之后，人们可以在结束旅程时锁上
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:0J3TG3BqKJ
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["0J3TG3BqKJ"]
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:null
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:79)] *****************接口返回的原始内容-开始********************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:80)] {"summary":"我在第十三课“墨法”中讲过笔头外表的划分。毛笔笔头可以分成三等分：上面是笔根，中间是笔腰，下面是笔锋。笔锋尖顶就是尖锋，周围一圈就是侧锋。从垂直高度说，侧锋大约是笔头下面的三分之一左右。","is_gov":false,"itemid":"0J2XTbTW","impid":"592656649_1526438086941_3998","date":"2018-05-16 09:34:47","meta":"592656649_1526438086941_3998","feedback_forbidden":false,"docid":"0J2XTbTW","title":"何谓三分笔？什么叫八面出锋？","dtype":1,"b_political":false,"content_type":"news","dislike_fromids":["c12","b10289","",""],"pageid":"Homepage_g181","comment_count":4,"tags":[],"extra":[],"ctype":"news","image_urls":["0J2XTbSmKu"],"image":"0J2XTbSmKu","title_sn":0,"like":80,"upload_images":["0J2XTbSmKu"],"url":"http://www.yidianzixun.com/mp/content?id=57773966","up":2,"dislike_reasons":["人文","毛笔","旧闻、重复","内容质量差"],"card_position":["best"],"category":"文化","source":"书法密码","display_flag":0,"wemedia_id":104676,"wemedia_info":{"summary":"为您破译中国书法艺术的密码信息！","fromId":"m104676","rank":4,"authentication":"","name":"书法密码","plus_v":0,"source_type":1,"media_domain":"文化","image":"http://si1.go2yd.com/get-image/04Aq0tfLp7w","type":"media","channel_id":"m104676"},"auth":true}
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:81)] *****************接口返回的原始内容-结束********************
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:92)] docid:0J2XTbTW, title:何谓三分笔？什么叫八面出锋？
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:93)] source:书法密码, date:2018-05-16 09:34:47, category:文化
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:94)] summary:我在第十三课“墨法”中讲过笔头外表的划分。毛笔笔头可以分成三等分：上面是笔根，中间是笔腰，下面是笔锋。笔锋尖顶就是尖锋，周围一圈就是侧锋。从垂直高度说，侧锋大约是笔头下面的三分之一左右。
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:95)] image:0J2XTbSmKu
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:96)] image_urls:["0J2XTbSmKu"]
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:97)] ---------------------------------------
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:98)] tag_name:null, card_label:null
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:99)] ---------------------------------------
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:101)] content:<div class="content-bd">
+ <p><a href="/channel/w/侧锋">侧锋</a>用法</p>
+ <p>什么是侧锋？</p>
+ <p>何谓八面锋？</p>
+ <yd-tag-component type="video" options="url:http://video.yidianzixun.com/video/get-url?key=video/c5ac364795fcda6d031d877f13016f4d.mp4;poster:http://si1.go2yd.com/get-image/0N8DsRxM836"></yd-tag-component>
+ <p><span>紫檀狼毫古法鸡距笔</span><br></p>
+ <p><strong>1.什么是侧锋</strong><br></p>
+ <p>今天讲讲侧锋。第一个基本问题，什么是侧锋？</p>
+ <span id="article-img-0" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XTbmV2C"></span>
+ <p>我在第十三课“墨法”中讲过笔头外表的划分。毛笔笔头可以分成三等分：上面是笔根，中间是笔腰，下面是笔锋。笔锋尖顶就是尖锋，周围一圈就是侧锋。从垂直高度说，侧锋大约是笔头下面的三分之一左右。</p>
+ <span id="article-img-1" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XTbEVKi"></span>
+ <p>书法所用的毛笔，是“心副式”，笔心的下端点是尖锋，而侧锋用的是副毫。所以，尖锋是一个点，侧锋是一个面。</p>
+ <p>但是要注意，副毫比笔心要短一些，所以在笔心垂直的情况下，副毫是不接触纸面的。要用副毫写字，关键是笔心倾侧或者弯曲。</p>
+ <span id="article-img-2" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XTbFWU2"></span>
+ <p>因为毛笔是软的，倾侧后一用力也会弯曲。所以，笔心弯曲是使用副毫的主要原因。这就是笔心为帅，笔心指挥副毫，副毫跟从笔心。</p>
+ <blockquote>
+  <p>简言之：</p>
+  <p>侧锋使用副毫来书写；</p>
+  <p>侧锋受笔心指挥，笔心是关键；</p>
+  <p>使用侧锋时，笔心经常是弯曲的。</p>
+ </blockquote>
+ <p><strong>2.笔心弯多少？</strong></p>
+ <p>这样一来就引来两个问题：一是笔心可以弯多少，二是向什么方向弯。</p>
+ <p>我先讲第一个问题：笔心可以弯多少？</p>
+ <span id="article-img-3" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XTbN1gK"></span>
+ <p>笔心弯曲，副毫才能接触纸面，稍微弯一点，我们称为一分笔，弯多一点，就是二分笔。更多一点，就是三分笔。很明显，用三分笔写字，线条比较粗。一分笔比较细。</p>
+ <span id="article-img-4" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XTbhL1O"></span>
+ <p>从这张笔头图来看，一分笔在最下面，就是笔头只弯一点点，到三分笔就把笔锋部分全弯过来了。大约占整个笔头的三分之一。</p>
+ <p>为什么通常不用笔腰写字呢？</p>
+ <p>因为笔心弯曲度越大，笔尖就越散，把笔腰部分都弯过来，势必尖锋散开，如果把笔根都按下去，那更是全部散开了。所以通常只弯到三分笔。如果你觉得三分笔还不够粗，你应该换用大笔，而不是去弯笔腰。大笔的二分笔，可能已经粗过小笔的三分了。</p>
+ <p>弯曲笔心的动作，称之为“蹲”，是九用之一。</p>
+ <p>《玉堂禁经》说：“四曰蹲锋，缓毫蹲节，轻重有准是也，一、乙等用之。”这句话宋人《翰林密论》说是<a href="/channel/w/王羲之">王羲之</a>讲的。我来一句句给大家解释。</p>
+ <p>第一句：“四曰蹲锋”，这是弯曲笔心的动作。“蹲”有两个意思，如果中轴原来是直的，现在蹲，就叫他弯一点；或者中轴原来已经弯曲，现在蹲，就叫它更弯一点。总之，蹲，就是增加中轴弯曲度的动作。</p>
+ <p>《<a href="/channel/w/说文解字">说文解字</a>》说：蹲，踞也。什么是踞呢？古人席地而坐，臀部坐在脚跟上，如果是两腿伸前，这就是踞坐。如《<a href="/channel/w/史记">史记</a>》记载高阳酒徒郦食其去见<a href="/channel/w/刘邦">刘邦</a>，“沛公方踞床，使两女子洗足”，就是这个姿势。</p>
+ <span id="article-img-5" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XTb52G5"></span>
+ <p>笔心弯曲，也会导致尖锋叉开，所以说“蹲”。</p>
+ <p>第二句话说：“缓毫蹲节，轻重有准是也。”节就是关节点，在关节点上，往往要用到蹲这个动作。但弯曲笔心会把笔锋按开，所以提醒你做蹲的动作，要缓，就是慢。“轻重有准”，用力轻重要准确。</p>
+ <p>第三句话说：“一、乙等用之。”这是举例子，所举两个字都很简单，正因为字形简单，所以看节点容易。这些基本节点，今后会详细分析。</p>
+ <p>譬如“一”，起笔、收笔都有一个节点。你看起笔很轻，线条尖细，后来怎么变粗了呢？这就用到了蹲锋。当然还要用其他动作，不止蹲锋一种。线条粗细变化，跟蹲锋这动作很有关系。</p>
+ <span id="article-img-6" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XTbi0UD"></span>
+ <p>又如乙，也会用到蹲锋。你可以看到它有明显的节点。</p>
+ <p><strong>3.笔心向什么方向弯？</strong></p>
+ <p>好，接下来要讨论第二个问题：笔心向什么方向弯？这就要说到非常重要的“八面锋”了。</p>
+ <p>尖锋是一点，侧锋是一周。理论上笔心可以向一周的任何方向弯曲。通常我们说“四面八方”，四面是前后左右，再加上前左、前右、后左、后右，就成了八方。</p>
+ <span id="article-img-7" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XTbjOD0"></span>
+ <p>古人说到四面八方，是用八卦来表示的。对于八卦的方位，现代人已经很陌生了。</p>
+ <p>我给你来一段前人讲书法，清代包世臣《<a href="/channel/w/艺舟双楫">艺舟双楫</a>》这样说：“始艮群交乾者，非指全字，乃一笔中自备八方也。后人作书，皆仰笔尖锋，锋尖处巽也。笔仰则锋在画之阳，其阴不过副毫濡墨，以成画形，故至坤则锋止。”你懂不懂？用八卦表示方位，不是好办法。</p>
+ <p>普通人比较熟悉的方位，还有东南西北，但用到书法上，也不方便。譬如我把包世臣的意思转一下：“在西北下笔，到东北收笔，如果笔尖在北方，则南方只有副毫”，你懂不懂，我都觉得晕。</p>
+ <span id="article-img-8" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XTbSbB2"></span>
+ <p>我想，现代表示方位最简单的方式，就是用一个数字盘。现在<a href="/channel/w/手机">手机</a>很普遍，<a href="/channel/w/手机">手机</a>拨号的数字盘，大家都很熟悉。这等于是一个九宫格，四面八方各有一个数字。每个数字各表示一个方向。中间的5，就表示不偏不侧，那就是正锋的位置。</p>
+ <p>当我们执住笔管，使中轴垂直于纸面，这就是5号位置。当我们运动笔管，简略地说，有八个方向。这就是八面出锋。笔锋走6号方向，往往是写一横，笔锋走8号方向，就可以写一竖。笔锋走7号方向，写出来就是写一撇。笔锋走9号方向，不用多说，那就是一捺。</p>
+ <p>我提醒大家，汉字四大笔画横竖撇捺，就是6、7、8、9四个方位。上面还有1、2、3、4四个方向，基本上都是钩。</p>
+ <span id="article-img-9" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XTbaGiI"></span>
+ <p>这是王羲之《快雪时晴贴》的“力”字，那个钩，方向就是1号位。</p>
+ <span id="article-img-10" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XTbaeFA"></span>
+ <p>褚遂良《阴符经》的“九”字，最后的钩是向上的，2号位。</p>
+ <span id="article-img-11" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XTbw03M"></span>
+ <p>智永《<a href="/channel/w/真草千字文">真草千字文</a>》的“衣”字，中间这一竖笔有个钩，三号位。</p>
+ <span id="article-img-12" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XTbb8uw"></span>
+ <p>这是智永写的“子”，最后有个钩，这是平托钩。先要向4号位走一小段路，最后才收锋。</p>
+ <p>清代王澍《论书剩语》说：“笔至八面出锋，斯施无不当矣。”就是说你能八面出锋，写起来就没有不适当的动作了。</p>
+ <p>清代蒋和《书法正宗·笔法精解》说：“运笔之法，斜正上下，平侧偃仰，八面出锋，始筋肉内含，精神外露，风采焕发有神。”他这一段话，本来是赞扬唐宋碑刻用笔之精妙，唐宋书法家八面出锋，所以风采焕发。</p>
+ <blockquote>
+  <p>简言之：</p>
+  <p>侧锋有一分笔、二分笔、三分笔，取决于笔心的弯曲度。</p>
+  <p>笔心可以向四面八方弯曲，这就是八面出锋。</p>
+ </blockquote>
+ <p><strong>4.临帖注意</strong></p>
+ <p>当我们临帖的时候，如果是侧锋线条，要注意两点：一是注意粗细，几分笔；二是注意方位，向什么方向走。</p>
+ <span id="article-img-13" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XTb2bXR"></span>
+ <p>你看《阴符经》中的这个“之”字，一分笔、二分笔、三分笔，都用到了，线条变化自然，最后一捺雄键有力，也就是说，作者把一枝毛笔的性能，充分发挥出来了。</p>
+ <span id="article-img-14" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XTbAvBp"></span>
+ <p>这个“天”字也是，你看一撇，开始是一分笔，然后转为二分笔，最后一捺三分笔，毛笔起倒明显，转换自然。运腕熟练，腕力强大。</p>
+ <p>看帖的时候，先看他用笔的特征。</p>
+ <span id="article-img-15" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XTbv1W6"></span>
+ <p>譬如<a href="/channel/w/赵孟頫">赵孟頫</a>《妙严寺记》，一望而知，线条粗细变化不大，有没有用到三分笔呢？没有。从头到尾粗细差不多，基本上就是二分笔写的。</p>
+ <span id="article-img-16" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XTbLGJo"></span>
+ <p>这是乾隆皇帝抄经，大致只用了一分笔。看起来有点像钢笔字，线条没有变化。清代的馆阁体往往如此。</p>
+ <span id="article-img-17" class="a-image"><img src="//i1.go2yd.com/image.php?url=0J2XTbAS1e"></span>
+ <p>王羲之就不同了，这是<a href="/channel/w/王羲之">王羲之</a>《丧乱贴》，现在<a href="/channel/w/日本">日本</a>，用笔干净利落，粗细变化极大，交替出现。但安排从容，节奏清楚。</p>
+ <p>除了粗细，还要注意方向。像刚才《阴符经》这个“天”字，一共四笔，行笔的方向，就是6679。</p>
+ <p>今天的练习，就是<a href="/channel/w/侧锋">侧锋</a>的用法。首先是一、二、三分笔的练习。</p>
+ <p>你毛笔下笔以后，先蹲，然后向右走，最后收笔。看，毛笔侧一点，下纸后蹲，然后向右拉过去，向左收笔。</p>
+ <p>好，第二次，二分笔。二分笔侧一点，下笔以后按重一点，手向右拉过去，手向左收锋。</p>
+ <p>好，三分笔，一样！侧一点，重重地按下去，把笔对重重地按下去，然后拉过去，好，手向左，收锋。收锋要收到毛笔仍然笔心是直的，就可以了。那么我们来看看这线条，一根比一根粗，就是一分、二分、三分。</p>
+ <p>第二个练习，先把毛笔放在正锋的位置，然后向八面锋练习一下。6号回过来，这是8号、7号、9号、4号、1号、2号、3号。练习向各个方向走，其中6、7、8、9是最主要的。6、7、8、9这是最主要的。</p>
+</div>
+[INFO]2018-05-16 10:34:48[com.kpcoin.crawlers.YidianClientNewsCrawler.extractAndSaveNewsInfo(YidianClientNewsCrawler.java:103)] ***************************************

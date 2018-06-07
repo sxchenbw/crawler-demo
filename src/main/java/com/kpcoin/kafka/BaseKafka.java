@@ -76,9 +76,14 @@ public abstract class BaseKafka {
      */
     public static ConsumerConnector createConsumer(String groupId, String offset) {
         Properties properties = new Properties();
+        
         properties.put("zookeeper.connect", zkConnect);//声明zk
         properties.put("group.id", groupId);// 必须要使用别的组名称， 如果生产者和消费者都在同一组，则不能访问同一组内的topic数据
         properties.put("auto.offset.reset", offset);//smallest,largest
+        properties.put("bootstrap.servers", brokerList);
+        properties.put("key.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
+        properties.put("value.deserializer", "org.apache.kafka.common.serialization.StringDeserializer");
+        
         return Consumer.createJavaConsumerConnector(new ConsumerConfig(properties));
     }
 

@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Random;
 import java.util.Set;
+import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
@@ -79,8 +80,8 @@ public class ToutiaoDataInfoCrawler extends BaseCrawler {
 		tagMap.put("news_car", "汽车");
 		tagMap.put("news_finance", "财经");
 		tagMap.put("news_military", "军事");
-		tagMap.put("news_world", "国际");
-		tagMap.put("news_travel", "旅行");
+////		tagMap.put("news_world", "国际");
+////		tagMap.put("news_travel", "旅行");
 		tagMap.put("news_discovery", "探索");
 		tagMap.put("news_baby", "育儿");
 		tagMap.put("news_regimen", "养生");
@@ -93,7 +94,10 @@ public class ToutiaoDataInfoCrawler extends BaseCrawler {
 	}
 	
 	public static void main(String[] args) {
-		doCrawl();
+//		doCrawl();
+		
+		JSONObject detail = crawlNewsDetail("http://toutiao.com/group/6559396346778878467/");
+		System.out.println(detail);
 	}
 	
 	/**
@@ -111,6 +115,11 @@ public class ToutiaoDataInfoCrawler extends BaseCrawler {
 		//m.toutiao端数据接口
 		for (String tag : tagMap.keySet()) {
 			crawlChannelNewsList(tag);
+			try {
+				TimeUnit.SECONDS.sleep(2);
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
 		}
 	}
 	
@@ -199,6 +208,7 @@ public class ToutiaoDataInfoCrawler extends BaseCrawler {
 							}
 							logger.info("==============>title:" + title + ", url:" + url + " match the crawrlTime - pubTime >= " + cxJudgeTime + " condition!");
 							JSONObject json = crawlNewsDetail(url);
+							logger.info("json::" + json);
 							if (json != null) {
 								String thumbnail = null;
 								if (item.containsKey("image_list")) {
@@ -226,9 +236,11 @@ public class ToutiaoDataInfoCrawler extends BaseCrawler {
 										json.getString("content"), 
 										json.getString("channel"), 
 										json.getString("channel"), 
-										json.getString("url"));
+										json.getString("url"),
+										tagMap.get(channel));
 								
 							}
+							TimeUnit.MILLISECONDS.sleep(50);
 						}
 					}
 				}
@@ -247,7 +259,7 @@ public class ToutiaoDataInfoCrawler extends BaseCrawler {
 		JSONObject json = null;
 		if (StringUtils.isNotBlank(detailUrl)) {
 			try {
-				String html = HttpClientUtil.executeRequestWithJsoupGetWithCookie(detailUrl, null, encoder, cookie);
+				String html = HttpClientUtil.executeRequestWithJsoupGetWithCookie(detailUrl, null, encoder, "");
 				if (StringUtils.isNotBlank(html)) {
 					json = extractNewsInfoFromResponse(html, detailUrl);
 				}

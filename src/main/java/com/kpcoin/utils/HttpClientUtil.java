@@ -37,7 +37,7 @@ import org.jsoup.select.Elements;
 
 public class HttpClientUtil {
 	
-	private static final int DEFAULT_TIMEOUT = 300000;
+	private static final int DEFAULT_TIMEOUT = 10000;
 	private static final Logger log = LogManager.getLogger(HttpClientUtil.class);
 	private static final String DEFAULT_CHARSET = "UTF-8";
 	
