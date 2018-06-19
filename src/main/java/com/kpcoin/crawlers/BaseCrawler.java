@@ -18,6 +18,7 @@ public class BaseCrawler {
 	
 	public static final String toutiaoNewsKey = "crawlToutiaoNews";
 	public static final String yidianNewsKey = "crawlYidianNews";
+	public static final String qutoutiaoNewsKey = "crawlQutoutiaoNews";
 
 	/**
 	 * 
@@ -63,6 +64,58 @@ public class BaseCrawler {
 			json.put("label", label);
 			json.put("sourceLink", sourceLink);
 			json.put("category", category);
+			String writeKafka = System.getProperties().getProperty("writeToKafka");
+			logger.info("write to kafka ==> " + writeKafka);
+			logger.info("write to kafka data****************************************");
+			logger.info("title:" + title);
+			logger.info("thumbnail:" + thumbnail);
+			logger.info("thumbnailImgs:" + thumbnailImgs);
+			logger.info("imgs:" + imgs);
+//			if ("yes".equals(writeKafka)) {
+				writeNewsInfoToKafka(topicName, key, json);
+//			} else {
+//				logger.info("not write to kafka!");
+//				logger.info("ready to write msg is : " + json);
+//			}
+			
+		}
+		
+	}
+	
+	
+	/**
+	 * 
+	 * @param topicName
+	 * @param key
+	 * @param title
+	 * @param source
+	 * @param pubtime
+	 * @param thumbnail
+	 * @param content
+	 * @param keywords
+	 * @param label
+	 * @param sourceLink
+	 * @param thumbnailImgs
+	 */
+	public static void writeNewsInfoToKafka(String topicName, String key, String title, String source, String pubtime, String thumbnail, String content,
+			String keywords, String label, String sourceLink, JSONArray thumbnailImgs) {
+		
+		if (StringUtils.isNoneBlank(title, source, content)) {
+			JSONArray imgs = processImgs(content);
+			
+			JSONObject json = new JSONObject();
+			
+			json.put("title", title);
+			json.put("source", source);
+			json.put("pubtime", pubtime);
+			json.put("thumbnail", thumbnail);
+			json.put("content", content);
+			json.put("imgs", imgs);
+			json.put("thumbnailImgs", thumbnailImgs);
+			json.put("keywords", keywords);
+			json.put("label", label);
+			json.put("sourceLink", sourceLink);
+			json.put("category", "");
 			String writeKafka = System.getProperties().getProperty("writeToKafka");
 			logger.info("write to kafka ==> " + writeKafka);
 			logger.info("write to kafka data****************************************");
