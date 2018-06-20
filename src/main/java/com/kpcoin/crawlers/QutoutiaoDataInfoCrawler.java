@@ -4,6 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
+import java.net.InetSocketAddress;
+import java.net.Proxy;
 import java.net.URL;
 import java.net.URLConnection;
 import java.util.List;
@@ -12,6 +14,7 @@ import java.util.Set;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
+import java.util.concurrent.atomic.AtomicLong;
 
 import org.apache.commons.lang3.StringUtils;
 import org.jsoup.Connection;
@@ -29,8 +32,10 @@ import com.google.common.collect.Lists;
 import com.google.common.collect.Sets;
 import com.kpcoin.kafka.KafkaTopics;
 import com.kpcoin.utils.DateUtil;
+import com.kpcoin.utils.ImageUtil;
 import com.kpcoin.utils.Md5Util;
 import com.kpcoin.utils.mongo.NewsInfoMongoUtil;
+import com.kpcoin.utils.proxy.ProxyPool;
 
 /**
  * 趣头条内容抓取
@@ -52,25 +57,37 @@ public class QutoutiaoDataInfoCrawler extends BaseCrawler {
 	
 	public static Random random = new Random();
 	
+	public static AtomicLong counter = new AtomicLong(0);
+	
 	
 	public static void main(String[] args) {
 		doCrawl();
 	}
 	
 	public static void doCrawl() {
+		/**/
 		ScheduledExecutorService scheduledExecutorService = Executors.newScheduledThreadPool(8);
 		scheduledExecutorService.scheduleAtFixedRate(new Runnable() {
 			
 			@Override
 			public void run() {
 				try {
-					TimeUnit.SECONDS.sleep(random.nextInt(7));
+					TimeUnit.SECONDS.sleep(random.nextInt(3));
 				} catch (InterruptedException e) {
 					logger.error(e.getMessage(), e);
 				}
 				scheduledCrawlNewsInfo();
 			}
-		}, 0, 20, TimeUnit.SECONDS);
+		}, 0, 10, TimeUnit.SECONDS);
+		
+//		while (true) {
+//			try {
+//				TimeUnit.SECONDS.sleep(random.nextInt(3));
+//			} catch (InterruptedException e) {
+//				logger.error(e.getMessage(), e);
+//			}
+//			scheduledCrawlNewsInfo();
+//		}
 	}
 
 	/**
@@ -79,7 +96,9 @@ public class QutoutiaoDataInfoCrawler extends BaseCrawler {
 	public static void scheduledCrawlNewsInfo() {
 		String html = null;
 		try {
-			html = crawlPageSourceWithJavaURL(contentListUrl);//			html = crawlPageSourceWithJsoup(contentListUrl);
+			JSONObject proxyInfo = null;//ProxyPool.choiceOneExpireProxy();
+			logger.info("proxyInfo:{}", proxyInfo);
+			html = crawlPageSourceWithJavaURL(contentListUrl, proxyInfo);//			html = crawlPageSourceWithJsoup(contentListUrl);
 			if (StringUtils.isNotBlank(html)) {
 				extractNewsListInfo(html);
 			}
@@ -165,7 +184,8 @@ public class QutoutiaoDataInfoCrawler extends BaseCrawler {
 									newsItem.put("writeTime", System.currentTimeMillis());
 									
 									NewsInfoMongoUtil.saveNewsInfo(newsItem);
-									/*
+									logger.info("now the counter is ========================>{}", counter.incrementAndGet());
+									/**/
 									writeNewsInfoToKafka(KafkaTopics.toutiao_yidian_news_topic, qutoutiaoNewsKey,
 											title, 
 											source, 
@@ -176,7 +196,7 @@ public class QutoutiaoDataInfoCrawler extends BaseCrawler {
 											item.getString("tag"), 
 											url,
 											thumbnailImgs);
-											*/
+											
 											
 								}
 							}
@@ -202,10 +222,15 @@ public class QutoutiaoDataInfoCrawler extends BaseCrawler {
 				String url = cover.getString(i);
 				if (StringUtils.isNotBlank(url)) {
 					JSONObject imgItem = new JSONObject();
-					
+					JSONObject imgJson = ImageUtil.calcImgSize(url);
 					imgItem.put("url", url);
-					imgItem.put("width", "");
-					imgItem.put("height", "");
+					if (imgJson != null) {
+						imgItem.put("width", imgJson.getIntValue("width"));
+						imgItem.put("height", imgJson.getIntValue("height"));
+					} else {
+						imgItem.put("width", 640);
+						imgItem.put("height", 360);
+					}
 					
 					imgs.add(imgItem);
 				}
@@ -223,7 +248,8 @@ public class QutoutiaoDataInfoCrawler extends BaseCrawler {
 		String result = "";
 		if (StringUtils.isNotBlank(url) && !urlSet.contains(url)) {//url为空，且没有抓取过详情页
 			try {
-				String pageSource = crawlPageSourceWithJsoup(url);
+				JSONObject proxyInfo = null;//ProxyPool.choiceOneProxy();
+				String pageSource = crawlPageSourceWithJsoup(url, proxyInfo);
 				if (StringUtils.isNotBlank(pageSource)) {
 					String contentSelector = "div.article div.content";
 					Document doc = Jsoup.parse(pageSource);
@@ -253,7 +279,7 @@ public class QutoutiaoDataInfoCrawler extends BaseCrawler {
 	 * @param url
 	 * @return
 	 */
-	public static String crawlPageSourceWithJsoup(String url) {
+	public static String crawlPageSourceWithJsoup(String url, JSONObject proxyInfo) {
 		logger.info("crawlPageSource::url={}", url);
 		String pageSource = "";
 		if (StringUtils.isNotBlank(url)) {
@@ -261,7 +287,11 @@ public class QutoutiaoDataInfoCrawler extends BaseCrawler {
 			Response response = null;
 			try {
 				connection = Jsoup.connect(url).ignoreContentType(true);
-//				connection.proxy("125.104.238.59", 8118);
+				if (proxyInfo != null) {
+					String ip = proxyInfo.getString("ip");
+					int port = proxyInfo.getIntValue("port");
+					connection.proxy(ip, port);
+				}
 				response = connection.execute();
 				if (response != null) {
 					pageSource = response.body();
@@ -277,7 +307,7 @@ public class QutoutiaoDataInfoCrawler extends BaseCrawler {
 	 * @param pageUrl
 	 * @return
 	 */
-	public static String crawlPageSourceWithJavaURL(String pageUrl) {
+	public static String crawlPageSourceWithJavaURL(String pageUrl, JSONObject proxyInfo) {
 		logger.info("crawlPageSource::url={}", pageUrl);
 		String pageSource = "";
 		
@@ -291,7 +321,17 @@ public class QutoutiaoDataInfoCrawler extends BaseCrawler {
             HttpURLConnection http = null;
             try {
             	url = new URL(pageUrl);
-                con = url.openConnection();
+            	if (proxyInfo != null) {//使用代理抓取指定网站内容
+            		String ip = proxyInfo.getString("ip");
+            		int port = proxyInfo.getIntValue("port");
+            		
+            		InetSocketAddress addr = new InetSocketAddress(ip, port);  
+            		Proxy proxy = new Proxy(Proxy.Type.HTTP, addr);
+
+            		con = url.openConnection(proxy);
+            	} else {
+            		con = url.openConnection();
+            	}
                 http = (HttpURLConnection) con;
                 http.setConnectTimeout(1000 * 3);
                 http.setReadTimeout(1000 * 10);
@@ -322,21 +362,6 @@ public class QutoutiaoDataInfoCrawler extends BaseCrawler {
                 }
                 con = null;
             }
-			
-//			Connection connection = null;
-//			Response response = null;
-//			try {
-//				connection = Jsoup.connect(url).ignoreContentType(true);
-////				connection.proxy("125.104.238.59", 8118);
-//				response = connection.execute();
-//				if (response != null) {
-//					pageSource = response.body();
-//				}
-//			} catch(Exception e) {
-//				logger.error(e.getMessage(), e);
-//			} finally {
-//				
-//			}
 		}
 		return pageSource;
 	}

@@ -1,0 +1,167 @@
+[INFO]2018-06-19 21:34:51[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.crawlPageSourceWithJavaURL(QutoutiaoDataInfoCrawler.java:279)] crawlPageSource::url=https://api.1sapp.com/content/getListV2?qdata=NjE3OTQ1M0M1NDBBMUM5NTlERjYzMDQwNDk4MzcyMEIuY0dGeVlXMGZNamxrTVRFM01UZ3RaVGRqWkMwME9XVmtMVGd6TWpjdE1ERTNaalJqTm1VNVpUSTJIblpsY25OcGIyNGZNUjV3YkdGMFptOXliUjloYm1SeWIybGsuabHZtkKHsYMKmR7Z0vrcFP43oYn4PpzwRJV7eaJhdRsbOFmNhRGQMbdeQT%2FmmXeXxXC0SAvpW4zUBsZzFHqM3uzEOEouxHLssKo4sUCuK5Bb0fHrS7s%2BbS42xazMW%2FLYZis9MI0N86z1VfoVTG41hoDb7Kp6T%2BEY0wmgKmarBOVQI4X9lYPzlEffoStanF7Omj%2BGpBvaCgkmHAUprZksMlTFVB%2FFETeyFCxCHMh3MO7hU4SvqF%2B2OUIFM5bUKIzRfNfEcBH1cJTZNl31Q6xpWTn2XjnQ6Q6QRFJinw6tXaqqQePRFLJT%2B%2BKn4SWCmwpdoMZbCDH5v0H5TBsSi0gAsr1dekRga8dpyQbYnuHFmmzRtwKyYHZUUTADQIv3fT1z15wEdLv3vK%2FnLaakL%2FmRUwPvprH0u7B2aaIOey4tgKiGm4WO78IewT1rT78oEwJAtg%2FXaxjl8OrwHoGLnu5tZ9bZrVtw9D%2FsHRoanLCjV6lNT%2BwfGtnSeU8NrbRO1p8kM9DzTvyD7n3NenE7VWJPpjBwo6GvoiJ6sMd4gaH7MKYeTw9KW8JGyk4gURc7IMuLO8aR9a%2F2sskBrE%2B7fVucCt%2Bp1XBf7cZxWdAjGgDJSYZHfqd5pyiUKSb1N65aEd%2BUH15lhewYcWtxQ13Gmm4Qj6jW8YTYszUMoESbRSMwS4RY
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.crawlPageSourceWithJsoup(QutoutiaoDataInfoCrawler.java:255)] crawlPageSource::url=http://yent.hoseceo.cn/share/detail/video_out.html?content_id=106786108&key=d6472Y73Iwlhlj2AFCBq-pMW0o1zjP4mBJ9i4HB9lW4jrZK_4oigshY14CFOe3e00FZnP4DUfCbnnxKWm4hm4u4WPGESyhiLLAyVfvc47lKMQ7c8jP1J_QRgjwETBPBqGR4fXzn2dt5ge88hfWY&pv_id=%7B5D7D2FD9-9B7F-EAFF-47A7-F8D2F57FC08F%7D&cid=255&jsonp=http%3A%2F%2Fhtml2.qktoutiao.com%2Fdetail%2Fjsonp%2F106787%2F1067862%2F10678611%2F106786108.js&fr=11&i=3526562562
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:132)] *******************************************************
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:133)] id:106786108
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:134)] title:30岁小姑娘热情演绎《傻子》，气场十足！
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:135)] source:独倚望江楼
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:136)] publish_time:2018-06-19 20:59:58
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:137)] thumbnail:http://static.1sapp.com/qupost/image/sp/2018/06/19/1529412055398.jpeg?imageView2/2/w/1000/h/600/q/70
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:138)] url:http://html2.qktoutiao.com/detail/2018/06/19/106786108.html?content_id=106786108&key=a223raV7guhuaXQkbzufqtDrFwmMGp3OBqGycQ0aOaRB8PC93t_SuGZpl24BoJupJgPBnach2Qf0n8fWvuqH4Ti4Lhvf0NwiI1FvoV7dcNFMBpj5gCl-IN4xdZPQ_WeRVNUCfumfMcqetQl1x34&pv_id=%7B5D7D2FD9-9B7F-EAFF-47A7-F8D2F57FC08F%7D&cid=255&cat=39&rss_source=%E7%8B%AC%E5%80%9A%E6%9C%9B%E6%B1%9F%E6%A5%BC&fr=11&hj=0&mod_id=42&o=2&p=2&fqc_flag=0&skip_ad=0
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:139)] shareUrl:http://yent.hoseceo.cn/share/detail/video_out.html?content_id=106786108&key=d6472Y73Iwlhlj2AFCBq-pMW0o1zjP4mBJ9i4HB9lW4jrZK_4oigshY14CFOe3e00FZnP4DUfCbnnxKWm4hm4u4WPGESyhiLLAyVfvc47lKMQ7c8jP1J_QRgjwETBPBqGR4fXzn2dt5ge88hfWY&pv_id=%7B5D7D2FD9-9B7F-EAFF-47A7-F8D2F57FC08F%7D&cid=255&jsonp=http%3A%2F%2Fhtml2.qktoutiao.com%2Fdetail%2Fjsonp%2F106787%2F1067862%2F10678611%2F106786108.js&fr=11&i=3526562562
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:140)] introduction:
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:141)] tags:["美女","户外","情","老歌","单曲","抒情"]
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:142)] cover:["http://static.1sapp.com/qupost/image/sp/2018/06/19/1529412055398.jpeg?imageView2/2/w/1000/h/600/q/70"]
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:143)] type:39
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:109)] ======================================广告信息，跳过。。。
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.crawlPageSourceWithJsoup(QutoutiaoDataInfoCrawler.java:255)] crawlPageSource::url=http://yent.hoseceo.cn/share/detail/video_out.html?content_id=106778817&key=2b17OG7Vr4ufTJ8oEDLnZQFNXdsMLt2U6oC9yC5qvuOjjWZNE0AOpnS3zzObHKyomjcgwo0REmdKIIu5N7TFKDZu3JnYGEhKG4yw08TLMd8IYNMuaKWBPXs7N7r4qEpzT9cYt6itCvvnn_0qiHU&pv_id=%7B5D7D2FD9-9B7F-EAFF-47A7-F8D2F57FC08F%7D&cid=255&jsonp=http%3A%2F%2Fhtml2.qktoutiao.com%2Fdetail%2Fjsonp%2F106779%2F1067789%2F10677882%2F106778817.js&fr=11&i=3526562562
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:132)] *******************************************************
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:133)] id:106778817
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:134)] title:家里的洗手液再也不用买，教你自制一瓶，便宜又好用，洗完特别香
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:135)] source:历史高压锅
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:136)] publish_time:2018-06-19 20:17:38
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:137)] thumbnail:http://static.1sapp.com/qupost/image/sp/2018/06/19/1529405681263.jpeg?imageView2/2/w/1000/h/600/q/70
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:138)] url:http://html2.qktoutiao.com/detail/2018/06/19/106778817.html?content_id=106778817&key=8056J5WTomo3fjn90eHBE1k_Hk27Z0vvihKMr8LF2ZeD3Z2ovfIf5Cr4Dv3fr1OBYbRodPRv9hCDHni4z6zOheu_ZH-VtMQQcq2CL4iIVQ1zt7H4fwtN9eP63jkZ8aoPtVPIW5FlR215TvbBBeQ&pv_id=%7B5D7D2FD9-9B7F-EAFF-47A7-F8D2F57FC08F%7D&cid=255&cat=8&rss_source=%E5%8E%86%E5%8F%B2%E9%AB%98%E5%8E%8B%E9%94%85&fr=11&hj=0&mod_id=42&o=2&p=2&fqc_flag=0&skip_ad=0
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:139)] shareUrl:http://yent.hoseceo.cn/share/detail/video_out.html?content_id=106778817&key=2b17OG7Vr4ufTJ8oEDLnZQFNXdsMLt2U6oC9yC5qvuOjjWZNE0AOpnS3zzObHKyomjcgwo0REmdKIIu5N7TFKDZu3JnYGEhKG4yw08TLMd8IYNMuaKWBPXs7N7r4qEpzT9cYt6itCvvnn_0qiHU&pv_id=%7B5D7D2FD9-9B7F-EAFF-47A7-F8D2F57FC08F%7D&cid=255&jsonp=http%3A%2F%2Fhtml2.qktoutiao.com%2Fdetail%2Fjsonp%2F106779%2F1067789%2F10677882%2F106778817.js&fr=11&i=3526562562
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:140)] introduction:
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:141)] tags:["小窍门","生活","妙招"]
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:142)] cover:["http://static.1sapp.com/qupost/image/sp/2018/06/19/1529405681263.jpeg?imageView2/2/w/1000/h/600/q/70"]
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:143)] type:8
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.crawlPageSourceWithJsoup(QutoutiaoDataInfoCrawler.java:255)] crawlPageSource::url=http://yent.hoseceo.cn/detail/share/106577/1065768/10657672/106576713.html?content_id=106576713&key=b302_hd-NL4qQ8mS-00MdlmXdzg3J6dtmhjIHnSkL7-fSW1zL9uz33hQzpuF_glbkoskZ5bZus79QySm4cXHHhgXWo8iBAWTkAYvvSKSXTZLO1gg8s5MLorzX7EjUxJH2ZSXTfUlv1YJvyp1sFM&pv_id=%7B5D7D2FD9-9B7F-EAFF-47A7-F8D2F57FC08F%7D&cid=255&fr=11&i=3526562562
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:132)] *******************************************************
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:133)] id:106576713
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:134)] title:继《花千骨》后，马克又一部剧未播先火，网友：熬夜也要追完
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:135)] source:花开不败聊娱乐
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:136)] publish_time:2018-06-18 15:55:23
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:137)] thumbnail:http://static.1sapp.com/qupost/image/sp/2018/06/17/1529203228278.jpeg?imageView2/2/w/200/h/150/q/70
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:138)] url:http://html2.qktoutiao.com/detail/2018/06/18/106576713.html?content_id=106576713&key=8c18fGjBxGVE4Qb3G_DjfBvpt5z9_cp6bIRl-nYMqRDQ5PKXnHv9ZdKuXaknmJd5deT5GKq5aMbPSaVpcNYOEVh4gTUEH06pe0fvU-e3AP8C5WFut4jZmpglZTCIBMRfo1TKMEMQSuMJOJiD6wg&pv_id=%7B5D7D2FD9-9B7F-EAFF-47A7-F8D2F57FC08F%7D&cid=255&cat=6&rss_source=&fr=11&hj=0&mod_id=42&o=2&p=2&fqc_flag=0&skip_ad=0
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:139)] shareUrl:http://yent.hoseceo.cn/detail/share/106577/1065768/10657672/106576713.html?content_id=106576713&key=b302_hd-NL4qQ8mS-00MdlmXdzg3J6dtmhjIHnSkL7-fSW1zL9uz33hQzpuF_glbkoskZ5bZus79QySm4cXHHhgXWo8iBAWTkAYvvSKSXTZLO1gg8s5MLorzX7EjUxJH2ZSXTfUlv1YJvyp1sFM&pv_id=%7B5D7D2FD9-9B7F-EAFF-47A7-F8D2F57FC08F%7D&cid=255&fr=11&i=3526562562
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:140)] introduction:《花千骨》是由霍建华、赵丽颖领衔主演，蒋欣、杨烁特别出演，张丹峰、马可、李纯、鲍天琦、安悦溪、徐海乔等主演的古装玄幻仙侠剧。  马可饰演杀阡陌，六界第一美人，妖魔两界之王，被尊称为圣君。因为琉夏的遗憾
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:141)] tags:["娱乐","王晓晨","马可","领衔主演","张丹枫","阡"]
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:142)] cover:["http://static.1sapp.com/qupost/image/sp/2018/06/17/1529203228278.jpeg?imageView2/2/w/200/h/150/q/70","http://static.1sapp.com/qupost/image/sp/2018/06/17/1529203229927.jpeg?imageView2/2/w/200/h/150/q/70","http://static.1sapp.com/qupost/image/sp/2018/06/17/1529203230445.jpeg?imageView2/2/w/200/h/150/q/70"]
+[INFO]2018-06-19 21:34:52[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:143)] type:6
+[INFO]2018-06-19 21:34:52[com.mongodb.diagnostics.logging.SLF4JLogger.info(SLF4JLogger.java:71)] Cluster created with settings {hosts=[bizapi.pezy.cn:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[INFO]2018-06-19 21:34:52[com.mongodb.diagnostics.logging.SLF4JLogger.info(SLF4JLogger.java:71)] No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, serverDescriptions=[ServerDescription{address=bizapi.pezy.cn:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+[INFO]2018-06-19 21:34:52[com.mongodb.diagnostics.logging.SLF4JLogger.info(SLF4JLogger.java:71)] Opened connection [connectionId{localValue:1, serverValue:1892}] to bizapi.pezy.cn:27017
+[INFO]2018-06-19 21:34:52[com.mongodb.diagnostics.logging.SLF4JLogger.info(SLF4JLogger.java:71)] Monitor thread successfully connected to server with description ServerDescription{address=bizapi.pezy.cn:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 15]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=3593413}
+[INFO]2018-06-19 21:34:52[com.mongodb.diagnostics.logging.SLF4JLogger.info(SLF4JLogger.java:71)] Opened connection [connectionId{localValue:2, serverValue:1893}] to bizapi.pezy.cn:27017
+[INFO]2018-06-19 21:34:52[com.kpcoin.utils.mongo.NewsInfoMongoUtil.saveNewsInfo(NewsInfoMongoUtil.java:114)] save newsItem info result:1
+[INFO]2018-06-19 21:34:53[com.kpcoin.utils.ImageUtil.calcImgSize(ImageUtil.java:35)] imgUrl:http://static.1sapp.com/qupost/image/20180617/d3/d3748189e1772d93d38ce1c3f425c904133d68dd.jpg, imgWidth:523, imgHeight:768
+[INFO]2018-06-19 21:34:53[com.kpcoin.utils.ImageUtil.calcImgSize(ImageUtil.java:35)] imgUrl:http://static.1sapp.com/qupost/image/20180617/d2/d2fe0889a8a4836fa955db200ddcf74203efa2d8.jpg, imgWidth:700, imgHeight:1065
+[INFO]2018-06-19 21:34:53[com.kpcoin.utils.ImageUtil.calcImgSize(ImageUtil.java:35)] imgUrl:http://static.1sapp.com/qupost/image/20180617/37/371a0530fb54e3ad2f28a4e4d73bc47859d5618f.jpg, imgWidth:520, imgHeight:724
+[INFO]2018-06-19 21:34:53[com.kpcoin.utils.ImageUtil.calcImgSize(ImageUtil.java:35)] imgUrl:http://static.1sapp.com/qupost/image/20180617/75/7500a17a88362f9a6606f343d65ac0063407b923.jpg, imgWidth:674, imgHeight:900
+[INFO]2018-06-19 21:34:53[com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:120)] write to kafka ==> null
+[INFO]2018-06-19 21:34:53[com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:121)] write to kafka data****************************************
+[INFO]2018-06-19 21:34:53[com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:122)] title:继《花千骨》后，马克又一部剧未播先火，网友：熬夜也要追完
+[INFO]2018-06-19 21:34:53[com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:123)] thumbnail:http://static.1sapp.com/qupost/image/sp/2018/06/17/1529203228278.jpeg?imageView2/2/w/200/h/150/q/70
+[INFO]2018-06-19 21:34:53[com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:124)] thumbnailImgs:[{"height":"","width":"","url":"http://static.1sapp.com/qupost/image/sp/2018/06/17/1529203228278.jpeg?imageView2/2/w/200/h/150/q/70"},{"height":"","width":"","url":"http://static.1sapp.com/qupost/image/sp/2018/06/17/1529203229927.jpeg?imageView2/2/w/200/h/150/q/70"},{"height":"","width":"","url":"http://static.1sapp.com/qupost/image/sp/2018/06/17/1529203230445.jpeg?imageView2/2/w/200/h/150/q/70"}]
+[INFO]2018-06-19 21:34:53[com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:125)] imgs:[{"height":768,"width":523,"url":"http://static.1sapp.com/qupost/image/20180617/d3/d3748189e1772d93d38ce1c3f425c904133d68dd.jpg"},{"height":1065,"width":700,"url":"http://static.1sapp.com/qupost/image/20180617/d2/d2fe0889a8a4836fa955db200ddcf74203efa2d8.jpg"},{"height":724,"width":520,"url":"http://static.1sapp.com/qupost/image/20180617/37/371a0530fb54e3ad2f28a4e4d73bc47859d5618f.jpg"},{"height":900,"width":674,"url":"http://static.1sapp.com/qupost/image/20180617/75/7500a17a88362f9a6606f343d65ac0063407b923.jpg"}]
+[INFO]2018-06-19 21:34:53[org.apache.kafka.common.config.AbstractConfig.logAll(AbstractConfig.java:180)] ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	block.on.buffer.full = false
+	bootstrap.servers = [sd001:9092, sd002:9092, sd003:9092, sd004:9092, sd005:9092, sd006:9092, sd007:9092]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.fetch.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	timeout.ms = 30000
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+[INFO]2018-06-19 21:34:53[org.apache.kafka.common.config.AbstractConfig.logAll(AbstractConfig.java:180)] ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	block.on.buffer.full = false
+	bootstrap.servers = [sd001:9092, sd002:9092, sd003:9092, sd004:9092, sd005:9092, sd006:9092, sd007:9092]
+	buffer.memory = 33554432
+	client.id = producer-1
+	compression.type = none
+	connections.max.idle.ms = 540000
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.fetch.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	timeout.ms = 30000
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+[WARN]2018-06-19 21:34:53[org.apache.kafka.common.config.AbstractConfig.logUnused(AbstractConfig.java:188)] The configuration 'request.required.acks' was supplied but isn't a known config.
+[WARN]2018-06-19 21:34:53[org.apache.kafka.common.config.AbstractConfig.logUnused(AbstractConfig.java:188)] The configuration 'metadata.broker.list' was supplied but isn't a known config.
+[WARN]2018-06-19 21:34:53[org.apache.kafka.common.config.AbstractConfig.logUnused(AbstractConfig.java:188)] The configuration 'key.serializer.class' was supplied but isn't a known config.
+[WARN]2018-06-19 21:34:53[org.apache.kafka.common.config.AbstractConfig.logUnused(AbstractConfig.java:188)] The configuration 'serializer.class' was supplied but isn't a known config.
+[INFO]2018-06-19 21:34:53[org.apache.kafka.common.utils.AppInfoParser$AppInfo.<init>(AppInfoParser.java:83)] Kafka version : 0.10.1.0
+[INFO]2018-06-19 21:34:53[org.apache.kafka.common.utils.AppInfoParser$AppInfo.<init>(AppInfoParser.java:84)] Kafka commitId : 3402a74efb23d1d4

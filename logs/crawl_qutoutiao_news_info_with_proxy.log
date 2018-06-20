@@ -1,0 +1,161 @@
+[INFO]2018-06-20 16:36:26[com.kpcoin.utils.proxy.ProxyPool.regainExpireProxyList(ProxyPool.java:224)] 账户余额：50
+[INFO]2018-06-20 16:36:26[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.scheduledCrawlNewsInfo(QutoutiaoDataInfoCrawler.java:100)] proxyInfo:{"expireTime":"2018-06-20 17:05:41","port":4578,"index":42,"ip":"101.205.44.132"}
+[INFO]2018-06-20 16:36:26[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.crawlPageSourceWithJavaURL(QutoutiaoDataInfoCrawler.java:311)] crawlPageSource::url=https://api.1sapp.com/content/getListV2?qdata=NjE3OTQ1M0M1NDBBMUM5NTlERjYzMDQwNDk4MzcyMEIuY0dGeVlXMGZNamxrTVRFM01UZ3RaVGRqWkMwME9XVmtMVGd6TWpjdE1ERTNaalJqTm1VNVpUSTJIblpsY25OcGIyNGZNUjV3YkdGMFptOXliUjloYm1SeWIybGsuabHZtkKHsYMKmR7Z0vrcFP43oYn4PpzwRJV7eaJhdRsbOFmNhRGQMbdeQT%2FmmXeXxXC0SAvpW4zUBsZzFHqM3uzEOEouxHLssKo4sUCuK5Bb0fHrS7s%2BbS42xazMW%2FLYZis9MI0N86z1VfoVTG41hoDb7Kp6T%2BEY0wmgKmarBOVQI4X9lYPzlEffoStanF7Omj%2BGpBvaCgkmHAUprZksMlTFVB%2FFETeyFCxCHMh3MO7hU4SvqF%2B2OUIFM5bUKIzRfNfEcBH1cJTZNl31Q6xpWTn2XjnQ6Q6QRFJinw6tXaqqQePRFLJT%2B%2BKn4SWCmwpdoMZbCDH5v0H5TBsSi0gAsr1dekRga8dpyQbYnuHFmmzRtwKyYHZUUTADQIv3fT1z15wEdLv3vK%2FnLaakL%2FmRUwPvprH0u7B2aaIOey4tgKiGm4WO78IewT1rT78oEwJAtg%2FXaxjl8OrwHoGLnu5tZ9bZrVtw9D%2FsHRoanLCjV6lNT%2BwfGtnSeU8NrbRO1p8kM9DzTvyD7n3NenE7VWJPpjBwo6GvoiJ6sMd4gaH7MKYeTw9KW8JGyk4gURc7IMuLO8aR9a%2F2sskBrE%2B7fVucCt%2Bp1XBf7cZxWdAjGgDJSYZHfqd5pyiUKSb1N65aEd%2BUH15lhewYcWtxQ13Gmm4Qj6jW8YTYszUMoESbRSMwS4RY
+[INFO]2018-06-20 16:36:27[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.crawlPageSourceWithJsoup(QutoutiaoDataInfoCrawler.java:283)] crawlPageSource::url=http://yent.hoseceo.cn/share/detail/video_out.html?content_id=106737693&key=6653-prEJmJ6n_D3s1YnilyEgDhqdqsOeXhKTnNtHokGbQ7dKMoInNscU1NaAHErYKoV-QD7SNPSVvqRzasNtDsLWmnoS_gmbhITid5lVW8RKx1tPNM5o3WKawcyar6rv0R5-BhTqqFgjiTyL0s&pv_id=%7BEAD00234-52E9-6602-7B08-A1963D537562%7D&cid=255&jsonp=http%3A%2F%2Fhtml2.qktoutiao.com%2Fdetail%2Fjsonp%2F106738%2F1067377%2F10673770%2F106737693.js&fr=11&i=1707945092
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:151)] *******************************************************
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:152)] id:106737693
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:153)] title:实在是太甜了，女孩刚醒来总裁就开始不老实了，又想骗人家恋爱了
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:154)] source:烟花在美也只是瞬间
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:155)] publish_time:2018-06-20 07:27:11
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:156)] thumbnail:http://static.1sapp.com/videosnapshot/cbda8cd23422438591833fa6d4958eca/00003.jpg?imageView2/2/w/1000/h/600/q/70/format/jpeg
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:157)] url:http://html2.qktoutiao.com/detail/2018/06/19/106737693.html?content_id=106737693&key=e6aedB9QRO_MKMjgcEY6PWsCh0DG8KKrAfKGzL9gdPdZoPBtJbuZ6uC9cBqsmSnwFUQCn40vaaegqvZ7I4Igu73l0uptJ5FSgcFmzcCnyFVfDXh3v8B7nznEqTCM43zcqhMdUr30cT8tjGqFfuM&pv_id=%7BEAD00234-52E9-6602-7B08-A1963D537562%7D&cid=255&cat=22&rss_source=%E7%83%9F%E8%8A%B1%E5%9C%A8%E7%BE%8E%E4%B9%9F%E5%8F%AA%E6%98%AF%E7%9E%AC%E9%97%B4&fr=11&hj=0&mod_id=42&o=2&p=2&fqc_flag=0&skip_ad=0
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:158)] shareUrl:http://yent.hoseceo.cn/share/detail/video_out.html?content_id=106737693&key=6653-prEJmJ6n_D3s1YnilyEgDhqdqsOeXhKTnNtHokGbQ7dKMoInNscU1NaAHErYKoV-QD7SNPSVvqRzasNtDsLWmnoS_gmbhITid5lVW8RKx1tPNM5o3WKawcyar6rv0R5-BhTqqFgjiTyL0s&pv_id=%7BEAD00234-52E9-6602-7B08-A1963D537562%7D&cid=255&jsonp=http%3A%2F%2Fhtml2.qktoutiao.com%2Fdetail%2Fjsonp%2F106738%2F1067377%2F10673770%2F106737693.js&fr=11&i=1707945092
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:159)] introduction:
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:160)] tags:["辣眼睛","霸道总裁","使坏"]
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:161)] cover:["http://static.1sapp.com/videosnapshot/cbda8cd23422438591833fa6d4958eca/00003.jpg?imageView2/2/w/1000/h/600/q/70/format/jpeg"]
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:162)] type:22
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:128)] ======================================广告信息，跳过。。。
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.crawlPageSourceWithJsoup(QutoutiaoDataInfoCrawler.java:283)] crawlPageSource::url=http://yent.hoseceo.cn/detail/share/106831/1068302/10683019/106830187.html?content_id=106830187&key=15d0dy29mCsBoPu1dICedh6pwncOvhLbenaAsJEIElCyXcLYca2sFjlXNDWs7MdA7MJLyCh8TaKCj6fqEo-q4ofXTPirKj0-2JDqsgiz8L1K6e6nFGarJnCaXHDkFtCEtDTlnkqB6oaRbYMjzxM&pv_id=%7BEAD00234-52E9-6602-7B08-A1963D537562%7D&cid=255&fr=11&i=1707945092
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:151)] *******************************************************
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:152)] id:106830187
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:153)] title:时尚街拍：5个身材丰满的小姐姐，哪个更性感？
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:154)] source:小女的养生
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:155)] publish_time:2018-06-20 03:10:45
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:156)] thumbnail:http://static.1sapp.com/qupost/image/sp/2018/06/20/1529431653440.jpeg?imageView2/2/w/200/h/150/q/70
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:157)] url:http://html2.qktoutiao.com/detail/2018/06/20/106830187.html?content_id=106830187&key=dccfSLQwrhL-L7Ud_MJRPrg7HBWywFBqJoxu1RJrxe5oRdEDjHSMX6lPhaSkuT5ZrMSV_ZnlPhcc7KnoFtWUrzKzYf-JIxqjvE_v7YH4hGxzqaVa2gEJln0F0LBh0DUgNjZzz4dq2295JVfxsks&pv_id=%7BEAD00234-52E9-6602-7B08-A1963D537562%7D&cid=255&cat=14&rss_source=&fr=11&hj=0&mod_id=42&o=2&p=2&fqc_flag=0&skip_ad=0
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:158)] shareUrl:http://yent.hoseceo.cn/detail/share/106831/1068302/10683019/106830187.html?content_id=106830187&key=15d0dy29mCsBoPu1dICedh6pwncOvhLbenaAsJEIElCyXcLYca2sFjlXNDWs7MdA7MJLyCh8TaKCj6fqEo-q4ofXTPirKj0-2JDqsgiz8L1K6e6nFGarJnCaXHDkFtCEtDTlnkqB6oaRbYMjzxM&pv_id=%7BEAD00234-52E9-6602-7B08-A1963D537562%7D&cid=255&fr=11&i=1707945092
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:159)] introduction:街拍到5个身材丰满的小姐姐，各有特色的美，紧身衣、包臀裙、热裤、牛仔裤，你觉得哪个更性感？这个小姐姐穿了一件白色紧身长裙，由于是紧身短款的设计，所以小姐姐的大长腿都露在外面了，尤为的性感迷人，加上这个
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:160)] tags:["街拍","性感","丰满","小姐姐"]
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:161)] cover:["http://static.1sapp.com/qupost/image/sp/2018/06/20/1529431653440.jpeg?imageView2/2/w/200/h/150/q/70","http://static.1sapp.com/qupost/image/sp/2018/06/20/1529431658190.jpeg?imageView2/2/w/200/h/150/q/70","http://static.1sapp.com/qupost/image/sp/2018/06/20/1529431662905.jpeg?imageView2/2/w/200/h/150/q/70"]
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:162)] type:14
+[INFO]2018-06-20 16:36:28[com.kpcoin.utils.ImageUtil.calcImgSize(ImageUtil.java:35)] imgUrl:http://static.1sapp.com/qupost/image/sp/2018/06/20/1529431653440.jpeg?imageView2/2/w/200/h/150/q/70, imgWidth:200, imgHeight:133
+[INFO]2018-06-20 16:36:28[com.kpcoin.utils.ImageUtil.calcImgSize(ImageUtil.java:35)] imgUrl:http://static.1sapp.com/qupost/image/sp/2018/06/20/1529431658190.jpeg?imageView2/2/w/200/h/150/q/70, imgWidth:200, imgHeight:133
+[INFO]2018-06-20 16:36:28[com.kpcoin.utils.ImageUtil.calcImgSize(ImageUtil.java:35)] imgUrl:http://static.1sapp.com/qupost/image/sp/2018/06/20/1529431662905.jpeg?imageView2/2/w/200/h/150/q/70, imgWidth:200, imgHeight:133
+[INFO]2018-06-20 16:36:28[com.mongodb.diagnostics.logging.SLF4JLogger.info(SLF4JLogger.java:71)] Cluster created with settings {hosts=[bizapi.pezy.cn:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[INFO]2018-06-20 16:36:28[com.mongodb.diagnostics.logging.SLF4JLogger.info(SLF4JLogger.java:71)] No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, serverDescriptions=[ServerDescription{address=bizapi.pezy.cn:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+[INFO]2018-06-20 16:36:28[com.mongodb.diagnostics.logging.SLF4JLogger.info(SLF4JLogger.java:71)] Opened connection [connectionId{localValue:1, serverValue:1970}] to bizapi.pezy.cn:27017
+[INFO]2018-06-20 16:36:28[com.mongodb.diagnostics.logging.SLF4JLogger.info(SLF4JLogger.java:71)] Monitor thread successfully connected to server with description ServerDescription{address=bizapi.pezy.cn:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 15]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=4079090}
+[INFO]2018-06-20 16:36:28[com.mongodb.diagnostics.logging.SLF4JLogger.info(SLF4JLogger.java:71)] Opened connection [connectionId{localValue:2, serverValue:1971}] to bizapi.pezy.cn:27017
+[INFO]2018-06-20 16:36:28[com.kpcoin.utils.mongo.NewsInfoMongoUtil.saveNewsInfo(NewsInfoMongoUtil.java:114)] save newsItem info result:1
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.QutoutiaoDataInfoCrawler.extractNewsListInfo(QutoutiaoDataInfoCrawler.java:187)] now the counter is ========================>1
+[INFO]2018-06-20 16:36:28[com.kpcoin.utils.ImageUtil.calcImgSize(ImageUtil.java:35)] imgUrl:http://static.1sapp.com/qupost/image/20180620/c1/c18b02a16210a59f7993b61870056a08fdfa31cc.jpg, imgWidth:479, imgHeight:746
+[INFO]2018-06-20 16:36:28[com.kpcoin.utils.ImageUtil.calcImgSize(ImageUtil.java:35)] imgUrl:http://static.1sapp.com/qupost/image/20180620/72/72ea36697c775c4d34f4221828faac1bd93ed34f.jpg, imgWidth:667, imgHeight:1000
+[INFO]2018-06-20 16:36:28[com.kpcoin.utils.ImageUtil.calcImgSize(ImageUtil.java:35)] imgUrl:http://static.1sapp.com/qupost/image/20180620/89/89562ba76c5bf33c20155c7927726d1bd3a16452.jpg, imgWidth:640, imgHeight:960
+[INFO]2018-06-20 16:36:28[com.kpcoin.utils.ImageUtil.calcImgSize(ImageUtil.java:35)] imgUrl:http://static.1sapp.com/qupost/image/20180620/a4/a44d0e503e7b29f9baeaa1aaf74b4baa0e7f4724.jpg, imgWidth:953, imgHeight:1430
+[INFO]2018-06-20 16:36:28[com.kpcoin.utils.ImageUtil.calcImgSize(ImageUtil.java:35)] imgUrl:http://static.1sapp.com/qupost/image/20180620/45/456e80e27148cc2e61d24a7c40e009dab2a3075d.jpg, imgWidth:632, imgHeight:982
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:120)] write to kafka ==> null
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:121)] write to kafka data****************************************
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:122)] title:时尚街拍：5个身材丰满的小姐姐，哪个更性感？
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:123)] thumbnail:http://static.1sapp.com/qupost/image/sp/2018/06/20/1529431653440.jpeg?imageView2/2/w/200/h/150/q/70
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:124)] thumbnailImgs:[{"height":133,"width":200,"url":"http://static.1sapp.com/qupost/image/sp/2018/06/20/1529431653440.jpeg?imageView2/2/w/200/h/150/q/70"},{"height":133,"width":200,"url":"http://static.1sapp.com/qupost/image/sp/2018/06/20/1529431658190.jpeg?imageView2/2/w/200/h/150/q/70"},{"height":133,"width":200,"url":"http://static.1sapp.com/qupost/image/sp/2018/06/20/1529431662905.jpeg?imageView2/2/w/200/h/150/q/70"}]
+[INFO]2018-06-20 16:36:28[com.kpcoin.crawlers.BaseCrawler.writeNewsInfoToKafka(BaseCrawler.java:125)] imgs:[{"height":746,"width":479,"url":"http://static.1sapp.com/qupost/image/20180620/c1/c18b02a16210a59f7993b61870056a08fdfa31cc.jpg"},{"height":1000,"width":667,"url":"http://static.1sapp.com/qupost/image/20180620/72/72ea36697c775c4d34f4221828faac1bd93ed34f.jpg"},{"height":960,"width":640,"url":"http://static.1sapp.com/qupost/image/20180620/89/89562ba76c5bf33c20155c7927726d1bd3a16452.jpg"},{"height":1430,"width":953,"url":"http://static.1sapp.com/qupost/image/20180620/a4/a44d0e503e7b29f9baeaa1aaf74b4baa0e7f4724.jpg"},{"height":982,"width":632,"url":"http://static.1sapp.com/qupost/image/20180620/45/456e80e27148cc2e61d24a7c40e009dab2a3075d.jpg"}]
+[INFO]2018-06-20 16:36:28[org.apache.kafka.common.config.AbstractConfig.logAll(AbstractConfig.java:180)] ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	block.on.buffer.full = false
+	bootstrap.servers = [sd001:9092, sd002:9092, sd003:9092, sd004:9092, sd005:9092, sd006:9092, sd007:9092]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	connections.max.idle.ms = 540000
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.fetch.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	timeout.ms = 30000
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+[INFO]2018-06-20 16:36:28[org.apache.kafka.common.config.AbstractConfig.logAll(AbstractConfig.java:180)] ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	block.on.buffer.full = false
+	bootstrap.servers = [sd001:9092, sd002:9092, sd003:9092, sd004:9092, sd005:9092, sd006:9092, sd007:9092]
+	buffer.memory = 33554432
+	client.id = producer-1
+	compression.type = none
+	connections.max.idle.ms = 540000
+	interceptor.classes = null
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.fetch.timeout.ms = 60000
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	timeout.ms = 30000
+	value.serializer = class org.apache.kafka.common.serialization.StringSerializer
+
+[WARN]2018-06-20 16:36:29[org.apache.kafka.common.config.AbstractConfig.logUnused(AbstractConfig.java:188)] The configuration 'request.required.acks' was supplied but isn't a known config.
+[WARN]2018-06-20 16:36:29[org.apache.kafka.common.config.AbstractConfig.logUnused(AbstractConfig.java:188)] The configuration 'metadata.broker.list' was supplied but isn't a known config.
+[WARN]2018-06-20 16:36:29[org.apache.kafka.common.config.AbstractConfig.logUnused(AbstractConfig.java:188)] The configuration 'key.serializer.class' was supplied but isn't a known config.
+[WARN]2018-06-20 16:36:29[org.apache.kafka.common.config.AbstractConfig.logUnused(AbstractConfig.java:188)] The configuration 'serializer.class' was supplied but isn't a known config.
+[INFO]2018-06-20 16:36:29[org.apache.kafka.common.utils.AppInfoParser$AppInfo.<init>(AppInfoParser.java:83)] Kafka version : 0.10.1.0
+[INFO]2018-06-20 16:36:29[org.apache.kafka.common.utils.AppInfoParser$AppInfo.<init>(AppInfoParser.java:84)] Kafka commitId : 3402a74efb23d1d4
